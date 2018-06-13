@@ -1,0 +1,69 @@
+#
+# StructureInABox (SiB) config file
+# Version 1.1.1
+#
+
+#
+# Item settings
+# Note: Changing the identifier or box material will make all existing items unusable.
+#
+box-material: CHEST
+display-name: "&2SiB"
+lore-instruction: "&2Place in a free space to spawn the structure"
+lore-identifier: "SiB: "
+
+
+#
+# Restrictions
+#
+
+max-sib-size: 100000
+
+# Turning off "free-space-check" will allow users to overwrite
+# blocks such as chests and obsidian. It is strongly recommended to leave it on.
+# When it's on, you also need to specify the blocks to check against: If
+# "check-all-solid-blocks" is set to "yes", the plugin will check against
+# all solid blocks. If it's set to "no", the plugin will only check against
+# the list under "check-just-specific-blocks".
+#
+# Both "check-all-solid-blocks" and "check-just-specific-blocks" have no effect
+# if free-space-check is set to "no".
+#
+free-space-check: yes
+check-all-solid-blocks: yes
+check-just-specific-blocks:
+  - BEDROCK
+  - LAVA
+  - STATIONARY_LAVA
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - DIAMOND_BLOCK
+  - QUARTZ_BLOCK
+  - OBSIDIAN
+  - CHEST
+  - MOB_SPAWNER
+
+world-guard-check: yes
+
+# If this is yes, the each sib will require the permission structureinabox.use_{sib-id}
+# In addition to structureinabox.use.
+# This is helpful when SiBs are provided in kits to ranks.
+permission-per-sib: no
+
+
+#
+# Sessions (advanced)
+#
+cooldown-time-ms: 5000
+cleanup-interval-ticks: 300
+expired-session-time-ms: 60000
+
+
+#
+# Experimental features (advanced)
+#
+
+# If this is true, the sib block will not disappear after placing a sib
+keep-sib-block: no
+
+

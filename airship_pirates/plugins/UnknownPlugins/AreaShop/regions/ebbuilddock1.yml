@@ -1,0 +1,16 @@
+general:
+  name: ebbuilddock1
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 3232.0
+        y: 63.0
+        z: 6567.0
+      facing: NORTH
+      signType: SIGN_POST
+rent:
+  duration: 1 hour
+  price: 100.0

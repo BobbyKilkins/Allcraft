@@ -1,0 +1,21 @@
+lastAccountName: AlexBoomBox
+timestamps:
+  login: 1520444458081
+  logout: 1520444840733
+  lastteleport: 1520444840233
+ipAddress: 192.168.1.1
+logoutlocation:
+  world: world
+  x: -413.5
+  y: 111.0
+  z: 199.5
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: world
+  x: 64.43052405408824
+  y: 70.0
+  z: 150.4054395288684
+  yaw: 3.6858501
+  pitch: 24.873577
+afk: false

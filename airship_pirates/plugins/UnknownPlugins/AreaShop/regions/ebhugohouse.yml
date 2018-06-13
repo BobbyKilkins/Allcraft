@@ -1,0 +1,15 @@
+general:
+  name: ebhugohouse
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 2962.0
+        y: 67.0
+        z: 6654.0
+      facing: SOUTH
+      signType: WALL_SIGN
+buy:
+  price: 500000.0

@@ -1,0 +1,5018 @@
+Brew:
+  '-2':
+    quality: 6
+    distillRuns: 1
+    wood: 0.0
+    recipe: Vodka
+    ingId: 0
+  '-3':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 1
+  '-4':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 1
+  '-5':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 1
+  '-6':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 2
+  '-7':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 2
+  '-8':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 2
+  '-9':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 3
+  '-10':
+    wood: 0.0
+    ingId: 4
+  '-11':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 3
+  '-12':
+    wood: 0.0
+    ingId: 5
+  '-13':
+    wood: 0.0
+    ingId: 5
+  '-14':
+    wood: 0.0
+    ingId: 5
+  '-15':
+    wood: 0.0
+    ingId: 6
+  '-16':
+    wood: 0.0
+    ingId: 6
+  '-17':
+    wood: 0.0
+    ingId: 6
+  '-18':
+    distillRuns: 2
+    ageTime: 0.6
+    wood: 4.0
+    ingId: 7
+  '-19':
+    wood: 0.0
+    ingId: 8
+  '-20':
+    ageTime: 0.40000004
+    wood: 0.0
+    ingId: 9
+  '-21':
+    wood: 0.0
+    ingId: 10
+  '-22':
+    wood: 0.0
+    ingId: 11
+  '-23':
+    wood: 0.0
+    ingId: 11
+  '-24':
+    quality: 4
+    distillRuns: 2
+    ageTime: 0.75000006
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 12
+  '-25':
+    quality: 10
+    ageTime: 3.0
+    wood: 0.0
+    recipe: Beer
+    stat: true
+    ingId: 13
+  '-26':
+    quality: 4
+    distillRuns: 2
+    ageTime: 0.55
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 14
+  '-27':
+    quality: 9
+    ageTime: 0.8000001
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 15
+  '-28':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 16
+  '-29':
+    quality: 9
+    ageTime: 0.50000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 17
+  '-30':
+    ageTime: 1.8000003
+    wood: 2.0
+    ingId: 18
+  '-31':
+    quality: 9
+    ageTime: 0.50000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 19
+  '-32':
+    quality: 9
+    ageTime: 0.50000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 19
+  '-33':
+    quality: 9
+    ageTime: 0.50000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 19
+  '-34':
+    quality: 9
+    ageTime: 0.50000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 20
+  '-35':
+    quality: 9
+    ageTime: 0.50000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 20
+  '-36':
+    quality: 9
+    ageTime: 0.50000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 20
+  '-38':
+    wood: 0.0
+    ingId: 21
+  '-39':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 22
+  '-40':
+    wood: 0.0
+    ingId: 23
+  '-41':
+    quality: 9
+    ageTime: 0.55
+    wood: 2.0
+    recipe: Mead
+    ingId: 24
+  '-42':
+    quality: 9
+    ageTime: 0.55
+    wood: 2.0
+    recipe: Mead
+    ingId: 24
+  '-43':
+    quality: 9
+    ageTime: 0.55
+    wood: 2.0
+    recipe: Mead
+    ingId: 24
+  '-44':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 25
+  '-45':
+    wood: 0.0
+    ingId: 26
+  '-46':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 25
+  '-47':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 27
+  '-48':
+    quality: 9
+    ageTime: 3.9000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 28
+  '-49':
+    quality: 9
+    ageTime: 0.5500001
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 29
+  '-50':
+    quality: 9
+    ageTime: 0.6000001
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 30
+  '-51':
+    quality: 9
+    ageTime: 0.6000001
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 30
+  '-52':
+    quality: 9
+    ageTime: 0.5500001
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 30
+  '-53':
+    quality: 9
+    ageTime: 3.9000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 31
+  '-54':
+    quality: 9
+    ageTime: 3.9000006
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 31
+  '-55':
+    quality: 9
+    ageTime: 0.6000001
+    wood: 4.0
+    recipe: Wheatbeer
+    ingId: 31
+  '-56':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 32
+  '-58':
+    wood: 0.0
+    ingId: 32
+  '-59':
+    quality: 7
+    distillRuns: 2
+    ageTime: 3.0
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 33
+  '-60':
+    quality: 8
+    distillRuns: 2
+    ageTime: 1259.1144
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 34
+  '-61':
+    distillRuns: 3
+    ageTime: 284.90408
+    wood: 5.0
+    ingId: 35
+  '-62':
+    wood: 0.0
+    ingId: 36
+  '-63':
+    quality: 7
+    distillRuns: 2
+    ageTime: 6.6500006
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 37
+  '-64':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 38
+  '-65':
+    quality: 9
+    ageTime: 0.65000004
+    wood: 2.0
+    recipe: Mead
+    ingId: 39
+  '-66':
+    wood: 0.0
+    ingId: 40
+  '-67':
+    quality: 9
+    ageTime: 0.65000004
+    wood: 2.0
+    recipe: Mead
+    ingId: 39
+  '-68':
+    quality: 9
+    distillRuns: 2
+    ageTime: 15.500001
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 41
+  '-69':
+    quality: 8
+    distillRuns: 2
+    ageTime: 2.0500002
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 41
+  '-70':
+    quality: 10
+    distillRuns: 2
+    ageTime: 13.350001
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 41
+  '-71':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 27
+  '-72':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 27
+  '-73':
+    quality: 10
+    ageTime: 2.5500002
+    wood: 6.0
+    recipe: Beer
+    ingId: 42
+  '-74':
+    quality: 10
+    ageTime: 2.5500002
+    wood: 6.0
+    recipe: Beer
+    ingId: 42
+  '-75':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 43
+  '-76':
+    quality: 9
+    ageTime: 2.5500002
+    wood: 6.0
+    recipe: Beer
+    ingId: 44
+  '-77':
+    quality: 9
+    ageTime: 2.5500002
+    wood: 6.0
+    recipe: Beer
+    ingId: 44
+  '-78':
+    quality: 9
+    ageTime: 2.5500002
+    wood: 6.0
+    recipe: Beer
+    ingId: 44
+  '-79':
+    quality: 9
+    ageTime: 2.6500003
+    wood: 1.0
+    recipe: Mead
+    ingId: 45
+  '-80':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 43
+  '-81':
+    quality: 9
+    ageTime: 2.6500003
+    wood: 1.0
+    recipe: Mead
+    ingId: 45
+  '-82':
+    quality: 8
+    ageTime: 0.6
+    wood: 5.0
+    recipe: Mead
+    ingId: 46
+  '-83':
+    quality: 10
+    ageTime: 4.3
+    wood: 3.0
+    recipe: Mead
+    ingId: 46
+  '-84':
+    quality: 10
+    ageTime: 4.25
+    wood: 2.0
+    recipe: Mead
+    ingId: 46
+  '-85':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 47
+  '-86':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 48
+  '-87':
+    wood: 0.0
+    ingId: 26
+  '-88':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 49
+  '-89':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 49
+  '-90':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 49
+  '-91':
+    quality: 8
+    ageTime: 15.35004
+    wood: 6.0
+    recipe: Beer
+    ingId: 50
+  '-92':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 51
+  '-93':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 51
+  '-94':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 43
+  '-95':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 52
+  '-96':
+    wood: 0.0
+    ingId: 53
+  '-97':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 54
+  '-98':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 54
+  '-99':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 54
+  '-100':
+    distillRuns: 2
+    wood: 0.0
+    ingId: 55
+  '-101':
+    distillRuns: 2
+    wood: 0.0
+    ingId: 55
+  '-102':
+    distillRuns: 2
+    wood: 0.0
+    ingId: 55
+  '-103':
+    wood: 0.0
+    ingId: 56
+  '-104':
+    wood: 0.0
+    ingId: 56
+  '-105':
+    wood: 0.0
+    ingId: 56
+  '-106':
+    wood: 0.0
+    ingId: 57
+  '-107':
+    wood: 0.0
+    ingId: 57
+  '-108':
+    wood: 0.0
+    ingId: 57
+  '-109':
+    wood: 0.0
+    ingId: 58
+  '-110':
+    wood: 0.0
+    ingId: 58
+  '-111':
+    wood: 0.0
+    ingId: 59
+  '-112':
+    wood: 0.0
+    ingId: 59
+  '-113':
+    wood: 0.0
+    ingId: 59
+  '-114':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 60
+  '-115':
+    wood: 0.0
+    ingId: 61
+  '-116':
+    wood: 0.0
+    ingId: 61
+  '-117':
+    wood: 0.0
+    ingId: 61
+  '-118':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 62
+  '-119':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 63
+  '-120':
+    wood: 0.0
+    ingId: 64
+  '-121':
+    wood: 0.0
+    ingId: 65
+  '-122':
+    wood: 0.0
+    ingId: 65
+  '-123':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 63
+  '-124':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 63
+  '-125':
+    wood: 0.0
+    ingId: 66
+  '-126':
+    wood: 0.0
+    ingId: 66
+  '-127':
+    wood: 0.0
+    ingId: 66
+  '-128':
+    wood: 0.0
+    ingId: 67
+  '-129':
+    wood: 0.0
+    ingId: 67
+  '-130':
+    wood: 0.0
+    ingId: 67
+  '-131':
+    wood: 0.0
+    ingId: 68
+  '-132':
+    quality: 8
+    ageTime: 15.35004
+    wood: 6.0
+    recipe: Beer
+    ingId: 50
+  '-133':
+    quality: 9
+    ageTime: 10.45
+    wood: 6.0
+    recipe: Beer
+    ingId: 69
+  '-134':
+    quality: 9
+    ageTime: 10.5
+    wood: 6.0
+    recipe: Beer
+    ingId: 69
+  '-135':
+    wood: 0.0
+    ingId: 70
+  '-136':
+    wood: 0.0
+    ingId: 70
+  '-137':
+    wood: 0.0
+    ingId: 70
+  '-138':
+    quality: 9
+    ageTime: 4.549999
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 71
+  '-139':
+    quality: 9
+    ageTime: 4.549999
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 71
+  '-140':
+    quality: 9
+    ageTime: 4.549999
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 71
+  '-141':
+    wood: 0.0
+    ingId: 72
+  '-142':
+    wood: 0.0
+    ingId: 73
+  '-143':
+    distillRuns: 1
+    wood: 0.0
+    ingId: 73
+  '-144':
+    wood: 0.0
+    ingId: 73
+  '-145':
+    quality: 9
+    ageTime: 4.349999
+    wood: 4.0
+    recipe: Mead
+    ingId: 74
+  '-146':
+    quality: 9
+    ageTime: 4.349999
+    wood: 4.0
+    recipe: Mead
+    ingId: 74
+  '-147':
+    quality: 9
+    ageTime: 4.349999
+    wood: 4.0
+    recipe: Mead
+    ingId: 74
+  '-148':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 75
+  '-149':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 75
+  '-150':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 76
+  '-151':
+    wood: 0.0
+    ingId: 77
+  '-152':
+    wood: 0.0
+    ingId: 78
+  '-153':
+    wood: 0.0
+    ingId: 78
+  '-154':
+    quality: 8
+    distillRuns: 2
+    ageTime: 45.800076
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 79
+  '-155':
+    quality: 8
+    distillRuns: 2
+    ageTime: 45.850075
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 79
+  '-156':
+    quality: 8
+    ageTime: 15.25004
+    wood: 6.0
+    recipe: Beer
+    ingId: 80
+  '-157':
+    wood: 0.0
+    ingId: 81
+  '-158':
+    wood: 0.0
+    ingId: 81
+  '-159':
+    wood: 0.0
+    ingId: 81
+  '-160':
+    wood: 0.0
+    ingId: 82
+  '-161':
+    wood: 0.0
+    ingId: 82
+  '-162':
+    quality: 8
+    ageTime: 15.35004
+    wood: 6.0
+    recipe: Beer
+    ingId: 80
+  '-163':
+    quality: 8
+    ageTime: 15.35004
+    wood: 6.0
+    recipe: Beer
+    ingId: 80
+  '-164':
+    quality: 9
+    wood: 0.0
+    recipe: Coffee
+    ingId: 83
+  '-165':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 84
+  '-166':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 84
+  '-167':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 84
+  '-168':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 85
+  '-169':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 85
+  '-170':
+    quality: 7
+    ageTime: 434.46744
+    wood: 6.0
+    recipe: Beer
+    ingId: 86
+  '-171':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 87
+  '-172':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 87
+  '-173':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 88
+  '-174':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 89
+  '-175':
+    quality: 9
+    wood: 0.0
+    recipe: Coffee
+    ingId: 83
+  '-176':
+    quality: 9
+    wood: 0.0
+    recipe: Coffee
+    ingId: 90
+  '-177':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 91
+  '-178':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 92
+  '-179':
+    distillRuns: 3
+    ageTime: 1422.5204
+    wood: 5.0
+    ingId: 93
+  '-180':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 92
+  '-181':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 91
+  '-182':
+    wood: 0.0
+    ingId: 94
+  '-183':
+    wood: 0.0
+    ingId: 94
+  '-184':
+    quality: 9
+    wood: 0.0
+    recipe: Coffee
+    ingId: 95
+  '-185':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 96
+  '-186':
+    quality: 9
+    wood: 0.0
+    recipe: Coffee
+    ingId: 97
+  '-187':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 91
+  '-188':
+    wood: 0.0
+    ingId: 98
+  '-189':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 99
+  '-190':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 99
+  '-191':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 100
+  '-192':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 100
+  '-193':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 100
+  '-194':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 101
+  '-195':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 101
+  '-196':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 101
+  '-197':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 102
+  '-198':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 102
+  '-199':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 102
+  '-200':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 103
+  '-201':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 103
+  '-202':
+    quality: 9
+    ageTime: 3.1499994
+    wood: 2.0
+    recipe: Wheatbeer
+    ingId: 103
+  '-203':
+    quality: 10
+    distillRuns: 2
+    ageTime: 14.350018
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 104
+  '-204':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 105
+  '-205':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 88
+  '-206':
+    quality: 8
+    distillRuns: 2
+    ageTime: 42.399834
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 106
+  '-207':
+    quality: 9
+    ageTime: 5.6
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 107
+  '-208':
+    quality: 9
+    ageTime: 5.4
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 108
+  '-209':
+    wood: 0.0
+    ingId: 109
+  '-210':
+    ageTime: 29.749832
+    wood: 2.0
+    recipe: Coffee
+    ingId: 110
+  '-211':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 110
+  '-212':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 111
+  '-213':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 111
+  '-214':
+    wood: 0.0
+    ingId: 112
+  '-215':
+    wood: 0.0
+    ingId: 112
+  '-216':
+    wood: 0.0
+    ingId: 112
+  '-217':
+    wood: 0.0
+    ingId: 113
+  '-218':
+    wood: 0.0
+    ingId: 113
+  '-219':
+    wood: 0.0
+    ingId: 113
+  '-220':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 110
+  '-221':
+    quality: 9
+    ageTime: 0.70000005
+    wood: 2.0
+    recipe: Mead
+    ingId: 47
+  '-222':
+    quality: 9
+    wood: 0.0
+    recipe: Coffee
+    ingId: 114
+  '-223':
+    quality: 6
+    ageTime: 40.149963
+    wood: 4.0
+    recipe: Mead
+    ingId: 115
+  '-224':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 116
+  '-225':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 117
+  '-226':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 118
+  '-227':
+    wood: 0.0
+    ingId: 119
+  '-228':
+    wood: 0.0
+    ingId: 120
+  '-229':
+    wood: 0.0
+    ingId: 120
+  '-230':
+    wood: 0.0
+    ingId: 121
+  '-231':
+    wood: 0.0
+    ingId: 121
+  '-232':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 122
+  '-233':
+    wood: 0.0
+    ingId: 120
+  '-234':
+    wood: 0.0
+    ingId: 123
+  '-235':
+    wood: 0.0
+    ingId: 123
+  '-236':
+    wood: 0.0
+    ingId: 123
+  '-237':
+    wood: 0.0
+    ingId: 124
+  '-238':
+    wood: 0.0
+    ingId: 125
+  '-239':
+    wood: 0.0
+    ingId: 125
+  '-240':
+    wood: 0.0
+    ingId: 125
+  '-241':
+    wood: 0.0
+    ingId: 124
+  '-242':
+    wood: 0.0
+    ingId: 124
+  '-243':
+    quality: 4
+    wood: 0.0
+    recipe: Coffee
+    ingId: 126
+  '-244':
+    quality: 4
+    wood: 0.0
+    recipe: Coffee
+    ingId: 126
+  '-245':
+    quality: 4
+    wood: 0.0
+    recipe: Coffee
+    ingId: 126
+  '-246':
+    distillRuns: 6
+    ageTime: 1.4999998
+    wood: 2.1499999
+    ingId: 115
+  '-247':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 122
+  '-248':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 118
+  '-249':
+    quality: 10
+    distillRuns: 2
+    ageTime: 14.350018
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 104
+  '-250':
+    wood: 0.0
+    ingId: 127
+  '-251':
+    quality: 10
+    ageTime: 4.2999983
+    wood: 2.0
+    recipe: Beer
+    ingId: 128
+  '-252':
+    quality: 10
+    ageTime: 4.2999983
+    wood: 2.0
+    recipe: Beer
+    ingId: 128
+  '-253':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 129
+  '-254':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 129
+  '-255':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 129
+  '-256':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 130
+  '-257':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 130
+  '-258':
+    quality: 10
+    wood: 0.0
+    recipe: Potato soup
+    ingId: 130
+  '-259':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 131
+  '-260':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 131
+  '-261':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 131
+  '-262':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 132
+  '-263':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 132
+  '-264':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 132
+  '-265':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 133
+  '-266':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 133
+  '-267':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 133
+  '-268':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 134
+  '-269':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 134
+  '-270':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 134
+  '-271':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 135
+  '-272':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 135
+  '-273':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 135
+  '-274':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 136
+  '-275':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 136
+  '-276':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 136
+  '-277':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 137
+  '-278':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 137
+  '-279':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 137
+  '-280':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 138
+  '-281':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 138
+  '-282':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 138
+  '-283':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 139
+  '-284':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 139
+  '-285':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 139
+  '-286':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 140
+  '-287':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 140
+  '-288':
+    quality: 8
+    ageTime: 12.950018
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 140
+  '-289':
+    quality: 10
+    wood: 0.0
+    recipe: Coffee
+    ingId: 118
+  '-290':
+    wood: 0.0
+    ingId: 109
+  '-291':
+    wood: 0.0
+    ingId: 109
+  '-292':
+    quality: 8
+    distillRuns: 2
+    ageTime: 20.399992
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 141
+  '-293':
+    quality: 8
+    distillRuns: 2
+    ageTime: 20.399992
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 141
+  '-294':
+    quality: 8
+    distillRuns: 2
+    ageTime: 20.399992
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 141
+  '-295':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 142
+  '-296':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 143
+  '-297':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 143
+  '-298':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 142
+  '-299':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 116
+  '-300':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 143
+  '-301':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 142
+  '-302':
+    ageTime: 67.69934
+    wood: 4.0
+    ingId: 116
+  '-303':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 144
+  '-304':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 144
+  '-305':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 144
+  '-306':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 145
+  '-307':
+    ageTime: 2.25
+    wood: 4.0
+    ingId: 145
+  '-308':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 145
+  '-309':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 146
+  '-310':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 146
+  '-311':
+    ageTime: 67.399345
+    wood: 4.0
+    ingId: 146
+  '-312':
+    quality: 5
+    distillRuns: 2
+    ageTime: 269.25903
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 147
+  '-313':
+    quality: 5
+    distillRuns: 2
+    ageTime: 269.15903
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 147
+  '-314':
+    quality: 5
+    distillRuns: 2
+    ageTime: 269.10904
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 148
+  '-315':
+    quality: 5
+    distillRuns: 2
+    ageTime: 269.10904
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 148
+  '-316':
+    quality: 5
+    distillRuns: 2
+    ageTime: 18.249996
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 148
+  '-317':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 149
+  '-318':
+    quality: 8
+    distillRuns: 2
+    ageTime: 1186.7091
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 34
+  '-319':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 149
+  '-320':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 150
+  '-321':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 150
+  '-322':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 150
+  '-323':
+    wood: 0.0
+    ingId: 151
+  '-324':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 152
+  '-325':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 153
+  '-326':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 154
+  '-327':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 154
+  '-328':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 155
+  '-329':
+    quality: 8
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 155
+  '-330':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 156
+  '-331':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 156
+  '-332':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 156
+  '-333':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 157
+  '-334':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 157
+  '-335':
+    distillRuns: 6
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 157
+  '-336':
+    quality: 9
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 158
+  '-338':
+    quality: 9
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 158
+  '-339':
+    quality: 9
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 159
+  '-340':
+    quality: 9
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 159
+  '-341':
+    quality: 9
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 159
+  '-342':
+    wood: 0.0
+    ingId: 160
+  '-343':
+    ageTime: 0.50000006
+    wood: 4.0
+    ingId: 161
+  '-344':
+    wood: 0.0
+    ingId: 160
+  '-345':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 162
+  '-346':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 162
+  '-347':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 162
+  '-348':
+    distillRuns: 6
+    ageTime: 265.80905
+    wood: 4.0
+    ingId: 163
+  '-349':
+    distillRuns: 6
+    ageTime: 265.75903
+    wood: 4.0
+    ingId: 163
+  '-350':
+    distillRuns: 6
+    ageTime: 265.75903
+    wood: 4.0
+    ingId: 163
+  '-351':
+    distillRuns: 6
+    ageTime: 265.80905
+    wood: 4.0
+    ingId: 164
+  '-352':
+    distillRuns: 6
+    ageTime: 265.80905
+    wood: 4.0
+    ingId: 164
+  '-353':
+    distillRuns: 6
+    ageTime: 265.80905
+    wood: 4.0
+    ingId: 164
+  '-354':
+    ageTime: 0.50000006
+    wood: 4.0
+    ingId: 161
+  '-355':
+    quality: 10
+    ageTime: 3.5499978
+    wood: 2.0
+    recipe: Beer
+    ingId: 165
+  '-356':
+    quality: 10
+    ageTime: 3.5499978
+    wood: 2.0
+    recipe: Beer
+    ingId: 165
+  '-357':
+    wood: 0.0
+    ingId: 166
+  '-358':
+    ageTime: 0.1
+    wood: 0.0
+    ingId: 167
+  '-359':
+    wood: 0.0
+    ingId: 166
+  '-360':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 168
+  '-361':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 168
+  '-362':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 169
+  '-363':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 169
+  '-364':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 169
+  '-365':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 170
+  '-366':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 170
+  '-367':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 171
+  '-368':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 171
+  '-369':
+    distillRuns: 3
+    ageTime: 86.150604
+    wood: 2.0
+    ingId: 172
+  '-370':
+    quality: 7
+    distillRuns: 2
+    ageTime: 14.450028
+    wood: 4.0
+    recipe: Spicy Rum
+    ingId: 170
+  '-371':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 173
+  '-372':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 173
+  '-373':
+    quality: 9
+    ageTime: 12.400027
+    wood: 2.0
+    recipe: Beer
+    ingId: 173
+  '-374':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 174
+  '-375':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 174
+  '-376':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 174
+  '-377':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 175
+  '-378':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 175
+  '-379':
+    quality: 9
+    ageTime: 12.500028
+    wood: 2.0
+    recipe: Beer
+    ingId: 175
+  '-380':
+    quality: 9
+    ageTime: 12.450027
+    wood: 2.0
+    recipe: Beer
+    ingId: 176
+  '-381':
+    quality: 9
+    ageTime: 12.400027
+    wood: 2.0
+    recipe: Beer
+    ingId: 176
+  '-382':
+    quality: 9
+    ageTime: 12.400027
+    wood: 2.0
+    recipe: Beer
+    ingId: 176
+  '-383':
+    quality: 9
+    ageTime: 12.050028
+    wood: 2.0
+    recipe: Beer
+    ingId: 177
+  '-384':
+    quality: 9
+    ageTime: 12.050028
+    wood: 2.0
+    recipe: Beer
+    ingId: 177
+  '-385':
+    quality: 9
+    ageTime: 12.050028
+    wood: 2.0
+    recipe: Beer
+    ingId: 177
+  '-386':
+    quality: 9
+    ageTime: 12.000028
+    wood: 2.0
+    recipe: Beer
+    ingId: 178
+  '-387':
+    quality: 9
+    ageTime: 12.050028
+    wood: 2.0
+    recipe: Beer
+    ingId: 178
+  '-388':
+    quality: 9
+    ageTime: 12.050028
+    wood: 2.0
+    recipe: Beer
+    ingId: 178
+  '-389':
+    quality: 9
+    ageTime: 12.000028
+    wood: 2.0
+    recipe: Beer
+    ingId: 179
+  '-390':
+    quality: 10
+    distillRuns: 6
+    wood: 0.0
+    recipe: Absinthe
+    ingId: 180
+  '-391':
+    quality: 9
+    ageTime: 12.000028
+    wood: 2.0
+    recipe: Beer
+    ingId: 179
+  '-392':
+    wood: 0.0
+    ingId: 181
+  '-393':
+    distillRuns: 3
+    ageTime: 86.150604
+    wood: 2.0
+    ingId: 172
+  '-394':
+    quality: 9
+    ageTime: 12.000028
+    wood: 2.0
+    recipe: Beer
+    ingId: 182
+  '-395':
+    quality: 8
+    distillRuns: 2
+    ageTime: 66.8994
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 183
+  '-396':
+    quality: 4
+    distillRuns: 2
+    ageTime: 416.35223
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 184
+  '-397':
+    quality: 4
+    distillRuns: 2
+    ageTime: 416.35223
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 184
+  '-398':
+    quality: 4
+    distillRuns: 2
+    ageTime: 416.35223
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 185
+  '-399':
+    quality: 4
+    distillRuns: 2
+    ageTime: 416.35223
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 185
+  '-400':
+    quality: 4
+    distillRuns: 2
+    ageTime: 726.7197
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 185
+  '-401':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 186
+  '-402':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 186
+  '-403':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 186
+  '-404':
+    quality: 3
+    distillRuns: 2
+    ageTime: 0.3
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 187
+  '-405':
+    quality: 3
+    distillRuns: 2
+    ageTime: 0.3
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 187
+  '-406':
+    quality: 3
+    distillRuns: 2
+    ageTime: 0.3
+    wood: 0.0
+    recipe: Spicy Rum
+    ingId: 187
+  '-407':
+    quality: 10
+    distillRuns: 2
+    wood: 0.0
+    recipe: Vodka
+    ingId: 188
+  '-408':
+    quality: 8
+    distillRuns: 2
+    ageTime: 63.64941
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 189
+  '-409':
+    ageTime: 0.50000006
+    wood: 4.0
+    ingId: 190
+  '-410':
+    quality: 8
+    distillRuns: 2
+    ageTime: 66.4494
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 191
+  '-411':
+    quality: 8
+    distillRuns: 2
+    ageTime: 66.4494
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 191
+  '-412':
+    quality: 8
+    distillRuns: 2
+    ageTime: 66.4494
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 191
+  '-413':
+    quality: 8
+    distillRuns: 2
+    ageTime: 63.64941
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 192
+  '-414':
+    quality: 8
+    distillRuns: 2
+    ageTime: 66.4494
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 192
+  '-415':
+    quality: 8
+    distillRuns: 2
+    ageTime: 66.4494
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 192
+  '-416':
+    quality: 8
+    distillRuns: 2
+    ageTime: 67.249405
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 193
+  '-417':
+    quality: 8
+    distillRuns: 2
+    ageTime: 66.4494
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 193
+  '-418':
+    quality: 8
+    distillRuns: 2
+    ageTime: 63.64941
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 193
+  '-419':
+    ageTime: 0.50000006
+    wood: 4.0
+    ingId: 190
+  '-420':
+    quality: 9
+    ageTime: 6.0999975
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 194
+  '-421':
+    quality: 9
+    ageTime: 6.0999975
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 194
+  '-422':
+    quality: 9
+    ageTime: 6.0999975
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 195
+  '-423':
+    quality: 9
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 196
+  '-424':
+    ageTime: 0.50000006
+    wood: 4.0
+    ingId: 190
+  '-425':
+    quality: 10
+    ageTime: 9.25
+    wood: 4.0
+    recipe: Darkbeer
+    ingId: 197
+  '-426':
+    quality: 9
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 196
+  '-427':
+    quality: 8
+    ageTime: 437.91824
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 198
+  '-428':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 199
+  '-429':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 199
+  '-430':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 199
+  '-431':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 200
+  '-432':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 200
+  '-433':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 200
+  '-434':
+    distillRuns: 6
+    ageTime: 492.01675
+    wood: 0.0
+    ingId: 201
+  '-435':
+    distillRuns: 6
+    ageTime: 492.01675
+    wood: 0.0
+    ingId: 201
+  '-436':
+    distillRuns: 6
+    ageTime: 492.01675
+    wood: 0.0
+    ingId: 201
+  '-437':
+    ageTime: 181.4989
+    wood: 0.0
+    ingId: 202
+  '-438':
+    distillRuns: 6
+    ageTime: 491.86676
+    wood: 0.0
+    ingId: 202
+  '-439':
+    distillRuns: 6
+    ageTime: 181.64891
+    wood: 0.0
+    ingId: 202
+  '-440':
+    distillRuns: 6
+    ageTime: 673.36566
+    wood: 0.0
+    ingId: 203
+  '-441':
+    distillRuns: 6
+    ageTime: 492.01675
+    wood: 0.0
+    ingId: 203
+  '-442':
+    distillRuns: 6
+    ageTime: 492.01675
+    wood: 0.0
+    ingId: 203
+  '-443':
+    distillRuns: 3
+    ageTime: 10.850005
+    wood: 5.0
+    ingId: 204
+  '-444':
+    distillRuns: 3
+    ageTime: 10.800005
+    wood: 5.0
+    ingId: 204
+  '-445':
+    distillRuns: 3
+    ageTime: 1.8499999
+    wood: 5.0
+    ingId: 204
+  '-446':
+    distillRuns: 3
+    ageTime: 4.299999
+    wood: 5.0
+    ingId: 205
+  '-447':
+    distillRuns: 3
+    ageTime: 4.099999
+    wood: 5.0
+    ingId: 205
+  '-448':
+    distillRuns: 3
+    ageTime: 10.850005
+    wood: 5.0
+    ingId: 205
+  '-449':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 206
+  '-450':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 206
+  '-451':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 206
+  '-452':
+    distillRuns: 3
+    ageTime: 88427.336
+    wood: 5.0
+    ingId: 93
+  '-453':
+    distillRuns: 3
+    ageTime: 10.300004
+    wood: 5.0
+    ingId: 207
+  '-454':
+    distillRuns: 3
+    ageTime: 10.300004
+    wood: 5.0
+    ingId: 207
+  '-455':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 208
+  '-456':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 208
+  '-457':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 208
+  '-458':
+    wood: 0.0
+    ingId: 209
+  '-459':
+    distillRuns: 3
+    ageTime: 53.4995
+    wood: 5.0
+    recipe: Vodka
+    ingId: 210
+  '-460':
+    wood: 0.0
+    ingId: 210
+  '-461':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 93
+  '-462':
+    wood: 0.0
+    ingId: 211
+  '-463':
+    wood: 0.0
+    ingId: 211
+  '-464':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 212
+  '-465':
+    quality: 10
+    ageTime: 1.7999997
+    wood: 2.0
+    recipe: Beer
+    ingId: 213
+  '-466':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 212
+  '-467':
+    distillRuns: 3
+    ageTime: 284.40408
+    wood: 5.0
+    ingId: 212
+  '-468':
+    distillRuns: 6
+    ageTime: 3.2999988
+    wood: 4.0
+    ingId: 214
+  '-469':
+    distillRuns: 6
+    ageTime: 3.2999988
+    wood: 4.0
+    ingId: 214
+  '-470':
+    distillRuns: 6
+    ageTime: 3.2999988
+    wood: 4.0
+    ingId: 214
+  '-471':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 215
+  '-472':
+    distillRuns: 6
+    ageTime: 0.65000004
+    wood: 4.0
+    ingId: 216
+  '-473':
+    distillRuns: 6
+    ageTime: 0.65000004
+    wood: 4.0
+    ingId: 216
+  '-474':
+    distillRuns: 6
+    ageTime: 8.900014
+    wood: 0.0
+    ingId: 217
+  '-475':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 218
+  '-476':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 218
+  '-477':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 218
+  '-478':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 219
+  '-479':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 219
+  '-480':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 219
+  '-481':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 220
+  '-482':
+    distillRuns: 6
+    ageTime: 3.2499988
+    wood: 4.0
+    ingId: 220
+  '-483':
+    distillRuns: 6
+    ageTime: 0.65000004
+    wood: 4.0
+    ingId: 217
+  '-484':
+    distillRuns: 6
+    ageTime: 8.900014
+    wood: 0.0
+    ingId: 217
+  '-485':
+    distillRuns: 6
+    ageTime: 0.65000004
+    wood: 4.0
+    ingId: 221
+  '-486':
+    distillRuns: 6
+    ageTime: 0.65000004
+    wood: 4.0
+    ingId: 221
+  '-487':
+    distillRuns: 6
+    ageTime: 0.65000004
+    wood: 4.0
+    ingId: 221
+  '-488':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 222
+  '-489':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 222
+  '-490':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 222
+  '-491':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 223
+  '-492':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 223
+  '-493':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 223
+  '-494':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 224
+  '-495':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 224
+  '-496':
+    ageTime: 42.799637
+    wood: 4.0
+    ingId: 224
+  '-497':
+    distillRuns: 1
+    wood: 0.0
+    ingId: 225
+  '-498':
+    distillRuns: 1
+    wood: 0.0
+    ingId: 225
+  '-499':
+    distillRuns: 1
+    wood: 0.0
+    ingId: 225
+  '-500':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 226
+  '-501':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 226
+  '-502':
+    distillRuns: 6
+    wood: 0.0
+    ingId: 226
+  '-503':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 227
+  '-504':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 227
+  '-505':
+    distillRuns: 3
+    wood: 0.0
+    ingId: 227
+  '-506':
+    ageTime: 0.3
+    wood: 0.0
+    ingId: 198
+  '-507':
+    quality: 8
+    ageTime: 1186.2091
+    wood: 2.0
+    recipe: Sweet Apple Mead
+    ingId: 198
+  '-508':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 228
+  '-509':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 228
+  '-510':
+    quality: 10
+    distillRuns: 3
+    wood: 0.0
+    recipe: Vodka
+    ingId: 228
+  '-511':
+    quality: 8
+    ageTime: 437.61826
+    wood: 2.0
+    recipe: Beer
+    ingId: 229
+  '-512':
+    wood: 0.0
+    ingId: 229
+  '-513':
+    quality: 8
+    ageTime: 1185.909
+    wood: 2.0
+    recipe: Beer
+    ingId: 229
+  '-518':
+    quality: 10
+    distillRuns: 2
+    ageTime: 14.050032
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 230
+  '-519':
+    quality: 10
+    distillRuns: 2
+    ageTime: 14.050032
+    wood: 2.0
+    recipe: Spicy Rum
+    ingId: 230
+Ingredients:
+  '0':
+    cookedTime: 5
+    mats:
+      POTATO_ITEM,0: 10
+  '1':
+    cookedTime: 3
+    mats:
+      SUGAR_CANE,0: 6
+  '2':
+    cookedTime: 3
+    mats:
+      SUGAR_CANE,0: 6
+  '3':
+    cookedTime: 3
+    mats:
+      SUGAR_CANE,0: 6
+  '4':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 14
+  '5':
+    cookedTime: 3
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,0: 4
+  '6':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,0: 7
+  '7':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '8':
+    cookedTime: 11
+    mats:
+      POTATO_ITEM,0: 10
+  '9':
+    cookedTime: 2
+    mats:
+      INK_SACK,3: 12
+  '10':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 2
+  '11':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '12':
+    cookedTime: 3
+    mats:
+      SUGAR_CANE,0: 14
+  '13':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '14':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 14
+  '15':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 2
+  '16':
+    cookedTime: 14
+    mats:
+      POTATO_ITEM,0: 10
+  '17':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '18':
+    cookedTime: 213
+    mats:
+      LONG_GRASS,1: 15
+  '19':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '20':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '21':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 10
+  '22':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '23':
+    cookedTime: 12
+    mats:
+      WHEAT,0: 6
+  '24':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '25':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '26':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 4
+      INK_SACK,3: 37
+  '27':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 3
+      POTATO_ITEM,0: 5
+  '28':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '29':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 2
+  '30':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '31':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '32':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '33':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 14
+  '34':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '35':
+    cookedTime: 2
+    mats:
+      POTATO_ITEM,0: 11
+  '36':
+    cookedTime: 28
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,0: 3
+  '37':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 14
+  '38':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '39':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '40':
+    cookedTime: 4
+    mats:
+      WHEAT,0: 2
+  '41':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '42':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '43':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '44':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '45':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '46':
+    cookedTime: 3
+    mats:
+      SUGAR_CANE,0: 6
+  '47':
+    cookedTime: 3
+    mats:
+      SUGAR_CANE,0: 6
+  '48':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 10
+  '49':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '50':
+    cookedTime: 11
+    mats:
+      WHEAT,0: 6
+  '51':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '52':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '53':
+    cookedTime: 16
+    mats:
+      POTATO_ITEM,0: 10
+  '54':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 5
+  '55':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 34
+  '56':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,0: 12
+  '57':
+    cookedTime: 1
+    mats:
+      LONG_GRASS,1: 5
+  '58':
+    cookedTime: 1
+    mats:
+      LONG_GRASS,1: 2
+  '59':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 5
+  '60':
+    cookedTime: 4
+    mats:
+      LONG_GRASS,1: 2
+  '61':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 4
+  '62':
+    cookedTime: 5
+    mats:
+      LONG_GRASS,1: 2
+  '63':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '64':
+    cookedTime: 7
+    mats:
+      LONG_GRASS,1: 16
+  '65':
+    cookedTime: 8
+    mats:
+      LONG_GRASS,1: 16
+  '66':
+    cookedTime: 1
+    mats:
+      WHEAT,0: 8
+  '67':
+    cookedTime: 1
+    mats:
+      WHEAT,0: 2
+  '68':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 1
+  '69':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '70':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 1
+      INK_SACK,0: 3
+  '71':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '72':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,0: 3
+  '73':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 3
+      INK_SACK,0: 7
+  '74':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+  '75':
+    cookedTime: 2
+    mats:
+      INK_SACK,0: 3
+  '76':
+    cookedTime: 1
+    mats:
+      MILK_BUCKET,0: 2
+  '77':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,0: 3
+  '78':
+    cookedTime: 3
+    mats:
+      MILK_BUCKET,0: 2
+  '79':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '80':
+    cookedTime: 11
+    mats:
+      WHEAT,0: 6
+  '81':
+    cookedTime: 2
+    mats:
+      INK_SACK,0: 10
+  '82':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+  '83':
+    cookedTime: 3
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 13
+  '84':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 3
+      POTATO_ITEM,0: 5
+  '85':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '86':
+    cookedTime: 10
+    mats:
+      WHEAT,0: 6
+  '87':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 10
+  '88':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '89':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '90':
+    cookedTime: 3
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '91':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '92':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 13
+  '93':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 41
+  '94':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 64
+  '95':
+    cookedTime: 3
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '96':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '97':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 10
+  '98':
+    cookedTime: 6
+    mats:
+      WHEAT,0: 2
+  '99':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '100':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '101':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '102':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '103':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '104':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '105':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '106':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '107':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '108':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '109':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 1
+      INK_SACK,3: 64
+  '110':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '111':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '112':
+    cookedTime: 10
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '113':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 6
+  '114':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 3
+      INK_SACK,3: 12
+  '115':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '116':
+    cookedTime: 9
+    mats:
+      SUGAR_CANE,0: 15
+  '117':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '118':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '119':
+    cookedTime: 69
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '120':
+    cookedTime: 67
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '121':
+    cookedTime: 67
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 13
+  '122':
+    cookedTime: 2
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 12
+  '123':
+    cookedTime: 65
+    mats:
+      LONG_GRASS,1: 6
+  '124':
+    cookedTime: 65
+    mats:
+      LONG_GRASS,1: 9
+  '125':
+    cookedTime: 65
+    mats:
+      LONG_GRASS,1: 9
+  '126':
+    cookedTime: 1
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,3: 10
+  '127':
+    cookedTime: 7
+    mats:
+      WHEAT,0: 6
+  '128':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '129':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '130':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 3
+      POTATO_ITEM,0: 5
+  '131':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 10
+  '132':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '133':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '134':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '135':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '136':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '137':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '138':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '139':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '140':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '141':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '142':
+    cookedTime: 9
+    mats:
+      SUGAR_CANE,0: 15
+  '143':
+    cookedTime: 9
+    mats:
+      SUGAR_CANE,0: 14
+  '144':
+    cookedTime: 7
+    mats:
+      SUGAR_CANE,0: 17
+  '145':
+    cookedTime: 7
+    mats:
+      SUGAR_CANE,0: 29
+  '146':
+    cookedTime: 7
+    mats:
+      SUGAR_CANE,0: 18
+  '147':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '148':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '149':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '150':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '151':
+    cookedTime: 3
+    mats:
+      WHEAT,0: 6
+  '152':
+    cookedTime: 10
+    mats:
+      POTATO_ITEM,0: 10
+  '153':
+    cookedTime: 10
+    mats:
+      POTATO_ITEM,0: 10
+  '154':
+    cookedTime: 11
+    mats:
+      POTATO_ITEM,0: 10
+  '155':
+    cookedTime: 11
+    mats:
+      POTATO_ITEM,0: 10
+  '156':
+    cookedTime: 6
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '157':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 6
+  '158':
+    cookedTime: 18
+    mats:
+      POTATO_ITEM,0: 10
+  '159':
+    cookedTime: 18
+    mats:
+      POTATO_ITEM,0: 10
+  '160':
+    cookedTime: 3
+    mats:
+      MILK_BUCKET,0: 2
+      INK_SACK,0: 3
+  '161':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 21
+  '162':
+    cookedTime: 10
+    mats:
+      WHEAT,0: 6
+  '163':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 11
+  '164':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 9
+  '165':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '166':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 2
+  '167':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 6
+  '168':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '169':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '170':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '171':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '172':
+    cookedTime: 3
+    mats:
+      POTATO_ITEM,0: 10
+  '173':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 6
+  '174':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 6
+  '175':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 6
+  '176':
+    cookedTime: 9
+    mats:
+      WHEAT,0: 6
+  '177':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '178':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '179':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '180':
+    cookedTime: 3
+    mats:
+      LONG_GRASS,1: 15
+  '181':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 4
+  '182':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '183':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '184':
+    cookedTime: 6
+    mats:
+      SUGAR_CANE,0: 14
+  '185':
+    cookedTime: 6
+    mats:
+      SUGAR_CANE,0: 14
+  '186':
+    cookedTime: 6
+    mats:
+      SUGAR_CANE,0: 28
+  '187':
+    cookedTime: 8
+    mats:
+      SUGAR_CANE,0: 14
+  '188':
+    cookedTime: 16
+    mats:
+      POTATO_ITEM,0: 10
+  '189':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '190':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 25
+  '191':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '192':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '193':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+  '194':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '195':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '196':
+    cookedTime: 18
+    mats:
+      POTATO_ITEM,0: 10
+  '197':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '198':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '199':
+    cookedTime: 15
+    mats:
+      LONG_GRASS,1: 5
+      POTATO_ITEM,0: 15
+  '200':
+    cookedTime: 15
+    mats:
+      LONG_GRASS,1: 5
+      POTATO_ITEM,0: 15
+  '201':
+    cookedTime: 15
+    mats:
+      LONG_GRASS,1: 10
+      POTATO_ITEM,0: 10
+  '202':
+    cookedTime: 5
+    mats:
+      LONG_GRASS,1: 10
+      SUGAR_CANE,0: 10
+  '203':
+    cookedTime: 5
+    mats:
+      LONG_GRASS,1: 6
+      SUGAR_CANE,0: 14
+  '204':
+    cookedTime: 14
+    mats:
+      POTATO_ITEM,0: 64
+  '205':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 64
+  '206':
+    cookedTime: 15
+    mats:
+      WHEAT,0: 10
+  '207':
+    cookedTime: 15
+    mats:
+      WHEAT,0: 10
+  '208':
+    cookedTime: 128
+    mats:
+      POTATO_ITEM,0: 19
+  '209':
+    cookedTime: 16
+    mats:
+      POTATO_ITEM,0: 10
+  '210':
+    cookedTime: 19
+    mats:
+      POTATO_ITEM,0: 10
+  '211':
+    cookedTime: 19
+    mats:
+      POTATO_ITEM,0: 10
+  '212':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 35
+  '213':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '214':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 55
+  '215':
+    cookedTime: 1
+    mats:
+      WHEAT,0: 67
+  '216':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 32
+      APPLE,0: 32
+  '217':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 32
+      APPLE,0: 32
+  '218':
+    cookedTime: 3
+    mats:
+      WHEAT,0: 67
+  '219':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 64
+  '220':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 64
+  '221':
+    cookedTime: 2
+    mats:
+      APPLE,0: 64
+  '222':
+    cookedTime: 4
+    mats:
+      APPLE,0: 64
+  '223':
+    cookedTime: 4
+    mats:
+      APPLE,0: 64
+  '224':
+    cookedTime: 4
+    mats:
+      APPLE,0: 64
+  '225':
+    cookedTime: 2
+    mats:
+      WHEAT,0: 10
+  '226':
+    cookedTime: 4
+    mats:
+      SUGAR_CANE,0: 6
+      APPLE,0: 2
+  '227':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '228':
+    cookedTime: 15
+    mats:
+      POTATO_ITEM,0: 10
+  '229':
+    cookedTime: 8
+    mats:
+      WHEAT,0: 6
+  '230':
+    cookedTime: 5
+    mats:
+      SUGAR_CANE,0: 14
+BCauldron:
+  ce2b6b9d-8f8a-4da2-b526-52e0eb91ad96:
+    '0':
+      block: 19630/80/1882
+      state: 173915
+      ingredients:
+        LONG_GRASS,1: 1
+        MILK_BUCKET,0: 2
+        INK_SACK,0: 3
+    '1':
+      block: 19630/80/1881
+      state: 173915
+      ingredients:
+        MILK_BUCKET,0: 2
+        INK_SACK,0: 3
+    '2':
+      block: 25113/7/2978
+      state: 154986
+      ingredients:
+        WHEAT,0: 10
+    '3':
+      block: 25188/79/2717
+      state: 152407
+      ingredients:
+        POTATO_ITEM,0: 10
+    '4':
+      block: 10503/233/5469
+      state: 121016
+      ingredients:
+        APPLE,0: 31
+    '5':
+      block: 10503/233/5467
+      state: 121016
+      ingredients:
+        APPLE,0: 21
+  3be84887-22a3-4478-9b2c-d3a237551c4c: {}
+  7732e26c-12aa-4580-9d56-08fb205aeafb: {}
+  e72ca527-9cea-485e-b39c-1421f41742b4: {}
+Barrel:
+  ce2b6b9d-8f8a-4da2-b526-52e0eb91ad96:
+    '0':
+      spigot: 20793/57/3915
+      st: 20791,57,3915,20791,57,3916,20792,57,3915,20792,57,3916,20791,58,3915,20791,58,3916,20792,58,3915,20792,58,3916
+    '1':
+      spigot: 20793/57/3912
+      st: 20791,57,3912,20791,57,3913,20792,57,3912,20792,57,3913,20791,58,3912,20791,58,3913,20792,58,3912,20792,58,3913
+    '2':
+      spigot: 20795/57/3911
+      sign: 1
+      st: 20794,57,3908,20794,57,3909,20794,57,3910,20796,57,3908,20796,57,3909,20796,57,3910,20794,59,3908,20794,59,3909,20794,59,3910,20796,59,3908,20796,59,3909,20796,59,3910
+      wo: 20794,57,3907,20795,57,3907,20795,57,3908,20795,57,3909,20795,57,3910,20796,57,3907,20794,58,3907,20794,58,3908,20794,58,3909,20794,58,3910,20795,58,3907,20795,58,3910,20796,58,3907,20796,58,3908,20796,58,3909,20796,58,3910,20794,59,3907,20795,59,3907,20795,59,3908,20795,59,3909,20795,59,3910,20796,59,3907
+    '3':
+      spigot: 20796/57/3915
+      sign: 1
+      st: 20797,57,3914,20797,57,3916,20798,57,3914,20798,57,3916,20799,57,3914,20799,57,3916,20800,57,3914,20800,57,3916,20797,59,3914,20797,59,3916,20798,59,3914,20798,59,3916,20799,59,3914,20799,59,3916,20800,59,3914,20800,59,3916
+      wo: 20797,57,3915,20798,57,3915,20799,57,3915,20800,57,3915,20797,58,3914,20797,58,3915,20797,58,3916,20798,58,3914,20798,58,3916,20799,58,3914,20799,58,3916,20800,58,3914,20800,58,3915,20800,58,3916,20797,59,3915,20798,59,3915,20799,59,3915,20800,59,3915
+      time: 5266.6797
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§72-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -25
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '4':
+      spigot: 18644/100/1501
+      st: 18643,100,1499,18643,100,1500,18644,100,1499,18644,100,1500,18643,101,1499,18643,101,1500,18644,101,1499,18644,101,1500
+    '5':
+      spigot: 18647/100/1501
+      st: 18646,100,1499,18646,100,1500,18647,100,1499,18647,100,1500,18646,101,1499,18646,101,1500,18647,101,1499,18647,101,1500
+    '6':
+      spigot: 18650/100/1501
+      st: 18649,100,1499,18649,100,1500,18650,100,1499,18650,100,1500,18649,101,1499,18649,101,1500,18650,101,1499,18650,101,1500
+    '7':
+      spigot: 18644/100/1511
+      st: 18642,100,1511,18642,100,1512,18643,100,1511,18643,100,1512,18642,101,1511,18642,101,1512,18643,101,1511,18643,101,1512
+    '8':
+      spigot: 18644/100/1508
+      st: 18642,100,1508,18642,100,1509,18643,100,1508,18643,100,1509,18642,101,1508,18642,101,1509,18643,101,1508,18643,101,1509
+    '9':
+      spigot: 18644/100/1505
+      st: 18642,100,1505,18642,100,1506,18643,100,1505,18643,100,1506,18642,101,1505,18642,101,1506,18643,101,1505,18643,101,1506
+    '10':
+      spigot: 18649/100/1509
+      st: 18650,100,1508,18650,100,1509,18651,100,1508,18651,100,1509,18650,101,1508,18650,101,1509,18651,101,1508,18651,101,1509
+    '11':
+      spigot: 18649/100/1506
+      st: 18650,100,1505,18650,100,1506,18651,100,1505,18651,100,1506,18650,101,1505,18650,101,1506,18651,101,1505,18651,101,1506
+    '12':
+      spigot: 18649/100/1512
+      st: 18650,100,1511,18650,100,1512,18651,100,1511,18651,100,1512,18650,101,1511,18650,101,1512,18651,101,1511,18651,101,1512
+    '13':
+      spigot: 3991/63/7663
+      st: 3990,63,7661,3990,63,7662,3991,63,7661,3991,63,7662,3990,64,7661,3990,64,7662,3991,64,7661,3991,64,7662
+    '14':
+      spigot: 10356/63/5672
+      st: 10355,63,5670,10355,63,5671,10356,63,5670,10356,63,5671,10355,64,5670,10355,64,5671,10356,64,5670,10356,64,5671
+    '15':
+      spigot: 25186/80/2731
+      sign: 2
+      st: 25182,80,2730,25182,80,2732,25183,80,2730,25183,80,2732,25184,80,2730,25184,80,2732,25185,80,2730,25185,80,2732,25182,82,2730,25182,82,2732,25183,82,2730,25183,82,2732,25184,82,2730,25184,82,2732,25185,82,2730,25185,82,2732
+      wo: 25182,80,2731,25183,80,2731,25184,80,2731,25185,80,2731,25182,81,2730,25182,81,2731,25182,81,2732,25183,81,2730,25183,81,2732,25184,81,2730,25184,81,2732,25185,81,2730,25185,81,2731,25185,81,2732,25182,82,2731,25183,82,2731,25184,82,2731,25185,82,2731
+      time: 7054.8174
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fÂ§6Golden Mead
+            lore:
+            - ''
+            - Â§73 Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -60
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fÂ§6Golden Mead
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a3 minutes fermented
+            - Â§aWoodtype
+            - Â§4129 Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -57
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '16':
+      spigot: 9980/34/10038
+      st: 9980,34,10039,9980,34,10040,9981,34,10039,9981,34,10040,9980,35,10039,9980,35,10040,9981,35,10039,9981,35,10040
+      time: 7070.008
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fIndefinable Distillate
+            lore:
+            - ''
+            - Â§73-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -60
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '2':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§73-times Distilled
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -61
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '3':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§73-times Distilled
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -467
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '4':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a15 minutes fermented
+            - Â§a3-times Distilled
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -179
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '5':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a15 minutes fermented
+            - Â§a3-times Distilled
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -179
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a15 minutes fermented
+            - Â§a3-times Distilled
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -179
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '7':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a15 minutes fermented
+            - Â§a3-times Distilled
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -179
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '8':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a15 minutes fermented
+            - Â§a3-times Distilled
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -179
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '17':
+      spigot: 25186/80/2727
+      sign: 2
+      st: 25182,80,2726,25182,80,2728,25183,80,2726,25183,80,2728,25184,80,2726,25184,80,2728,25185,80,2726,25185,80,2728,25182,82,2726,25182,82,2728,25183,82,2726,25183,82,2728,25184,82,2726,25184,82,2728,25185,82,2726,25185,82,2728
+      wo: 25182,80,2727,25183,80,2727,25184,80,2727,25185,80,2727,25182,81,2726,25182,81,2727,25182,81,2728,25183,81,2726,25183,81,2728,25184,81,2726,25184,81,2728,25185,81,2726,25185,81,2727,25185,81,2728,25182,82,2727,25183,82,2727,25184,82,2727,25185,82,2727
+      time: 7054.8174
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fÂ§6Golden Mead
+            lore:
+            - ''
+            - Â§73 Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -318
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fMead
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a3 minutes fermented
+            - Â§4Hundreds of Years Barrel aged
+            - Â§6Woodtype
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -57
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '18':
+      spigot: 25186/80/2723
+      sign: 2
+      st: 25182,80,2722,25182,80,2724,25183,80,2722,25183,80,2724,25184,80,2722,25184,80,2724,25185,80,2722,25185,80,2724,25182,82,2722,25182,82,2724,25183,82,2722,25183,82,2724,25184,82,2722,25184,82,2724,25185,82,2722,25185,82,2724
+      wo: 25182,80,2723,25183,80,2723,25184,80,2723,25185,80,2723,25182,81,2722,25182,81,2723,25182,81,2724,25183,81,2722,25183,81,2724,25184,81,2722,25184,81,2724,25185,81,2722,25185,81,2723,25185,81,2724,25182,82,2723,25183,82,2723,25184,82,2723,25185,82,2723
+    '19':
+      spigot: 20793/57/3918
+      st: 20791,57,3918,20791,57,3919,20792,57,3918,20792,57,3919,20791,58,3918,20791,58,3919,20792,58,3918,20792,58,3919
+    '20':
+      spigot: 9985/43/10022
+      st: 9985,43,10023,9985,43,10024,9986,43,10023,9986,43,10024,9985,44,10023,9985,44,10024,9986,44,10023,9986,44,10024
+      time: 5472.5723
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '2':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '3':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '4':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '5':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '7':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '8':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '21':
+      spigot: 9986/43/10019
+      st: 9984,43,10019,9984,43,10020,9985,43,10019,9985,43,10020,9984,44,10019,9984,44,10020,9985,44,10019,9985,44,10020
+      time: 5472.5723
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '2':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '3':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '4':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '5':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '7':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '8':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '22':
+      spigot: 9986/43/10018
+      st: 9985,43,10016,9985,43,10017,9986,43,10016,9986,43,10017,9985,44,10016,9985,44,10017,9986,44,10016,9986,44,10017
+      time: 5472.5723
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '3':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '5':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '7':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '8':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '23':
+      spigot: 9989/43/10018
+      st: 9988,43,10016,9988,43,10017,9989,43,10016,9989,43,10017,9988,44,10016,9988,44,10017,9989,44,10016,9989,44,10017
+      time: 5472.5723
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '2':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '4':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '8':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '24':
+      spigot: 9992/43/10019
+      st: 9993,43,10018,9993,43,10019,9994,43,10018,9994,43,10019,9993,44,10018,9993,44,10019,9994,44,10018,9994,44,10019
+      time: 5472.5723
+      inv:
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '2':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '4':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '7':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '8':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '25':
+      spigot: 9992/43/10022
+      st: 9992,43,10023,9992,43,10024,9993,43,10023,9993,43,10024,9992,44,10023,9992,44,10024,9993,44,10023,9993,44,10024
+      time: 5472.5723
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '1':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '2':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '3':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '4':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '5':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '7':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '8':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 74
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fRuined Potion
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§7Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -452
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '26':
+      spigot: 10059/115/5885
+      st: 10059,115,5886,10059,115,5887,10060,115,5886,10060,115,5887,10059,116,5886,10059,116,5887,10060,116,5886,10060,116,5887
+    '27':
+      spigot: 10056/115/5877
+      st: 10055,115,5875,10055,115,5876,10056,115,5875,10056,115,5876,10055,116,5875,10055,116,5876,10056,116,5875,10056,116,5876
+    '28':
+      spigot: 3881/76/7531
+      st: 3879,76,7531,3879,76,7532,3880,76,7531,3880,76,7532,3879,77,7531,3879,77,7532,3880,77,7531,3880,77,7532
+    '29':
+      spigot: 3881/76/7536
+      st: 3879,76,7536,3879,76,7537,3880,76,7536,3880,76,7537,3879,77,7536,3879,77,7537,3880,77,7536,3880,77,7537
+    '30':
+      spigot: 20761/60/19600
+      st: 20762,60,19599,20762,60,19600,20763,60,19599,20763,60,19600,20762,61,19599,20762,61,19600,20763,61,19599,20763,61,19600
+    '31':
+      spigot: 20759/60/19599
+      st: 20757,60,19599,20757,60,19600,20758,60,19599,20758,60,19600,20757,61,19599,20757,61,19600,20758,61,19599,20758,61,19600
+    '32':
+      spigot: -50/64/-3405
+      st: -49,64,-3406,-49,64,-3405,-48,64,-3406,-48,64,-3405,-49,65,-3406,-49,65,-3405,-48,65,-3406,-48,65,-3405
+    '33':
+      spigot: 7326/122/2377
+      st: 7322,122,2376,7322,122,2378,7323,122,2376,7323,122,2378,7324,122,2376,7324,122,2378,7325,122,2376,7325,122,2378,7322,124,2376,7322,124,2378,7323,124,2376,7323,124,2378,7324,124,2376,7324,124,2378,7325,124,2376,7325,124,2378
+      wo: 7322,122,2377,7323,122,2377,7324,122,2377,7325,122,2377,7322,123,2376,7322,123,2377,7322,123,2378,7323,123,2376,7323,123,2378,7324,123,2376,7324,123,2378,7325,123,2376,7325,123,2377,7325,123,2378,7322,124,2377,7323,124,2377,7324,124,2377,7325,124,2377
+      time: 1688.1715
+      inv:
+        '0':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fÂ§6Golden Rum
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a5 minutes fermented
+            - Â§a2-times Distilled
+            - Â§4Hundreds of Years Barrel aged
+            - Â§aWoodtype
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -318
+              amplifier: 0
+              ambient: true
+              has-particles: true
+            - ==: PotionEffect
+              effect: 12
+              duration: 0
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '3':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fÂ§6Sweet Golden Apple Mead
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a4 minutes fermented
+            - Â§4Hundreds of Years Barrel aged
+            - Â§aWoodtype
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -507
+              amplifier: 0
+              ambient: true
+              has-particles: true
+        '6':
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: Â§fFine Beer
+            lore:
+            - ''
+            - Â§aIngredients
+            - Â§a8 minutes fermented
+            - Â§4Hundreds of Years Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -513
+              amplifier: 0
+              ambient: true
+              has-particles: true
+    '34':
+      spigot: 3994/62/7665
+      st: 3993,62,7663,3993,62,7664,3994,62,7663,3994,62,7664,3993,63,7663,3993,63,7664,3994,63,7663,3994,63,7664
+  3be84887-22a3-4478-9b2c-d3a237551c4c: {}
+  7732e26c-12aa-4580-9d56-08fb205aeafb: {}
+  e72ca527-9cea-485e-b39c-1421f41742b4: {}
+Worlds:
+  ce2b6b9d-8f8a-4da2-b526-52e0eb91ad96: world
+  e72ca527-9cea-485e-b39c-1421f41742b4: world_nether
+  7732e26c-12aa-4580-9d56-08fb205aeafb: world_the_end
+  3be84887-22a3-4478-9b2c-d3a237551c4c: world_nether
+Version: '1.1'

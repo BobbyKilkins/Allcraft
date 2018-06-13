@@ -1,0 +1,27 @@
+name: LaunchASW
+maxSize: 45
+minSize: 1
+allowedBlocks: 
+    - 173
+
+forbiddenBlocks:
+    - 7
+
+canCruise: true
+cruiseOnPilot: true
+cruiseOnPilotVertMove: -1
+cruiseSkipBlocks: 0
+canFly: false
+minHeightLimit: 5
+maxHeightLimit: 65
+collisionExplosion: 6.0
+moveEntities: false
+speed: 5.0
+tryNudge: false
+sinkPercent: 99.0
+flyblocks:
+    173:
+        - 50.0
+        - 100.0
+
+

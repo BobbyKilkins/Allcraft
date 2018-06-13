@@ -1,0 +1,11 @@
+# This file stores all uuids of players that Autorank has looked up before.
+# Each file stores accounts with the starting letter of the player's name.
+ConceptEagle:
+  uuid: 777e939a-9766-4152-8816-e97322d0fa53
+  updateTime: 1434849981878
+Capt_LaserMaster:
+  uuid: d4b4d0c8-62ba-4613-bf70-1f1fd5e73ff4
+  updateTime: 1434812397436
+Cmdr_Shadow:
+  uuid: 81f29489-22aa-4c61-bcf7-ea36c55ffb84
+  updateTime: 1434815873355

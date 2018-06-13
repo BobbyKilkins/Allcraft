@@ -1,0 +1,21 @@
+lastAccountName: videominion1
+timestamps:
+  login: 1437945900759
+  lastteleport: 1437772702787
+  logout: 1437892400094
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 5553.635453385024
+  y: 4.0
+  z: 2982.39791253424
+  yaw: -346.07697
+  pitch: 14.31312
+logoutlocation:
+  world: world
+  x: 5554.547332270724
+  y: 4.0
+  z: 2970.2566575220117
+  yaw: -337.61597
+  pitch: 26.158424
+afk: true

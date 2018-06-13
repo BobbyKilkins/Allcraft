@@ -1,0 +1,31 @@
+lastAccountName: Supreme_Kirby
+timestamps:
+  login: 1525217947156
+  logout: 1525222105806
+  lastteleport: 1525222069486
+ipAddress: 99.89.34.31
+lastlocation:
+  world: world_the_end
+  x: -37.08296286514669
+  y: 24.481894523331896
+  z: 94.61545739519254
+  yaw: 88.57556
+  pitch: -81.36324
+logoutlocation:
+  world: world
+  x: -443.0145253686858
+  y: 91.0
+  z: 308.5123380821197
+  yaw: -118.384636
+  pitch: 15.936867
+afk: false
+homes:
+  home:
+    world: world
+    x: -554.3347280106045
+    y: 115.0
+    z: 256.7739347385519
+    yaw: -142.25037
+    pitch: 23.170923
+nickname: Supreme_Kirby
+teleportenabled: true

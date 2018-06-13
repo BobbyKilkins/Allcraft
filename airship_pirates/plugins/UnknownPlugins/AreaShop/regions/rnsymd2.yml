@@ -1,0 +1,16 @@
+general:
+  name: rnsymd2
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 3108.0
+        y: 63.0
+        z: 6661.0
+      facing: WEST_NORTH_WEST
+      signType: SIGN_POST
+rent:
+  duration: 1 day
+  price: 3000.0

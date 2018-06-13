@@ -1,0 +1,15 @@
+general:
+  name: trindonhouse77
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 2498.0
+        y: 98.0
+        z: 4654.0
+      facing: WEST
+      signType: WALL_SIGN
+buy:
+  price: 150000.0

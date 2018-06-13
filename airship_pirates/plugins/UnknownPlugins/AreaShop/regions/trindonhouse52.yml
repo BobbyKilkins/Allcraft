@@ -1,0 +1,6 @@
+general:
+  name: trindonhouse52
+  world: world
+  type: buy
+buy:
+  price: 350000.0

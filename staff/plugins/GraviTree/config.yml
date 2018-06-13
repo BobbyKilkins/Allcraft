@@ -1,0 +1,10 @@
+# GraviTree
+# https://github.com/kanoxx/GraviTree
+
+enabled-by-default: true
+
+messages:
+  no-permission: '&cYou have no permission to do this'
+  enabled: '&cGravity has been enabled'
+  disabled: '&cGravity has been disabled'
+  only-for-players: '&cThis command is only for players'

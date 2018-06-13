@@ -1,0 +1,40 @@
+lastAccountName: SkyNoob28
+timestamps:
+  login: 1528340695345
+  logout: 1528340817102
+  lastteleport: 1526252221849
+ipAddress: 24.6.231.231
+lastlocation:
+  world: world
+  x: -76.0703399224554
+  y: 79.36618526601805
+  z: 161.8709206032664
+  yaw: -296.1611
+  pitch: 35.54273
+logoutlocation:
+  world: world
+  x: -163.53893105365273
+  y: 86.24097576699455
+  z: 221.00908398694457
+  yaw: -325.36816
+  pitch: 16.17455
+homes:
+  home:
+    world: world
+    x: 840.4964162648887
+    y: 56.5
+    z: 311.30000001192093
+    yaw: 314.45938
+    pitch: 18.398294
+godmode: false
+teleportenabled: true
+nickname: Newin
+afk: false
+money: '0'
+powertools:
+  '258':
+  - lightning
+  '286':
+  - nuke
+  '166':
+  - lightning

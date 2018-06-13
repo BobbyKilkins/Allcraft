@@ -1,0 +1,15 @@
+general:
+  name: aeriehouse29
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 3987.0
+        y: 70.0
+        z: 7676.0
+      facing: WEST
+      signType: WALL_SIGN
+buy:
+  price: 150000.0

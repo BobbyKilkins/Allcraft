@@ -1,0 +1,21 @@
+lastAccountName: AirFusion_45
+timestamps:
+  login: 1524364912578
+  lastteleport: 1523663377723
+  logout: 1524364941284
+ipAddress: 76.103.133.62
+lastlocation:
+  world: world
+  x: 9978.287850986622
+  y: 77.87356100641205
+  z: 5423.414488445589
+  yaw: 107.32865
+  pitch: 51.462315
+logoutlocation:
+  world: world
+  x: 5997.475366915836
+  y: 91.11813597084723
+  z: 3243.6638871402674
+  yaw: 41.171936
+  pitch: 52.67102
+afk: false

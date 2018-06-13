@@ -1,0 +1,13 @@
+general:
+  name: Stovaksmalldock3
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 7430.0
+        y: 85.0
+        z: 2642.0
+      facing: WEST
+      signType: SIGN_POST

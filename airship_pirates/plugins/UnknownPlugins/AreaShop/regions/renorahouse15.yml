@@ -1,0 +1,15 @@
+general:
+  name: renorahouse15
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 7402.0
+        y: 70.0
+        z: 6910.0
+      facing: WEST
+      signType: WALL_SIGN
+buy:
+  price: 150000.0

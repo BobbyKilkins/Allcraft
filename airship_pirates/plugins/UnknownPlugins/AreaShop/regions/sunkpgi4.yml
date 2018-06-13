@@ -1,0 +1,16 @@
+general:
+  name: sunkpgi4
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 2626.0
+        y: 103.0
+        z: 4600.0
+      facing: EAST
+      signType: WALL_SIGN
+rent:
+  price: 1200.0
+  duration: 1 M

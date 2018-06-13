@@ -1,0 +1,147 @@
+# 
+# This file is not a configuration file.
+# 
+# It is used to store received permissions from client mods with permissions grouped by mod name
+# and version. This can be used by server admins as a quick reference to permissions supported by
+# client mods, and as a way of determining which mods are in use by players connecting to the server.
+
+mods:
+  voxelmap:
+    '148_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '159_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '1513_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '130_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '157_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '1512_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '153_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '131_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '133_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '1514_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+    '1515_000':
+      permissions:
+      - mod.voxelmap.cavemode
+      - mod.voxelmap.radar
+      - mod.voxelmap.radarmobs
+      - mod.voxelmap.radarplayers
+  macros:
+    '1_101':
+      permissions:
+      - mod.macros.*
+      - mod.macros.events.*
+      - mod.macros.events.local.*
+      - mod.macros.events.local.onautocraftingcomplete
+      - mod.macros.events.local.onconfigchange
+      - mod.macros.events.local.oninventoryslotchange
+      - mod.macros.events.local.onshowgui
+      - mod.macros.events.player.*
+      - mod.macros.events.player.onarmourchange
+      - mod.macros.events.player.onarmourdurabilitychange
+      - mod.macros.events.player.onfoodchange
+      - mod.macros.events.player.onhealthchange
+      - mod.macros.events.player.onitemdurabilitychange
+      - mod.macros.events.player.onmodechange
+      - mod.macros.events.player.onoxygenchange
+      - mod.macros.events.player.onpickupitem
+      - mod.macros.events.stats.*
+      - mod.macros.events.stats.onlevelchange
+      - mod.macros.events.stats.onxpchange
+      - mod.macros.events.world.*
+      - mod.macros.events.world.onplayerjoined
+      - mod.macros.events.world.onweatherchange
+      - mod.macros.events.world.onworldchange
+      - mod.macros.script.*
+      - mod.macros.script.chat.*
+      - mod.macros.script.chat.echo
+      - mod.macros.script.chat.iif
+      - mod.macros.script.craft.*
+      - mod.macros.script.craft.craft
+      - mod.macros.script.craft.craftandwait
+      - mod.macros.script.input.*
+      - mod.macros.script.input.key
+      - mod.macros.script.input.keydown
+      - mod.macros.script.input.keyup
+      - mod.macros.script.input.look
+      - mod.macros.script.input.looks
+      - mod.macros.script.input.press
+      - mod.macros.script.input.sprint
+      - mod.macros.script.input.togglekey
+      - mod.macros.script.input.type
+      - mod.macros.script.input.unsprint
+      - mod.macros.script.inventory.*
+      - mod.macros.script.inventory.getid
+      - mod.macros.script.inventory.getidrel
+      - mod.macros.script.inventory.getslot
+      - mod.macros.script.inventory.getslotitem
+      - mod.macros.script.inventory.inventorydown
+      - mod.macros.script.inventory.inventoryup
+      - mod.macros.script.inventory.pick
+      - mod.macros.script.inventory.setslotitem
+      - mod.macros.script.inventory.slot
+      - mod.macros.script.inventory.slotclick
+      - mod.macros.script.option.*
+      - mod.macros.script.option.fog
+      - mod.macros.script.option.fov
+      - mod.macros.script.player.*
+      - mod.macros.script.player.disconnect
+      - mod.macros.script.player.respawn
+      - mod.macros.script.world.*
+      - mod.macros.script.world.placesign
+      - mod.macros.spam.nolimit
+  autofish:
+    '2_000':
+      permissions:
+      - mod.autofish.canautofish
+  worlddownloader:
+    '113_000':
+      permissions:
+      - mod.worlddownloader.cachechunks

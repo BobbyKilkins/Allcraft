@@ -1,0 +1,32 @@
+#############################################################################
+#                                                                           #
+#                   Autorank 2 Simple Config                                #
+#                                                                           #
+#############################################################################
+
+# The format for rank changes is
+#   rank1: rank2 after 1d 1h 1m
+# where rank1 is the player's current rank
+# and rank2 is the rank the player will get after the set time
+# 1d = 1 day
+# 1h = 1 hour
+# 1m = 1 minute
+
+Player: Veteran after 100h
+Admin: VAdmin after 100h
+HeadAdmin: VHeadAdmin after 100h
+Owner: VOwner after 100h
+Mod: VMod after 100h
+SurvivalBuild: VBuild after 100h
+Donator: VDonator after 100h
+OP: VOP after 100h
+
+
+Veteran: OPVet after 1000000d
+VAdmin: OPVet after 1000000d
+VHeadAdmin: OPVet after 1000000d
+VOwner: OPVet after 1000000d
+VMod: OPVet after 1000000d
+VBuild: OPVet after 1000000d
+VDonator: OPVet after 1000000d
+VOP: OPVet after 1000000d

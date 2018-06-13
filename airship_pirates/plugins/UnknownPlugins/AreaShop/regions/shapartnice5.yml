@@ -1,0 +1,16 @@
+general:
+  name: shapartnice5
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 8116.0
+        y: 72.0
+        z: 5760.0
+      facing: EAST
+      signType: WALL_SIGN
+rent:
+  price: 1500.0
+  duration: 1 M

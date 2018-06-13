@@ -1,0 +1,5 @@
+# This file stores all uuids of players that Autorank has looked up before.
+# Each file stores accounts with the starting letter of the player's name.
+koko_cockatiel:
+  uuid: 4e8ef81a-65ed-4210-816c-9ca4a0415f1f
+  updateTime: 1434773289514

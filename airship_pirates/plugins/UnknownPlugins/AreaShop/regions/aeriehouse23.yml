@@ -1,0 +1,15 @@
+general:
+  name: aeriehouse23
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 4012.0
+        y: 69.0
+        z: 7648.0
+      facing: NORTH
+      signType: WALL_SIGN
+buy:
+  price: 450000.0

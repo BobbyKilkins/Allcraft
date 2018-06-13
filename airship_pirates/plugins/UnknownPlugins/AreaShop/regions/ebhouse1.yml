@@ -1,0 +1,15 @@
+general:
+  name: ebhouse1
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 2886.0
+        y: 66.0
+        z: 6535.0
+      facing: EAST
+      signType: WALL_SIGN
+buy:
+  price: 250000.0

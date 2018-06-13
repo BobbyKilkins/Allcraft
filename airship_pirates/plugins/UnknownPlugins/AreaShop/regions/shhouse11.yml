@@ -1,0 +1,15 @@
+general:
+  name: shhouse11
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 8050.0
+        y: 66.0
+        z: 5689.0
+      facing: SOUTH
+      signType: WALL_SIGN
+buy:
+  price: 250000.0

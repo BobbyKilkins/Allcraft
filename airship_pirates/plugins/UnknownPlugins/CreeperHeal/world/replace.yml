@@ -1,0 +1,14 @@
+WOOL:
+    type: AIR
+PLANKS:
+    type: AIR
+BIRCH_STAIRS:
+    type: AIR
+JUNGLE_STAIRS:
+    type: AIR
+SPRUCE_STAIRS:
+    type: AIR
+WOODEN_SLAB:
+    type: AIR
+COAL_BLOCK:
+    type: AIR

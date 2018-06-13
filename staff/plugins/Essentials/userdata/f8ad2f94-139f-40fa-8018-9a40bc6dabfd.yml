@@ -1,0 +1,33 @@
+lastAccountName: TheJavaDev
+timestamps:
+  login: 1527892863393
+  lastteleport: 1527892876530
+  logout: 1527893262202
+ipAddress: 192.168.1.1
+lastlocation:
+  world: world
+  x: -418.81098074223723
+  y: 71.0
+  z: 199.81910535383594
+  yaw: 65.395905
+  pitch: 8.284778
+logoutlocation:
+  world: world
+  x: -105.5768235269335
+  y: 219.0
+  z: 92.73144648807921
+  yaw: 21.883148
+  pitch: 17.519901
+powertoolsenabled: true
+nickname: TheJavaDev
+powertools:
+  '293':
+  - smite
+  '268':
+  - fireball
+  '69':
+  - nuke
+afk: false
+godmode: false
+socialspy: true
+teleportenabled: true

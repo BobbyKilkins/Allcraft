@@ -1,0 +1,15 @@
+general:
+  name: sunkhouse16
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 6000.0
+        y: 69.0
+        z: 3212.0
+      facing: SOUTH
+      signType: WALL_SIGN
+buy:
+  price: 250000.0

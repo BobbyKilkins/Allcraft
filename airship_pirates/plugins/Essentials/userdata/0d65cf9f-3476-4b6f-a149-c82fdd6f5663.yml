@@ -1,0 +1,22 @@
+lastAccountName: Enderknight205
+timestamps:
+  login: 1524578169422
+  logout: 1524578242507
+  lastteleport: 1523836035303
+ipAddress: 99.31.212.148
+lastlocation:
+  world: world
+  x: 5970.699999988079
+  y: 68.0
+  z: 3241.4155422537933
+  yaw: -325.85245
+  pitch: 5.8514867
+money: '500'
+logoutlocation:
+  world: world
+  x: 6065.177706805619
+  y: 111.06420788293643
+  z: 3579.6711719249047
+  yaw: -233.01775
+  pitch: 70.27218
+afk: false

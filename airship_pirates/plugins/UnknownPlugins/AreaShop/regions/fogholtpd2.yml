@@ -1,0 +1,16 @@
+general:
+  name: FogHoltPD2
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 5410.0
+        y: 66.0
+        z: 7626.0
+      facing: SOUTH
+      signType: SIGN_POST
+rent:
+  price: 3000.0
+  duration: 1 day

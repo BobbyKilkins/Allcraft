@@ -1,0 +1,16 @@
+general:
+  name: shapart12
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 8127.0
+        y: 67.0
+        z: 5746.0
+      facing: WEST
+      signType: WALL_SIGN
+rent:
+  duration: 1 M
+  price: 1200.0

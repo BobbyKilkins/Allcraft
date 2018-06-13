@@ -1,0 +1,13 @@
+general:
+  name: Fillanelsmalldock2
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 6366.0
+        y: 81.0
+        z: 6424.0
+      facing: EAST
+      signType: SIGN_POST

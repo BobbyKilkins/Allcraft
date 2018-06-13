@@ -1,0 +1,5 @@
+# This file stores all uuids of players that Autorank has looked up before.
+# Each file stores accounts with the starting letter of the player's name.
+Firecore_:
+  uuid: ebec2f99-5818-4260-9c59-f364ddd64613
+  updateTime: 1522461125043

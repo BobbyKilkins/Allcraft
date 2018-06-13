@@ -1,0 +1,22 @@
+lastAccountName: Eycopercly
+timestamps:
+  login: 1524455750221
+  logout: 1524461038781
+  lastteleport: 1524455766629
+ipAddress: 76.103.133.62
+lastlocation:
+  world: world
+  x: -213.24379324769754
+  y: 71.31359532512853
+  z: 62.644387460278054
+  yaw: 85.269516
+  pitch: 45.288322
+logoutlocation:
+  world: world
+  x: -471.26417014149763
+  y: 147.7721958311954
+  z: 163.97854516548315
+  yaw: -126.638
+  pitch: 32.418858
+afk: false
+godmode: false

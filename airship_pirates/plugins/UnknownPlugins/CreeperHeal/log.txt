@@ -1,0 +1,230 @@
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\config.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\advanced.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\config.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\advanced.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\grief.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\config.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\advanced.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\grief.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\config.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\advanced.yml
+09:17:21 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\grief.yml
+10:45:01 [INFO] Successfully hooked into Lockette
+10:49:13 [INFO] Successfully hooked into Lockette
+20:32:55 [INFO] Successfully hooked into Lockette
+08:37:50 [INFO] Successfully hooked into Lockette
+08:38:53 [INFO] Successfully hooked into Lockette
+12:20:00 [INFO] Successfully hooked into Lockette
+12:22:18 [INFO] Successfully hooked into Lockette
+12:32:38 [INFO] Successfully hooked into Lockette
+12:38:02 [INFO] Successfully hooked into Lockette
+16:11:34 [INFO] Successfully hooked into Lockette
+16:59:27 [INFO] Successfully hooked into Lockette
+20:43:24 [INFO] Successfully hooked into Lockette
+02:05:07 [INFO] Successfully hooked into Lockette
+08:57:06 [INFO] Successfully hooked into Lockette
+09:29:48 [INFO] Successfully hooked into Lockette
+09:36:38 [INFO] Successfully hooked into Lockette
+09:44:18 [INFO] Successfully hooked into Lockette
+09:48:37 [INFO] Successfully hooked into Lockette
+12:52:44 [INFO] Successfully hooked into Lockette
+09:21:05 [INFO] Successfully hooked into Lockette
+23:05:26 [INFO] Successfully hooked into Lockette
+03:53:13 [INFO] Successfully hooked into Lockette
+11:22:39 [INFO] Successfully hooked into Lockette
+12:50:32 [INFO] Successfully hooked into Lockette
+17:01:16 [INFO] Successfully hooked into Lockette
+17:59:52 [INFO] Successfully hooked into Lockette
+13:08:07 [INFO] Successfully hooked into Lockette
+14:40:32 [INFO] Successfully hooked into Lockette
+14:43:36 [INFO] Successfully hooked into Lockette
+14:55:20 [INFO] Successfully hooked into Lockette
+15:10:31 [INFO] Successfully hooked into Lockette
+15:12:31 [INFO] Successfully hooked into Lockette
+16:29:41 [INFO] Successfully hooked into Lockette
+16:33:56 [INFO] Successfully hooked into Lockette
+17:11:34 [INFO] Successfully hooked into Lockette
+17:13:12 [INFO] Successfully hooked into Lockette
+17:16:41 [INFO] Successfully hooked into Lockette
+17:22:38 [INFO] Successfully hooked into Lockette
+19:23:31 [INFO] Successfully hooked into Lockette
+13:42:00 [INFO] Successfully hooked into Lockette
+18:10:37 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\messages.properties
+11:32:56 [INFO] Successfully hooked into Lockette
+12:13:00 [INFO] Successfully hooked into Lockette
+14:23:37 [INFO] Successfully hooked into Lockette
+14:24:30 [INFO] Successfully hooked into Lockette
+15:00:52 [INFO] Successfully hooked into Lockette
+16:26:24 [INFO] Successfully hooked into Lockette
+16:28:12 [INFO] Successfully hooked into Lockette
+16:32:00 [INFO] Successfully hooked into Lockette
+14:32:49 [INFO] Successfully hooked into Lockette
+19:09:13 [INFO] Successfully hooked into Lockette
+09:37:11 [INFO] Successfully hooked into Lockette
+11:14:06 [INFO] Successfully hooked into Lockette
+16:27:18 [INFO] Successfully hooked into Lockette
+19:15:15 [INFO] Successfully hooked into Lockette
+10:40:01 [INFO] Successfully hooked into Lockette
+13:32:32 [INFO] Successfully hooked into Lockette
+19:10:47 [INFO] Successfully hooked into Lockette
+20:21:50 [INFO] Successfully hooked into Lockette
+15:21:49 [INFO] Successfully hooked into Lockette
+15:59:45 [INFO] Successfully hooked into Lockette
+17:08:00 [INFO] Successfully hooked into Lockette
+12:25:55 [INFO] Successfully hooked into Lockette
+14:27:21 [INFO] Successfully hooked into Lockette
+10:05:39 [INFO] Successfully hooked into Lockette
+16:49:37 [INFO] Successfully hooked into Lockette
+17:31:14 [INFO] Successfully hooked into Lockette
+17:43:38 [INFO] Successfully hooked into Lockette
+20:56:24 [INFO] Successfully hooked into Lockette
+09:55:46 [INFO] Successfully hooked into Lockette
+10:02:18 [INFO] Successfully hooked into Lockette
+20:00:10 [INFO] Successfully hooked into Lockette
+16:51:07 [INFO] Successfully hooked into Lockette
+18:30:58 [INFO] Successfully hooked into Lockette
+12:25:27 [INFO] Successfully hooked into Lockette
+12:36:43 [INFO] Successfully hooked into Lockette
+12:39:43 [INFO] Successfully hooked into Lockette
+15:27:13 [INFO] Successfully hooked into Lockette
+14:25:01 [INFO] Successfully hooked into Lockette
+09:03:25 [INFO] Successfully hooked into Lockette
+16:32:59 [INFO] Successfully hooked into Lockette
+16:56:49 [INFO] Successfully hooked into Lockette
+14:10:09 [INFO] Successfully hooked into Lockette
+19:20:03 [INFO] Successfully hooked into Lockette
+20:42:49 [INFO] Successfully hooked into Lockette
+17:09:58 [WARNING] Missing message property : no-permission-command
+17:09:58 [WARNING] [CreeperHeal] Wrong variable used in message no-permission-command
+17:10:06 [WARNING] Missing message property : no-permission-command
+17:10:06 [WARNING] [CreeperHeal] Wrong variable used in message no-permission-command
+19:13:12 [INFO] Successfully hooked into Lockette
+12:07:32 [INFO] Successfully hooked into Lockette
+16:12:29 [INFO] Successfully hooked into Lockette
+16:40:27 [INFO] Successfully hooked into Lockette
+17:16:50 [INFO] Successfully hooked into Lockette
+23:23:55 [INFO] Successfully hooked into Lockette
+06:57:09 [INFO] Successfully hooked into Lockette
+13:16:26 [INFO] Successfully hooked into Lockette
+13:58:08 [INFO] Successfully hooked into Lockette
+16:19:37 [WARNING] Missing message property : no-permission-command
+16:19:37 [WARNING] [CreeperHeal] Wrong variable used in message no-permission-command
+16:41:56 [INFO] Successfully hooked into Lockette
+17:21:14 [INFO] Successfully hooked into Lockette
+17:26:48 [INFO] Successfully hooked into Lockette
+22:25:16 [INFO] Successfully hooked into Lockette
+21:23:49 [INFO] Successfully hooked into Lockette
+21:49:03 [INFO] Successfully hooked into Lockette
+16:03:36 [INFO] Successfully hooked into Lockette
+13:53:23 [INFO] Successfully hooked into Lockette
+16:37:57 [INFO] Successfully hooked into Lockette
+16:38:24 [INFO] Successfully hooked into Lockette
+11:57:32 [INFO] Successfully hooked into Lockette
+15:26:56 [INFO] Successfully hooked into Lockette
+10:30:33 [INFO] Successfully hooked into Lockette
+17:05:09 [INFO] Successfully hooked into Lockette
+08:54:01 [INFO] Successfully hooked into Lockette
+09:59:52 [INFO] Successfully hooked into Lockette
+10:00:26 [INFO] Successfully hooked into Lockette
+11:20:17 [INFO] Successfully hooked into Lockette
+14:24:34 [INFO] Successfully hooked into Lockette
+18:30:02 [INFO] Successfully hooked into Lockette
+15:41:47 [INFO] Successfully hooked into Lockette
+16:50:42 [INFO] Successfully hooked into Lockette
+16:59:06 [INFO] Successfully hooked into Lockette
+18:49:05 [INFO] Successfully hooked into Lockette
+14:33:15 [INFO] Successfully hooked into Lockette
+16:04:06 [INFO] Successfully hooked into Lockette
+17:15:56 [INFO] Successfully hooked into Lockette
+12:56:20 [INFO] Successfully hooked into Lockette
+15:17:36 [INFO] Successfully hooked into Lockette
+17:40:16 [INFO] Successfully hooked into Lockette
+15:54:31 [INFO] Successfully hooked into Lockette
+16:57:24 [INFO] Successfully hooked into Lockette
+22:54:10 [WARNING] Missing message property : no-permission-command
+22:54:10 [WARNING] [CreeperHeal] Wrong variable used in message no-permission-command
+09:41:31 [INFO] Successfully hooked into Lockette
+09:56:23 [INFO] Successfully hooked into Lockette
+12:22:59 [INFO] Successfully hooked into Lockette
+17:04:01 [INFO] Successfully hooked into Lockette
+23:14:39 [INFO] Successfully hooked into Lockette
+14:41:53 [INFO] Successfully hooked into Lockette
+15:02:21 [INFO] Successfully hooked into Lockette
+18:01:54 [INFO] Successfully hooked into Lockette
+19:01:58 [INFO] Successfully hooked into Lockette
+14:25:04 [INFO] Successfully hooked into Lockette
+18:51:47 [INFO] Successfully hooked into Lockette
+21:29:22 [INFO] Successfully hooked into Lockette
+21:39:25 [INFO] Successfully hooked into Lockette
+22:14:02 [INFO] Successfully hooked into Lockette
+11:22:49 [INFO] Successfully hooked into Lockette
+15:10:03 [INFO] Successfully hooked into Lockette
+14:08:10 [INFO] Successfully hooked into Lockette
+14:54:30 [INFO] Successfully hooked into Lockette
+18:59:49 [INFO] Successfully hooked into Lockette
+12:49:09 [INFO] Successfully hooked into Lockette
+17:16:29 [INFO] Successfully hooked into Lockette
+19:22:04 [INFO] Successfully hooked into Lockette
+19:45:51 [INFO] Successfully hooked into Lockette
+10:24:16 [INFO] Successfully hooked into Lockette
+14:25:23 [INFO] Successfully hooked into Lockette
+10:47:57 [INFO] Successfully hooked into Lockette
+23:50:09 [INFO] Successfully hooked into Lockette
+09:41:19 [INFO] Successfully hooked into Lockette
+13:21:47 [INFO] Successfully hooked into Lockette
+14:29:48 [INFO] Successfully hooked into Lockette
+16:25:29 [WARNING] Missing message property : no-permission-command
+16:25:29 [WARNING] [CreeperHeal] Wrong variable used in message no-permission-command
+17:40:13 [WARNING] Missing message property : no-permission-command
+17:40:13 [WARNING] [CreeperHeal] Wrong variable used in message no-permission-command
+17:52:46 [INFO] Successfully hooked into Lockette
+18:03:11 [INFO] Successfully hooked into Lockette
+18:13:36 [INFO] Successfully hooked into Lockette
+20:02:00 [INFO] Successfully hooked into Lockette
+21:15:36 [INFO] Successfully hooked into Lockette
+03:20:18 [INFO] Successfully hooked into Lockette
+16:19:11 [INFO] Successfully hooked into Lockette
+12:21:43 [INFO] Successfully hooked into Lockette
+14:25:41 [INFO] Successfully hooked into Lockette
+17:17:06 [INFO] Successfully hooked into Lockette
+09:00:04 [INFO] Successfully hooked into Lockette
+09:03:16 [INFO] Successfully hooked into Lockette
+10:08:44 [INFO] Successfully hooked into Lockette
+16:09:51 [INFO] Successfully hooked into Lockette
+10:35:14 [INFO] Successfully hooked into Lockette
+11:17:17 [INFO] Successfully hooked into Lockette
+15:43:16 [INFO] Successfully hooked into Lockette
+05:27:47 [INFO] Successfully hooked into Lockette
+13:03:57 [INFO] Successfully hooked into Lockette
+13:42:27 [INFO] Successfully hooked into Lockette
+14:16:31 [INFO] Successfully hooked into Lockette
+16:07:10 [INFO] Successfully hooked into Lockette
+16:41:23 [INFO] Successfully hooked into Lockette
+16:58:54 [INFO] Successfully hooked into Lockette
+17:06:28 [INFO] Successfully hooked into Lockette
+08:47:45 [INFO] Successfully hooked into Lockette
+12:24:56 [INFO] Successfully hooked into Lockette
+12:56:59 [INFO] Successfully hooked into Lockette
+13:07:46 [INFO] Successfully hooked into Lockette
+13:14:08 [INFO] Successfully hooked into Lockette
+13:15:14 [INFO] Successfully hooked into Lockette
+13:17:03 [INFO] Successfully hooked into Lockette
+13:47:50 [INFO] Successfully hooked into Lockette
+13:57:45 [INFO] Successfully hooked into Lockette
+21:06:28 [INFO] Successfully hooked into Lockette
+22:30:10 [INFO] Successfully hooked into Lockette
+23:02:46 [INFO] Successfully hooked into Lockette
+10:59:59 [INFO] Successfully hooked into Factions
+14:38:24 [INFO] Successfully hooked into Factions
+21:56:34 [INFO] Successfully hooked into Factions
+06:13:45 [INFO] Successfully hooked into Factions
+09:05:32 [INFO] Successfully hooked into Factions
+22:51:19 [INFO] Successfully hooked into Factions
+00:03:57 [INFO] Successfully hooked into Factions
+08:01:05 [INFO] Successfully hooked into Factions
+08:45:54 [INFO] Successfully hooked into Factions
+11:41:10 [INFO] Successfully hooked into Factions
+12:16:06 [INFO] Successfully hooked into Factions
+19:58:56 [INFO] Successfully hooked into Factions
+19:44:42 [INFO] Successfully hooked into Factions
+20:24:02 [INFO] Successfully hooked into Factions

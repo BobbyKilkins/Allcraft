@@ -1,0 +1,15 @@
+general:
+  name: shbighouse1
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 8178.0
+        y: 65.0
+        z: 5600.0
+      facing: WEST
+      signType: WALL_SIGN
+buy:
+  price: 500000.0

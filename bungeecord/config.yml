@@ -1,0 +1,60 @@
+custom_server_name: Allcraft
+log_commands: false
+listeners:
+- query_port: 25577
+  motd: '&ANow with bungeecord!'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - staff
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 100
+  tab_size: 60
+  force_default_server: false
+online_mode: true
+connection_throttle: 4000
+groups:
+  TheJavaDev:
+  - admin
+  AirFusion_45:
+  - admin
+ip_forward: true
+always_handle_packets: false
+network_compression_threshold: 256
+stats: 2c95b70b-56f0-4242-a6f8-62a20d520f26
+prevent_proxy_connections: false
+disabled_commands:
+- disabledcommandhere
+timeout: 30000
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+servers:
+  lobby:
+    motd: '&ANow with Bungeecord!'
+    address: localhost:25566
+    restricted: false
+  airship_pirates:
+    motd: '&6Arrrgggh!'
+    address: localhost:25567
+    restricted: false
+  staff:
+    motd: '&1STAFF ONLY'
+    address: localhost:25568
+    restricted: false
+  mods:
+    motd: BEEP BOOP!
+    address: localhost:25569
+    restricted: false
+player_limit: -1

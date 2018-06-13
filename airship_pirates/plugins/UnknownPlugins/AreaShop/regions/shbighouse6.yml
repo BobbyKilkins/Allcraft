@@ -1,0 +1,7 @@
+general:
+  name: shbighouse6
+  world: world
+  type: buy
+  signs: {}
+buy:
+  price: 500000.0

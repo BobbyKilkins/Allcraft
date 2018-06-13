@@ -1,0 +1,38 @@
+lastAccountName: SkyNoob28
+timestamps:
+  login: 1524982302193
+  logout: 1524982361251
+  lastteleport: 1524972156214
+ipAddress: 24.6.231.231
+lastlocation:
+  world: world
+  x: -584.1697173828403
+  y: 86.38481896259667
+  z: 202.03818902827578
+  yaw: 245.12053
+  pitch: 40.912395
+logoutlocation:
+  world: world
+  x: -528.4554385174613
+  y: 119.0
+  z: 243.05342561808305
+  yaw: 122.63943
+  pitch: 25.584652
+homes:
+  home:
+    world: world
+    x: 840.4964162648887
+    y: 56.5
+    z: 311.30000001192093
+    yaw: 314.45938
+    pitch: 18.398294
+godmode: true
+teleportenabled: true
+nickname: Thor
+afk: false
+money: '0'
+powertools:
+  '286':
+  - fireball
+  '258':
+  - nuke

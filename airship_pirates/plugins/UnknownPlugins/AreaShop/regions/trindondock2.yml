@@ -1,0 +1,16 @@
+general:
+  name: Trindondock2
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 2398.0
+        y: 87.0
+        z: 4875.0
+      facing: NORTH
+      signType: SIGN_POST
+rent:
+  price: 1000.0
+  duration: 1 day

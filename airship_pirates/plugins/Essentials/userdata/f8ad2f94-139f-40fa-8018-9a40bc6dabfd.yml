@@ -1,0 +1,68 @@
+lastAccountName: TheJavaDev
+timestamps:
+  login: 1524787147922
+  lastteleport: 1524787958370
+  logout: 1524787975125
+ipAddress: 192.168.1.1
+lastlocation:
+  world: world
+  x: 5870.864716849319
+  y: 166.0
+  z: 3577.0584985872842
+  yaw: 304.01276
+  pitch: 4.568409
+homes:
+  sh:
+    world: world
+    x: 8125.5
+    y: 65.0
+    z: 5625.5
+    yaw: -338.79044
+    pitch: 15.657552
+  choice:
+    world: world
+    x: 5689.339952025717
+    y: 11.0
+    z: 2948.4614306773533
+    yaw: 95.59036
+    pitch: 43.305576
+  eb:
+    world: world
+    x: 2981.1360313306072
+    y: 65.0
+    z: 6648.92414791166
+    yaw: 171.77594
+    pitch: 18.72958
+  spawn:
+    world: world
+    x: 5688.995391123007
+    y: 11.0
+    z: 2948.918477329595
+    yaw: 259.63522
+    pitch: 26.102365
+  s:
+    world: world
+    x: 7554.81363895618
+    y: 71.0
+    z: 2651.814678516771
+    yaw: 74.08679
+    pitch: 8.899149
+  stovak:
+    world: world
+    x: 7562.5
+    y: 71.0
+    z: 2650.5
+    yaw: -191.33444
+    pitch: 16.271938
+money: '500'
+logoutlocation:
+  world: world
+  x: 5869.901024555427
+  y: 153.62794594698124
+  z: 3575.5350394738275
+  yaw: 91.16885
+  pitch: 70.97283
+afk: false
+powertools:
+  '268':
+  - jump

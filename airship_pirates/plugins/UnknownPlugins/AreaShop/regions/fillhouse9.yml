@@ -1,0 +1,15 @@
+general:
+  name: fillhouse9
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 6166.0
+        y: 84.0
+        z: 6428.0
+      facing: NORTH
+      signType: WALL_SIGN
+buy:
+  price: 150000.0

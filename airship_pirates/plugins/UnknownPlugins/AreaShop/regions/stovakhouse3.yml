@@ -1,0 +1,15 @@
+general:
+  name: stovakhouse3
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: 7494.0
+        y: 84.0
+        z: 2620.0
+      facing: NORTH
+      signType: WALL_SIGN
+buy:
+  price: 150000.0

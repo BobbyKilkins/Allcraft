@@ -1,0 +1,26 @@
+name: VTorpedo
+maxSize: 450
+minSize: 1
+allowedBlocks: 
+    - 35
+    - 173
+
+forbiddenBlocks:
+    - 7
+
+canCruise: true
+cruiseSkipBlocks: 0
+canFly: false
+minHeightLimit: 65
+maxHeightLimit: 65
+collisionExplosion: 6.0
+moveEntities: true
+speed: 5.0
+tryNudge: false
+sinkPercent: 99.0
+flyblocks:
+    173:
+        - 0.0
+        - 100.0
+
+

@@ -1,0 +1,16 @@
+general:
+  name: trindonapart6
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 2537.0
+        y: 104.0
+        z: 4776.0
+      facing: SOUTH
+      signType: WALL_SIGN
+rent:
+  price: 1500.0
+  duration: 1 M

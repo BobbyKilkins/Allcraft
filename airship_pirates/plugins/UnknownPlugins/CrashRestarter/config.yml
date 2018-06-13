@@ -1,0 +1,18 @@
+# CrashRestarter V3.0 By Dablakbandit
+# Enabled or Disabled. (True/False)
+Enabled: True
+
+# -------------------------Command-------------------------
+# Use: Command/Shutdown #Command uses the below command #Shutdown just shutsdown the server
+# Recommended: Shutdown
+Use: Shutdown
+
+# -------------------------Command-------------------------
+# Console Command to run (Keep the "")
+Command: "Stop"
+
+# -------------------------Other-------------------------
+# Debugging, Tells console every 30 seconds if the server is running.
+Debug: False
+# Do not touch this! Or your config will be reset
+Version: 3.1

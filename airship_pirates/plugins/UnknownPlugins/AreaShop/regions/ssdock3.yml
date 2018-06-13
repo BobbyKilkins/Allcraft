@@ -1,0 +1,8 @@
+general:
+  name: SSdock3
+  world: world
+  type: rent
+  signs: {}
+rent:
+  price: 2500.0
+  duration: 1 day

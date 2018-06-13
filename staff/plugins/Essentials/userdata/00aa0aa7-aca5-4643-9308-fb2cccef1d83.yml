@@ -1,0 +1,28 @@
+lastAccountName: JEAN_MILAN
+timestamps:
+  login: 1528852327502
+  logout: 1528853083375
+  lastteleport: 1526580395790
+ipAddress: 108.209.224.61
+logoutlocation:
+  world: world
+  x: 26.28875704225995
+  y: 96.20000004768372
+  z: 204.69429226170178
+  yaw: -16.498566
+  pitch: 42.450047
+lastlocation:
+  world: world
+  x: -414.0
+  y: 111.0
+  z: 199.0
+  yaw: -35.7
+  pitch: -25.2
+nickname: MeamMaster
+mail:
+- §6[§rServer§6] §rUse you rank wisely...
+- §6[§rServer§6] §rHave fun with your new rank...
+- §6[§rServer§6] §rsrry just got too angry
+godmode: false
+afk: false
+teleportenabled: true

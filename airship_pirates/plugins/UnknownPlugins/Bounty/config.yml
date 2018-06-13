@@ -1,0 +1,325 @@
+minBounty: 50.0
+listLength: 5
+cancelPenalty: 0.25
+awardHeadChance: 1.0
+markSkulls: true
+globalBroadcast: true
+allowAnonymous: true
+anonymousName: anonymous
+enableInAllWorlds: true
+enabledWorlds:
+- list worlds here if 'enableInAllWorlds' is false
+colors:
+  blank: §7
+  success: §a
+  failure: §c
+  global: §6
+active:
+  8c712a35-40b5-448a-a906-d138a5fba930:
+    82cdd99c-86ac-3218-84ca-b045fc5b5010:
+      reward: 4000.0
+      anonymous: false
+    acc3e06c-ca21-38ce-a703-ba0c26228d82:
+      reward: 101.0
+      anonymous: true
+    b7245e9e-38c7-4dcd-9dc2-1fba86be13fd:
+      reward: 50.0
+      anonymous: true
+    62afd44d-b04d-41fd-88d7-29a8c672fe4a:
+      reward: 50.0
+      anonymous: true
+    624c4f74-a35a-4ad2-b4e7-bbd1d413c2c9:
+      reward: 250.0
+      anonymous: true
+    aaacfb27-54c6-4634-a768-d44f54208237:
+      reward: 1000.0
+      anonymous: true
+    f46f538c-3c5b-48fc-8b22-c63b79204d85:
+      reward: 7000.0
+      anonymous: true
+    6d457c23-a239-3d2b-88e3-59dc1e214cb0:
+      reward: 51.0
+      anonymous: true
+    256d0f75-ff37-449e-b9d8-78910d9a7ebc:
+      reward: 500.0
+      anonymous: true
+    b2304bdc-53f0-4c19-8461-40e98051ca45:
+      reward: 350.0
+      anonymous: true
+    167648f2-f524-4e0a-a1dc-bb5b64c8ac12:
+      reward: 400.0
+      anonymous: true
+    da4c5d08-8f5e-491c-bd85-4a456046dee9:
+      reward: 530.0
+      anonymous: true
+  d369cafb-1ed9-4b33-98a8-bcc61257657d:
+    82cdd99c-86ac-3218-84ca-b045fc5b5010:
+      reward: 50.0
+      anonymous: true
+    6d457c23-a239-3d2b-88e3-59dc1e214cb0:
+      reward: 50.0
+      anonymous: true
+    f46f538c-3c5b-48fc-8b22-c63b79204d85:
+      reward: 151.0
+      anonymous: false
+    aaacfb27-54c6-4634-a768-d44f54208237:
+      reward: 110.0
+      anonymous: true
+    4eaad9cf-b3ad-4cfa-90a8-2a1be8407f6a:
+      reward: 8050.0
+      anonymous: true
+    7b778499-2de8-408c-b70d-47f74fe5bef2:
+      reward: 50.0
+      anonymous: true
+    256d0f75-ff37-449e-b9d8-78910d9a7ebc:
+      reward: 100.0
+      anonymous: true
+    0513d1d9-bb50-49d8-8bd7-f2d536cb5e7b:
+      reward: 50.0
+      anonymous: true
+    fc83d40b-b7a5-467e-99ca-5e52b1b25de2:
+      reward: 101.0
+      anonymous: false
+    0da099cb-62a1-45b1-9aba-54ee76f8b3f1:
+      reward: 50.0
+      anonymous: true
+    2c2f225d-35b8-46cc-8e53-bd250c4a79c4:
+      reward: 50.0
+      anonymous: true
+    f48633d4-027a-4a33-bf0f-d2f1556a1f37:
+      reward: 50.0
+      anonymous: true
+    03d535c4-1113-491e-bb9d-c3775d494ee1:
+      reward: 50.0
+      anonymous: true
+    d6a071b6-2062-4676-a115-699048e624ef:
+      reward: 50.0
+      anonymous: true
+    345df9ff-2272-431f-9d68-07af6e0a7475:
+      reward: 50.0
+      anonymous: true
+    57414949-a9ff-4bf0-a003-165f207a9bba:
+      reward: 50.0
+      anonymous: true
+    777e939a-9766-4152-8816-e97322d0fa53:
+      reward: 50.0
+      anonymous: true
+  f46f538c-3c5b-48fc-8b22-c63b79204d85:
+    8c712a35-40b5-448a-a906-d138a5fba930:
+      reward: 7451.0
+      anonymous: false
+    f36e8afb-f77e-4bf5-9dfd-ef2ea08dc773:
+      reward: 666.0
+      anonymous: false
+    62afd44d-b04d-41fd-88d7-29a8c672fe4a:
+      reward: 666.0
+      anonymous: false
+    aaacfb27-54c6-4634-a768-d44f54208237:
+      reward: 666.0
+      anonymous: false
+    a6453fde-853a-4516-982f-05f7543266a2:
+      reward: 50.0
+      anonymous: false
+    ca82bd2a-edb5-41e4-80cd-5a740ccc09ad:
+      reward: 900.0
+      anonymous: false
+    f48633d4-027a-4a33-bf0f-d2f1556a1f37:
+      reward: 3000.0
+      anonymous: false
+    3edb5103-c796-4d67-9163-615d8d439e13:
+      reward: 116.0
+      anonymous: false
+    8878adf1-d78b-445a-a44d-5a42e67ed350:
+      reward: 50.0
+      anonymous: false
+    57414949-a9ff-4bf0-a003-165f207a9bba:
+      reward: 50.0
+      anonymous: false
+    0da099cb-62a1-45b1-9aba-54ee76f8b3f1:
+      reward: 116.0
+      anonymous: false
+    d369cafb-1ed9-4b33-98a8-bcc61257657d:
+      reward: 6676.0
+      anonymous: false
+    f46f538c-3c5b-48fc-8b22-c63b79204d85:
+      reward: 4000.0
+      anonymous: false
+    256d0f75-ff37-449e-b9d8-78910d9a7ebc:
+      reward: 50.0
+      anonymous: false
+  b7245e9e-38c7-4dcd-9dc2-1fba86be13fd:
+    a3e0de76-f567-38f3-9582-25c73f0b0845:
+      reward: 1000.0
+      anonymous: true
+  d6a071b6-2062-4676-a115-699048e624ef:
+    4eaad9cf-b3ad-4cfa-90a8-2a1be8407f6a:
+      reward: 50.0
+      anonymous: false
+    2c2f225d-35b8-46cc-8e53-bd250c4a79c4:
+      reward: 15000.0
+      anonymous: true
+    f46f538c-3c5b-48fc-8b22-c63b79204d85:
+      reward: 50.0
+      anonymous: false
+  44fcde95-addd-4fcb-a443-3de3dfdab12f:
+    624c4f74-a35a-4ad2-b4e7-bbd1d413c2c9:
+      reward: 1000.0
+      anonymous: false
+    6d457c23-a239-3d2b-88e3-59dc1e214cb0:
+      reward: 666.0
+      anonymous: false
+  e317a9eb-5f6b-4b9c-be5e-de8f10456028:
+    22f668dc-7567-4a03-baae-1b8e44c7bea4:
+      reward: 50.0
+      anonymous: false
+  f48633d4-027a-4a33-bf0f-d2f1556a1f37:
+    22f668dc-7567-4a03-baae-1b8e44c7bea4:
+      reward: 500.0
+      anonymous: false
+    fc83d40b-b7a5-467e-99ca-5e52b1b25de2:
+      reward: 1050.0
+      anonymous: false
+  2c2f225d-35b8-46cc-8e53-bd250c4a79c4:
+    e317a9eb-5f6b-4b9c-be5e-de8f10456028:
+      reward: 50.0
+      anonymous: false
+    f48633d4-027a-4a33-bf0f-d2f1556a1f37:
+      reward: 50.0
+      anonymous: false
+    2c2f225d-35b8-46cc-8e53-bd250c4a79c4:
+      reward: 50.0
+      anonymous: false
+  81f29489-22aa-4c61-bcf7-ea36c55ffb84:
+    938edc43-71da-350e-8b58-bf03a9ba27c7:
+      reward: 50.0
+      anonymous: false
+    dc68d1a8-3eed-4b98-8503-adf15863bce3:
+      reward: 100.0
+      anonymous: true
+    d90c48f9-e059-4c8f-981d-8acbdb21b5c0:
+      reward: 200.0
+      anonymous: true
+    256d0f75-ff37-449e-b9d8-78910d9a7ebc:
+      reward: 348.0
+      anonymous: true
+    517a7931-11cc-43cd-96b9-81a9b95d74fe:
+      reward: 50.0
+      anonymous: true
+  0513d1d9-bb50-49d8-8bd7-f2d536cb5e7b:
+    167648f2-f524-4e0a-a1dc-bb5b64c8ac12:
+      reward: 51.0
+      anonymous: false
+    1a7f667e-57cb-4ed9-8bdc-aba5d1a1f8fc:
+      reward: 56.0
+      anonymous: true
+    df35b529-c1b8-48e7-9929-ae70e51a1189:
+      reward: 104.0
+      anonymous: true
+  256d0f75-ff37-449e-b9d8-78910d9a7ebc:
+    7b778499-2de8-408c-b70d-47f74fe5bef2:
+      reward: 100.0
+      anonymous: true
+    d90c48f9-e059-4c8f-981d-8acbdb21b5c0:
+      reward: 100.0
+      anonymous: true
+    4eaad9cf-b3ad-4cfa-90a8-2a1be8407f6a:
+      reward: 500.0
+      anonymous: true
+    9c643c37-3c06-4e0f-a3a7-f993a181fbaa:
+      reward: 50.0
+      anonymous: true
+    d6a071b6-2062-4676-a115-699048e624ef:
+      reward: 100.0
+      anonymous: false
+  dc68d1a8-3eed-4b98-8503-adf15863bce3:
+    b7245e9e-38c7-4dcd-9dc2-1fba86be13fd:
+      reward: 200.0
+      anonymous: true
+  df35b529-c1b8-48e7-9929-ae70e51a1189:
+    256d0f75-ff37-449e-b9d8-78910d9a7ebc:
+      reward: 1000.0
+      anonymous: true
+    5e0a7fde-62bf-4107-a1ee-9b623e41ede6:
+      reward: 777.0
+      anonymous: true
+    fc83d40b-b7a5-467e-99ca-5e52b1b25de2:
+      reward: 3000.0
+      anonymous: true
+    f46f538c-3c5b-48fc-8b22-c63b79204d85:
+      reward: 1000.0
+      anonymous: true
+  fc83d40b-b7a5-467e-99ca-5e52b1b25de2:
+    b2304bdc-53f0-4c19-8461-40e98051ca45:
+      reward: 2550.0
+      anonymous: false
+    df35b529-c1b8-48e7-9929-ae70e51a1189:
+      reward: 100.0
+      anonymous: false
+    f48633d4-027a-4a33-bf0f-d2f1556a1f37:
+      reward: 50.0
+      anonymous: false
+    7c7d41c6-ce18-44cd-862e-4ca8c1a14c36:
+      reward: 1400.0
+      anonymous: false
+    2c2f225d-35b8-46cc-8e53-bd250c4a79c4:
+      reward: 500.0
+      anonymous: false
+    624c4f74-a35a-4ad2-b4e7-bbd1d413c2c9:
+      reward: 50.0
+      anonymous: false
+  167648f2-f524-4e0a-a1dc-bb5b64c8ac12:
+    df35b529-c1b8-48e7-9929-ae70e51a1189:
+      reward: 100.0
+      anonymous: true
+    167648f2-f524-4e0a-a1dc-bb5b64c8ac12:
+      reward: 50.0
+      anonymous: false
+  2010651b-4f0e-40df-82d4-922a2b49b9ee:
+    e317a9eb-5f6b-4b9c-be5e-de8f10456028:
+      reward: 52.0
+      anonymous: false
+    3e6a5f19-bb37-4f9a-94e0-7ccd67ef1d61:
+      reward: 100.0
+      anonymous: false
+    f46f538c-3c5b-48fc-8b22-c63b79204d85:
+      reward: 1127.0
+      anonymous: false
+    57414949-a9ff-4bf0-a003-165f207a9bba:
+      reward: 500.0
+      anonymous: false
+    2c2f225d-35b8-46cc-8e53-bd250c4a79c4:
+      reward: 4600.0
+      anonymous: false
+    d842e30f-cf7c-438b-919b-b569937c710e:
+      reward: 100.0
+      anonymous: false
+    f48633d4-027a-4a33-bf0f-d2f1556a1f37:
+      reward: 912.0
+      anonymous: false
+    7b778499-2de8-408c-b70d-47f74fe5bef2:
+      reward: 150.0
+      anonymous: false
+  7c7d41c6-ce18-44cd-862e-4ca8c1a14c36:
+    fc83d40b-b7a5-467e-99ca-5e52b1b25de2:
+      reward: 800.0
+      anonymous: false
+  517a7931-11cc-43cd-96b9-81a9b95d74fe:
+    81f29489-22aa-4c61-bcf7-ea36c55ffb84:
+      reward: 50.0
+      anonymous: false
+  8878adf1-d78b-445a-a44d-5a42e67ed350:
+    f46f538c-3c5b-48fc-8b22-c63b79204d85:
+      reward: 50.0
+      anonymous: false
+  67a0e719-3840-49e3-b867-2fc2fee1fce0:
+    ce77f6a5-7f68-4dce-80ce-847e32ff49ef:
+      reward: 50.0
+      anonymous: false
+    67a0e719-3840-49e3-b867-2fc2fee1fce0:
+      reward: 50.0
+      anonymous: false
+  7b778499-2de8-408c-b70d-47f74fe5bef2:
+    256d0f75-ff37-449e-b9d8-78910d9a7ebc:
+      reward: 50.0
+      anonymous: false
+completed: {}

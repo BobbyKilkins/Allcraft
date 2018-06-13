@@ -1,0 +1,16 @@
+general:
+  name: shapart15
+  world: world
+  type: rent
+  signs:
+    '0':
+      location:
+        world: world
+        x: 8119.0
+        y: 67.0
+        z: 5768.0
+      facing: EAST
+      signType: WALL_SIGN
+rent:
+  price: 1200.0
+  duration: 1 M
