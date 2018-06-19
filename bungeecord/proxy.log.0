@@ -11576,3 +11576,242 @@ WARNING: Failed to find a usable hardware address from the network interfaces; u
 21:41:58 [INFO] [/67.169.137.124:55370] <-> InitialHandler has connected
 22:48:38 [INFO] [/125.212.217.214:58211] <-> InitialHandler has connected
 23:14:14 [INFO] [/99.89.34.31:57666] <-> InitialHandler has connected
+20:38:55 [INFO] Using mbed TLS based native cipher.
+20:38:55 [INFO] Using zlib based native compressor.
+20:38:55 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+20:38:55 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:38:55 [INFO] Epoll is working, utilising it!
+20:38:55 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:38:55 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:38:55 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:38:55 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:38:55 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:38:55 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:38:55 [INFO] Attempting to update plugin from ModuleVersion(build=1305, git=272258c) to ModuleVersion(build=1319, git=c070419)
+20:38:55 [INFO] Attempting to Jenkins download module cmd_alert v1319
+20:38:56 [INFO] Download complete
+20:38:56 [INFO] Attempting to update plugin from ModuleVersion(build=1305, git=272258c) to ModuleVersion(build=1319, git=c070419)
+20:38:56 [INFO] Attempting to Jenkins download module cmd_find v1319
+20:38:56 [INFO] Download complete
+20:38:56 [INFO] Attempting to update plugin from ModuleVersion(build=1305, git=272258c) to ModuleVersion(build=1319, git=c070419)
+20:38:56 [INFO] Attempting to Jenkins download module cmd_list v1319
+20:38:56 [INFO] Download complete
+20:38:56 [INFO] Attempting to update plugin from ModuleVersion(build=1305, git=272258c) to ModuleVersion(build=1319, git=c070419)
+20:38:56 [INFO] Attempting to Jenkins download module cmd_send v1319
+20:38:56 [INFO] Download complete
+20:38:56 [INFO] Attempting to update plugin from ModuleVersion(build=1305, git=272258c) to ModuleVersion(build=1319, git=c070419)
+20:38:56 [INFO] Attempting to Jenkins download module cmd_server v1319
+20:38:57 [INFO] Download complete
+20:38:57 [INFO] Attempting to update plugin from ModuleVersion(build=1305, git=272258c) to ModuleVersion(build=1319, git=c070419)
+20:38:57 [INFO] Attempting to Jenkins download module reconnect_yaml v1319
+20:38:57 [INFO] Download complete
+20:38:57 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [WARNING] Forced host server pvp is not defined
+20:38:57 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:38:57 [INFO] Listening on /0.0.0.0:25565
+20:38:59 [INFO] Closing listener [id: 0x8f4d1a63, L:/0.0.0.0:25565]
+20:38:59 [INFO] Closing pending connections
+20:38:59 [INFO] Disconnecting 0 connections
+20:39:00 [INFO] Saving reconnect locations
+20:39:00 [INFO] Disabling plugins
+20:39:00 [INFO] Closing IO threads
+20:46:42 [INFO] Using mbed TLS based native cipher.
+20:46:42 [INFO] Using zlib based native compressor.
+20:46:42 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+20:46:42 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:46:42 [INFO] Epoll is working, utilising it!
+20:46:42 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:46:42 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:46:42 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:46:42 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:46:42 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:46:42 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:46:42 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [WARNING] Forced host server pvp is not defined
+20:46:42 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+20:46:42 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:46:42 [INFO] Listening on /0.0.0.0:25565
+20:52:49 [INFO] [/192.168.1.1:52778] <-> InitialHandler has connected
+20:52:51 [INFO] [/192.168.1.1:52779] <-> InitialHandler has connected
+20:52:53 [INFO] [/192.168.1.1:52780] <-> InitialHandler has connected
+20:52:54 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+20:52:54 [INFO] [TheJavaDev] disconnected with: §cKicked whilst connecting to mods: §fThis server has mods that require FML/Forge to be installed on the client. Contact your server admin for more details.
+20:52:54 [INFO] [TheJavaDev] <-> ServerConnector [mods] has disconnected
+20:52:54 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+20:53:24 [INFO] §cCommand not found
+20:53:30 [INFO] Closing listener [id: 0x16371a7e, L:/0.0.0.0:25565]
+20:53:30 [INFO] Closing pending connections
+20:53:30 [INFO] Disconnecting 0 connections
+20:53:31 [INFO] Saving reconnect locations
+20:53:31 [INFO] Disabling plugins
+20:53:31 [INFO] Closing IO threads
+20:54:59 [INFO] Using mbed TLS based native cipher.
+20:54:59 [INFO] Using zlib based native compressor.
+20:54:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+20:54:59 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:54:59 [INFO] Epoll is working, utilising it!
+20:54:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:54:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:54:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:54:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:54:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:54:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:54:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+20:54:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [WARNING] Forced host server pvp is not defined
+20:54:59 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+20:54:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+20:54:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:54:59 [INFO] Listening on /0.0.0.0:25565
+20:55:02 [INFO] Closing listener [id: 0x403c81b1, L:/0.0.0.0:25565]
+20:55:02 [INFO] Closing pending connections
+20:55:02 [INFO] Disconnecting 0 connections
+20:55:03 [INFO] Saving reconnect locations
+20:55:03 [INFO] Disabling plugins
+20:55:03 [INFO] Closing IO threads
+20:55:15 [INFO] Using mbed TLS based native cipher.
+20:55:15 [INFO] Using zlib based native compressor.
+20:55:15 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+20:55:15 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:55:15 [INFO] Epoll is working, utilising it!
+20:55:15 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:55:15 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:55:15 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:55:15 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:55:15 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:55:15 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:55:15 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:15 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:15 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:15 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+20:55:16 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [WARNING] Forced host server pvp is not defined
+20:55:16 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+20:55:16 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+20:55:16 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+20:55:16 [INFO] Listening on /0.0.0.0:25565
+21:08:32 [INFO] [/192.168.1.1:53007] <-> InitialHandler has connected
+21:08:36 [INFO] [/192.168.1.1:53008] <-> InitialHandler has connected
+21:08:36 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+21:08:36 [INFO] [SpongePls]  for the target "mods".
+21:08:36 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+21:08:37 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+21:08:37 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+21:08:37 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+21:08:37 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+21:08:37 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+21:08:37 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+21:08:37 [INFO] [TheJavaDev] disconnected with: §cKicked whilst connecting to mods: §fServer Mod rejections:
+Davinci's Vessels: Requires version @DVESSELSVER@ but mod is not found on client.
+HatStand: Requires version 7.0.0 or above, and below 7.1.0 but mod is not found on client.
+Hats: Requires version 7.0.0 or above, and below 7.1.0 but mod is not found on client.
+Moving World: Requires version 1.12-6.342 but mod is not found on client.
+OpenBlocks: Requires version 1.7.6 but mod is not found on client.
+OpenModsLib: Requires version 0.11.5 but mod is not found on client.
+iChunUtil: Requires version 7.1.0 or above, and below 7.2.0 but mod is not found on client.
+21:08:37 [INFO] [TheJavaDev] <-> ServerConnector [mods] has disconnected
+21:08:37 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+21:11:40 [INFO] [/108.209.224.61:57181] <-> InitialHandler has connected
+21:20:41 [INFO] [/192.168.1.1:53158] <-> InitialHandler has connected
+21:20:45 [INFO] [/192.168.1.1:53159] <-> InitialHandler has connected
+21:20:46 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+21:20:46 [INFO] [SpongePls]  for the target "mods".
+21:20:46 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+21:20:46 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+21:20:46 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+21:20:46 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+21:20:46 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+21:20:46 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+21:20:46 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+21:20:46 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+21:20:46 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+21:20:46 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+21:20:46 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+21:20:46 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+21:20:46 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+21:20:49 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+21:20:49 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+21:20:49 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+21:20:49 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+21:20:49 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+21:20:49 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+21:20:49 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+21:20:49 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+21:21:07 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+21:21:07 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [mods] has disconnected
+21:21:11 [INFO] [/192.168.1.1:53163] <-> InitialHandler has connected
+21:22:23 [INFO] [/99.89.34.31:62248] <-> InitialHandler has connected
+21:23:51 [INFO] [/108.209.224.61:57316] <-> InitialHandler has connected
+21:23:54 [INFO] [SpongePls] Using the Forge Server Connector for JEAN_MILAN
+21:23:54 [INFO] [SpongePls]  for the target "mods".
+21:23:54 [INFO] [JEAN_MILAN] <-> ServerConnector [mods] has connected
+21:23:54 [INFO] [JEAN_MILAN] disconnected with: §cKicked whilst connecting to mods: §fThis server has mods that require FML/Forge to be installed on the client. Contact your server admin for more details.
+21:23:54 [INFO] [JEAN_MILAN] <-> ServerConnector [mods] has disconnected
+21:23:54 [INFO] [JEAN_MILAN] -> UpstreamBridge has disconnected

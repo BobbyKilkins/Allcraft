@@ -1,2 +1,2 @@
 #!/bin/bash
-java -Xmx1G -Xms1G -jar HexaCord-v190.jar
+java -Xmx1G -Xms1G -jar BungeeCord.jar

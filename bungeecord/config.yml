@@ -1,8 +1,9 @@
 custom_server_name: Allcraft
 log_commands: false
+network_compression_threshold: 256
 listeners:
 - query_port: 25577
-  motd: '&ANow with bungeecord!'
+  motd: '&6Now with mods!'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
@@ -10,7 +11,7 @@ listeners:
     pvp.md-5.net: pvp
   ping_passthrough: false
   priorities:
-  - staff
+  - mods
   bind_local_address: true
   host: 0.0.0.0:25565
   max_players: 100
@@ -25,7 +26,7 @@ groups:
   - admin
 ip_forward: true
 always_handle_packets: false
-network_compression_threshold: 256
+forge_support: true
 stats: 2c95b70b-56f0-4242-a6f8-62a20d520f26
 prevent_proxy_connections: false
 disabled_commands:
@@ -42,7 +43,7 @@ permissions:
   - bungeecord.command.reload
 servers:
   lobby:
-    motd: '&ANow with Bungeecord!'
+    motd: '&AWelcome to Allcraft!'
     address: localhost:25566
     restricted: false
   airship_pirates:
@@ -54,7 +55,7 @@ servers:
     address: localhost:25568
     restricted: false
   mods:
-    motd: BEEP BOOP!
+    motd: '&6Industrial Revolution'
     address: localhost:25569
     restricted: false
 player_limit: -1

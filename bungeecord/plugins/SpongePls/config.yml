@@ -1,0 +1,6 @@
+#####################################
+# SpongePls coniguration. YAML ONLY #
+#####################################
+
+allowed-servers:
+  - mods
