@@ -13336,3 +13336,12 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 14:53:35 [INFO] [/24.6.231.231:57496] <-> InitialHandler has connected
 14:54:33 [INFO] [/24.6.231.231:57589] <-> InitialHandler has connected
 14:54:34 [INFO] [/24.6.231.231:57590] <-> InitialHandler has connected
+15:50:33 [INFO] [/99.89.34.31:53517] <-> InitialHandler has connected
+15:51:06 [INFO] [/24.6.231.231:58057] <-> InitialHandler has connected
+15:51:09 [INFO] [/24.6.231.231:58061] <-> InitialHandler has connected
+15:51:09 [INFO] [SkyNoob28] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+15:51:10 [INFO] [SkyNoob28] -> UpstreamBridge has disconnected
+15:51:29 [INFO] [/24.6.231.231:58064] <-> InitialHandler has connected
+15:52:38 [INFO] [/24.6.231.231:58212] <-> InitialHandler has connected
+15:53:32 [INFO] [/24.6.231.231:58433] <-> InitialHandler has connected
+15:53:32 [INFO] [/24.6.231.231:58436] <-> InitialHandler has connected
