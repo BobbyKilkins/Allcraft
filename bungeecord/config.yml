@@ -1,10 +1,9 @@
-forge_support: true
-timeout: 30000
 custom_server_name: Allcraft
 log_commands: false
+network_compression_threshold: 256
 listeners:
 - query_port: 25577
-  motd: '&6Now with mods!'
+  motd: '&BA long way to go'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
@@ -27,11 +26,12 @@ groups:
   - admin
 ip_forward: true
 always_handle_packets: false
-network_compression_threshold: 256
+forge_support: true
+stats: 2c95b70b-56f0-4242-a6f8-62a20d520f26
 prevent_proxy_connections: false
 disabled_commands:
 - disabledcommandhere
-stats: 2c95b70b-56f0-4242-a6f8-62a20d520f26
+timeout: 30000
 permissions:
   default:
   - bungeecord.command.server

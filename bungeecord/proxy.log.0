@@ -12055,3 +12055,1284 @@ iChunUtil: Requires version 7.1.0 or above, and below 7.2.0 but mod is not found
 18:24:14 [INFO] [/99.89.34.31:50108] <-> InitialHandler has connected
 18:26:35 [INFO] [/99.31.212.148:62371] <-> InitialHandler has connected
 18:59:36 [INFO] [/99.31.212.148:62697] <-> InitialHandler has connected
+19:11:56 [INFO] [/99.31.212.148:62804] <-> InitialHandler has connected
+19:18:37 [INFO] [/192.168.1.1:51447] <-> InitialHandler has connected
+19:18:38 [INFO] [/108.209.224.61:60133] <-> InitialHandler has connected
+19:18:38 [INFO] [/192.168.1.1:51451] <-> InitialHandler has connected
+19:18:39 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+19:21:33 [INFO] [/108.209.224.61:60253] <-> InitialHandler has connected
+19:21:34 [INFO] [/108.209.224.61:60257] <-> InitialHandler has connected
+19:21:36 [INFO] [/108.209.224.61:60258] <-> InitialHandler has connected
+19:21:38 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has connected
+19:27:48 [WARNING] [JEAN_MILAN] <-> DownstreamBridge <-> [staff] - read timed out
+19:27:48 [INFO] [JEAN_MILAN] disconnected with: §fReadTimeoutException : null
+19:27:48 [INFO] [JEAN_MILAN] <-> DownstreamBridge <-> [staff] has disconnected
+19:27:48 [INFO] [JEAN_MILAN] -> UpstreamBridge has disconnected
+19:27:53 [INFO] [/108.209.224.61:60284] <-> InitialHandler has connected
+19:27:53 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has connected
+19:28:00 [INFO] [JEAN_MILAN] -> UpstreamBridge has disconnected
+19:28:20 [WARNING] [TheJavaDev] <-> DownstreamBridge <-> [staff] - read timed out
+19:28:20 [INFO] [TheJavaDev] disconnected with: §fReadTimeoutException : null
+19:28:20 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+19:28:20 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+19:28:23 [WARNING] [JEAN_MILAN] <-> ServerConnector [staff] - read timed out
+19:28:23 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has disconnected
+19:28:52 [INFO] [/192.168.1.1:51582] <-> InitialHandler has connected
+19:28:53 [INFO] [TheJavaDev] <-> InitialHandler has connected
+19:28:54 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+19:28:59 [INFO] [/108.209.224.61:60288] <-> InitialHandler has connected
+19:28:59 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has connected
+19:29:00 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has disconnected
+19:29:16 [INFO] [/99.89.34.31:50164] <-> InitialHandler has connected
+19:29:29 [WARNING] [JEAN_MILAN] -> UpstreamBridge - read timed out
+19:29:29 [INFO] [JEAN_MILAN] disconnected with: §fReadTimeoutException : null
+19:29:29 [INFO] [JEAN_MILAN] -> UpstreamBridge has disconnected
+19:29:34 [INFO] [/108.209.224.61:60294] <-> InitialHandler has connected
+19:29:35 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has connected
+19:29:35 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has disconnected
+19:30:05 [WARNING] [JEAN_MILAN] -> UpstreamBridge - read timed out
+19:30:05 [INFO] [JEAN_MILAN] disconnected with: §fReadTimeoutException : null
+19:30:05 [INFO] [JEAN_MILAN] -> UpstreamBridge has disconnected
+19:30:10 [INFO] [/108.209.224.61:60300] <-> InitialHandler has connected
+19:30:11 [INFO] [/108.209.224.61:60305] <-> InitialHandler has connected
+19:30:17 [INFO] [/108.209.224.61:60306] <-> InitialHandler has connected
+19:30:18 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has connected
+19:30:18 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has disconnected
+19:30:48 [WARNING] [JEAN_MILAN] -> UpstreamBridge - read timed out
+19:30:48 [INFO] [JEAN_MILAN] disconnected with: §fReadTimeoutException : null
+19:30:48 [INFO] [JEAN_MILAN] -> UpstreamBridge has disconnected
+19:33:35 [INFO] [/108.209.224.61:60404] <-> InitialHandler has connected
+19:33:38 [INFO] [/108.209.224.61:60407] <-> InitialHandler has connected
+19:33:41 [INFO] [/108.209.224.61:60410] <-> InitialHandler has connected
+19:33:44 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has connected
+19:33:44 [INFO] [JEAN_MILAN] <-> ServerConnector [staff] has disconnected
+19:34:14 [WARNING] [JEAN_MILAN] -> UpstreamBridge - read timed out
+19:34:14 [INFO] [JEAN_MILAN] disconnected with: §fReadTimeoutException : null
+19:34:14 [INFO] [JEAN_MILAN] -> UpstreamBridge has disconnected
+19:34:23 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+19:34:23 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+19:34:23 [INFO] [/192.168.1.1:51602] <-> InitialHandler has connected
+19:58:43 [INFO] [/99.31.212.148:62903] <-> InitialHandler has connected
+20:00:02 [INFO] [/99.31.212.148:62934] <-> InitialHandler has connected
+20:36:28 [INFO] [/108.209.224.61:60971] <-> InitialHandler has connected
+20:45:12 [INFO] [/108.95.131.34:55646] <-> InitialHandler has connected
+20:45:13 [INFO] [/108.95.131.34:55654] <-> InitialHandler has connected
+20:50:19 [INFO] [/99.89.34.31:50225] <-> InitialHandler has connected
+20:52:16 [INFO] [/99.31.212.148:63050] <-> InitialHandler has connected
+20:56:13 [INFO] [/99.89.34.31:50312] <-> InitialHandler has connected
+20:57:19 [INFO] [/99.31.212.148:63095] <-> InitialHandler has connected
+20:59:22 [INFO] [/99.31.212.148:63132] <-> InitialHandler has connected
+20:59:49 [INFO] [/99.31.212.148:63169] <-> InitialHandler has connected
+21:01:28 [INFO] [/99.31.212.148:63206] <-> InitialHandler has connected
+21:01:59 [INFO] [/99.31.212.148:63235] <-> InitialHandler has connected
+21:03:14 [INFO] [/99.31.212.148:63273] <-> InitialHandler has connected
+21:03:16 [INFO] [/99.31.212.148:63301] <-> InitialHandler has connected
+21:03:21 [INFO] [/99.31.212.148:63331] <-> InitialHandler has connected
+21:03:32 [INFO] [/99.31.212.148:63366] <-> InitialHandler has connected
+21:03:37 [INFO] [/99.31.212.148:63397] <-> InitialHandler has connected
+21:10:30 [INFO] [/99.89.34.31:50411] <-> InitialHandler has connected
+21:39:27 [INFO] [/108.95.131.34:55851] <-> InitialHandler has connected
+21:43:43 [INFO] Closing listener [id: 0x0d561efb, L:/0.0.0.0:25565]
+21:43:43 [INFO] Closing pending connections
+21:43:43 [INFO] Disconnecting 0 connections
+21:43:44 [INFO] Saving reconnect locations
+21:43:44 [INFO] Disabling plugins
+21:43:44 [INFO] Closing IO threads
+21:43:47 [INFO] Using mbed TLS based native cipher.
+21:43:47 [INFO] Using zlib based native compressor.
+21:43:47 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+21:43:47 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:43:47 [INFO] Epoll is working, utilising it!
+21:43:47 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:43:47 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:43:47 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:43:47 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:43:47 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:43:47 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:43:47 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+21:43:47 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [WARNING] Forced host server pvp is not defined
+21:43:47 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:43:47 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+21:43:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+21:43:47 [INFO] Listening on /0.0.0.0:25565
+23:38:04 [INFO] [/99.89.34.31:50493] <-> InitialHandler has connected
+00:40:26 [INFO] [/99.89.34.31:50525] <-> InitialHandler has connected
+01:07:26 [INFO] [/99.89.34.31:50551] <-> InitialHandler has connected
+06:54:28 [INFO] [/80.82.77.33:60687] <-> InitialHandler has connected
+07:37:43 [INFO] [/99.31.212.148:63721] <-> InitialHandler has connected
+07:38:57 [INFO] [/99.31.212.148:63898] <-> InitialHandler has connected
+07:41:18 [INFO] [/99.31.212.148:63942] <-> InitialHandler has connected
+07:47:36 [INFO] [/99.31.212.148:64163] <-> InitialHandler has connected
+08:20:56 [INFO] [/99.31.212.148:64280] <-> InitialHandler has connected
+09:53:11 [INFO] [/99.31.212.148:49506] <-> InitialHandler has connected
+09:53:14 [INFO] [/99.31.212.148:49538] <-> InitialHandler has connected
+10:40:27 [INFO] [/99.31.212.148:49643] <-> InitialHandler has connected
+11:02:28 [INFO] [/99.31.212.148:49871] <-> InitialHandler has connected
+11:08:43 [INFO] [/99.31.212.148:50056] <-> InitialHandler has connected
+11:10:32 [INFO] [/99.31.212.148:50101] <-> InitialHandler has connected
+11:11:23 [INFO] [/99.31.212.148:50132] <-> InitialHandler has connected
+11:25:33 [INFO] [/99.31.212.148:50176] <-> InitialHandler has connected
+11:29:40 [INFO] [/99.31.212.148:50443] <-> InitialHandler has connected
+11:29:57 [INFO] [/99.31.212.148:50479] <-> InitialHandler has connected
+11:43:48 [INFO] [/99.31.212.148:50999] <-> InitialHandler has connected
+12:03:39 [INFO] [/99.31.212.148:51059] <-> InitialHandler has connected
+12:19:13 [INFO] [/99.31.212.148:51285] <-> InitialHandler has connected
+12:29:38 [INFO] [/99.31.212.148:51335] <-> InitialHandler has connected
+12:29:49 [INFO] [/99.31.212.148:51368] <-> InitialHandler has connected
+12:40:38 [INFO] [/99.31.212.148:51421] <-> InitialHandler has connected
+12:45:49 [INFO] [/99.89.34.31:50727] <-> InitialHandler has connected
+12:48:14 [INFO] [/99.31.212.148:51638] <-> InitialHandler has connected
+12:50:27 [INFO] [/99.89.34.31:50858] <-> InitialHandler has connected
+12:51:28 [INFO] [/108.95.131.34:61238] <-> InitialHandler has connected
+12:51:41 [INFO] [/108.95.131.34:61254] <-> InitialHandler has connected
+12:54:30 [INFO] [/99.89.34.31:50868] <-> InitialHandler has connected
+13:22:01 [INFO] [/99.31.212.148:51919] <-> InitialHandler has connected
+13:35:53 [INFO] [/99.31.212.148:51977] <-> InitialHandler has connected
+13:39:01 [INFO] [/99.31.212.148:52185] <-> InitialHandler has connected
+13:40:47 [INFO] [/99.31.212.148:52222] <-> InitialHandler has connected
+14:01:11 [INFO] [/99.31.212.148:52320] <-> InitialHandler has connected
+14:07:21 [INFO] [/99.31.212.148:52360] <-> InitialHandler has connected
+16:03:44 [INFO] [/99.31.212.148:52656] <-> InitialHandler has connected
+16:05:44 [INFO] [/99.31.212.148:52694] <-> InitialHandler has connected
+17:25:40 [INFO] [/99.31.212.148:52816] <-> InitialHandler has connected
+17:49:08 [INFO] [/99.89.34.31:51134] <-> InitialHandler has connected
+18:06:59 [INFO] [/99.89.34.31:51170] <-> InitialHandler has connected
+18:27:29 [INFO] [/99.31.212.148:52924] <-> InitialHandler has connected
+18:27:48 [INFO] [/99.31.212.148:53162] <-> InitialHandler has connected
+19:02:42 [INFO] [/99.31.212.148:53233] <-> InitialHandler has connected
+19:02:54 [INFO] [/99.89.34.31:51264] <-> InitialHandler has connected
+20:52:34 [INFO] [/99.89.34.31:53354] <-> InitialHandler has connected
+20:54:39 [INFO] [/99.89.34.31:53445] <-> InitialHandler has connected
+22:01:11 [INFO] [/99.89.34.31:53476] <-> InitialHandler has connected
+00:02:51 [INFO] [/99.89.34.31:57358] <-> InitialHandler has connected
+00:21:22 [INFO] [/99.89.34.31:57426] <-> InitialHandler has connected
+01:02:51 [INFO] [/99.89.34.31:57619] <-> InitialHandler has connected
+01:02:51 [INFO] [/99.89.34.31:57620] <-> InitialHandler has connected
+01:18:39 [INFO] [/99.89.34.31:57639] <-> InitialHandler has connected
+02:03:35 [INFO] [/24.6.231.231:52695] <-> InitialHandler has connected
+02:03:35 [INFO] [/24.6.231.231:52696] <-> InitialHandler has connected
+06:31:10 [INFO] [/99.31.212.148:53672] <-> InitialHandler has connected
+06:46:28 [INFO] [/99.31.212.148:53722] <-> InitialHandler has connected
+06:55:37 [INFO] [/99.31.212.148:53777] <-> InitialHandler has connected
+07:48:14 [INFO] [/99.31.212.148:54058] <-> InitialHandler has connected
+07:49:09 [INFO] [/99.31.212.148:54272] <-> InitialHandler has connected
+07:49:57 [WARNING] [/99.31.212.148:54305] <-> InitialHandler - read timed out
+07:53:53 [INFO] [/99.31.212.148:54345] <-> InitialHandler has connected
+07:55:39 [INFO] [/99.31.212.148:54380] <-> InitialHandler has connected
+07:58:50 [INFO] [/99.31.212.148:54413] <-> InitialHandler has connected
+07:58:53 [INFO] [/99.31.212.148:54445] <-> InitialHandler has connected
+08:00:08 [INFO] [/99.31.212.148:54479] <-> InitialHandler has connected
+08:49:18 [INFO] [/99.31.212.148:54713] <-> InitialHandler has connected
+09:42:23 [INFO] [/99.31.212.148:54960] <-> InitialHandler has connected
+11:18:54 [INFO] [/108.95.131.34:65445] <-> InitialHandler has connected
+11:18:54 [INFO] [/108.95.131.34:65446] <-> InitialHandler has connected
+11:18:58 [INFO] [/108.95.131.34:65456] <-> InitialHandler has connected
+11:19:14 [INFO] [/108.95.131.34:65466] <-> InitialHandler has connected
+11:19:33 [INFO] [/108.95.131.34:65479] <-> InitialHandler has connected
+11:19:36 [INFO] [/108.95.131.34:65487] <-> InitialHandler has connected
+11:19:38 [INFO] [/108.95.131.34:65496] <-> InitialHandler has connected
+11:55:10 [INFO] [/71.6.146.186:50814] <-> InitialHandler has connected
+12:40:45 [INFO] [/108.95.131.34:49600] <-> InitialHandler has connected
+12:40:57 [INFO] [/108.95.131.34:49612] <-> InitialHandler has connected
+17:25:16 [INFO] Closing listener [id: 0x3f21d2ef, L:/0.0.0.0:25565]
+17:25:16 [INFO] Closing pending connections
+17:25:16 [INFO] Disconnecting 0 connections
+17:25:17 [INFO] Saving reconnect locations
+17:25:17 [INFO] Disabling plugins
+17:25:17 [INFO] Closing IO threads
+17:42:23 [INFO] Using mbed TLS based native cipher.
+17:42:23 [INFO] Using zlib based native compressor.
+17:42:23 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+17:42:23 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:42:23 [INFO] Epoll is working, utilising it!
+17:42:23 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:42:23 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:42:23 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:42:23 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:42:23 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:42:23 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:42:23 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+17:42:23 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [WARNING] Forced host server pvp is not defined
+17:42:23 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:42:23 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+17:42:23 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+17:42:23 [INFO] Listening on /0.0.0.0:25565
+18:54:43 [INFO] [/192.168.1.205:50394] <-> InitialHandler has connected
+18:54:46 [INFO] [/192.168.1.205:50398] <-> InitialHandler has connected
+18:54:47 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+18:54:53 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+18:54:53 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+18:54:53 [INFO] [/192.168.1.205:50404] <-> InitialHandler has connected
+18:57:40 [INFO] [/99.31.212.148:62311] <-> InitialHandler has connected
+18:58:45 [INFO] [/192.168.1.1:50452] <-> InitialHandler has connected
+18:58:47 [INFO] [TheJavaDev] <-> InitialHandler has connected
+18:58:47 [SEVERE] Error authenticating TheJavaDev with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+18:58:52 [INFO] [/192.168.1.1:50464] <-> InitialHandler has connected
+18:58:54 [INFO] [/192.168.1.1:50465] <-> InitialHandler has connected
+18:58:54 [SEVERE] Error authenticating TheJavaDev with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+18:58:57 [INFO] [/192.168.1.1:50467] <-> InitialHandler has connected
+18:59:42 [INFO] Closing listener [id: 0x0ef4e1a3, L:/0.0.0.0:25565]
+18:59:42 [INFO] Closing pending connections
+18:59:42 [INFO] Disconnecting 0 connections
+18:59:43 [INFO] Saving reconnect locations
+18:59:43 [INFO] Disabling plugins
+18:59:43 [INFO] Closing IO threads
+18:59:49 [INFO] Using mbed TLS based native cipher.
+18:59:49 [INFO] Using zlib based native compressor.
+18:59:49 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+18:59:49 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:59:49 [INFO] Epoll is working, utilising it!
+18:59:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:59:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:59:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:59:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:59:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:59:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:59:49 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+18:59:49 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [WARNING] Forced host server pvp is not defined
+18:59:49 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+18:59:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+18:59:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+18:59:49 [INFO] Listening on /0.0.0.0:25565
+19:00:02 [INFO] [/99.31.212.148:62454] <-> InitialHandler has connected
+19:00:22 [INFO] [/99.31.212.148:62615] <-> InitialHandler has connected
+19:00:23 [INFO] [/99.31.212.148:62631] <-> InitialHandler has connected
+19:00:23 [SEVERE] Error authenticating Supreme_Enderman with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:00:29 [INFO] [/192.168.1.1:50498] <-> InitialHandler has connected
+19:00:31 [INFO] [/192.168.1.1:50503] <-> InitialHandler has connected
+19:00:31 [SEVERE] Error authenticating TheJavaDev with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:00:45 [INFO] [/99.31.212.148:62655] <-> InitialHandler has connected
+19:00:46 [INFO] [/99.31.212.148:62685] <-> InitialHandler has connected
+19:00:47 [SEVERE] Error authenticating Supreme_Enderman with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:00:54 [INFO] [/99.31.212.148:62693] <-> InitialHandler has connected
+19:01:01 [INFO] [/99.31.212.148:62724] <-> InitialHandler has connected
+19:01:03 [INFO] [/99.31.212.148:62748] <-> InitialHandler has connected
+19:01:03 [SEVERE] Error authenticating Supreme_Enderman with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:02:15 [INFO] [/192.168.1.1:50618] <-> InitialHandler has connected
+19:02:18 [INFO] [/192.168.1.1:50623] <-> InitialHandler has connected
+19:02:18 [SEVERE] Error authenticating TheJavaDev with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:02:19 [INFO] [/99.31.212.148:62799] <-> InitialHandler has connected
+19:02:32 [INFO] [/99.31.212.148:62835] <-> InitialHandler has connected
+19:02:32 [SEVERE] Error authenticating Supreme_Enderman with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:06:18 [INFO] [/192.168.1.205:50826] <-> InitialHandler has connected
+19:06:18 [SEVERE] Error authenticating TheJavaDev with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:06:21 [INFO] [/192.168.1.205:50834] <-> InitialHandler has connected
+19:06:22 [INFO] [/192.168.1.205:50840] <-> InitialHandler has connected
+19:06:22 [SEVERE] Error authenticating TheJavaDev with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:06:40 [INFO] [/192.168.1.205:50850] <-> InitialHandler has connected
+19:06:42 [INFO] [/192.168.1.205:50854] <-> InitialHandler has connected
+19:06:42 [SEVERE] Error authenticating TheJavaDev with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:06:52 [INFO] [/192.168.1.205:50860] <-> InitialHandler has connected
+19:08:14 [INFO] [/99.31.212.148:62875] <-> InitialHandler has connected
+19:08:17 [INFO] [/99.31.212.148:62904] <-> InitialHandler has connected
+19:08:17 [SEVERE] Error authenticating Supreme_Enderman with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:08:20 [INFO] [/99.31.212.148:62906] <-> InitialHandler has connected
+19:08:22 [INFO] [/99.31.212.148:62938] <-> InitialHandler has connected
+19:08:22 [SEVERE] Error authenticating Supreme_Enderman with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:08:29 [INFO] [/99.31.212.148:62941] <-> InitialHandler has connected
+19:08:37 [INFO] [/99.31.212.148:62973] <-> InitialHandler has connected
+19:08:38 [SEVERE] Error authenticating Supreme_Enderman with minecraft.net
+java.net.UnknownHostException: sessionserver.mojang.com: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at java.net.InetAddress.getByName(InetAddress.java:1076)
+	at net.md_5.bungee.http.HttpClient.get(HttpClient.java:65)
+	at net.md_5.bungee.connection.InitialHandler.handle(InitialHandler.java:437)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.handle(EncryptionResponse.java:39)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+19:09:58 [SEVERE] Exception in thread "main" 
+19:09:58 [SEVERE] java.io.IOException: Input/output error
+19:09:58 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+19:09:58 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+19:09:58 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+19:09:58 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+19:09:58 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+19:09:58 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+19:09:58 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+19:09:58 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+19:09:58 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+19:11:24 [INFO] Using mbed TLS based native cipher.
+19:11:24 [INFO] Using zlib based native compressor.
+19:11:24 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:c070419:1319
+19:11:24 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:11:24 [INFO] Epoll is working, utilising it!
+19:11:24 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+19:11:24 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+19:11:24 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+19:11:24 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+19:11:24 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+19:11:24 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:11:24 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+19:11:24 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [WARNING] Forced host server pvp is not defined
+19:11:24 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+19:11:24 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+19:11:24 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+19:11:24 [INFO] Listening on /0.0.0.0:25565
+19:11:55 [INFO] [/99.31.212.148:63049] <-> InitialHandler has connected
+19:11:56 [INFO] [/192.168.1.205:51205] <-> InitialHandler has connected
+19:11:57 [INFO] [/192.168.1.205:51210] <-> InitialHandler has connected
+19:11:57 [INFO] [/99.31.212.148:63072] <-> InitialHandler has connected
+19:11:57 [INFO] [/192.168.1.205:51215] <-> InitialHandler has connected
+19:11:58 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+19:12:08 [INFO] [TheJavaDev] <-> InitialHandler has connected
+19:12:08 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+19:16:20 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+19:16:21 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+19:16:21 [INFO] [/99.31.212.148:63104] <-> InitialHandler has connected
+19:16:22 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+19:16:22 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+19:16:23 [INFO] [/192.168.1.1:51277] <-> InitialHandler has connected
+19:16:54 [INFO] [/99.31.212.148:63144] <-> InitialHandler has connected
+19:17:33 [INFO] [/99.31.212.148:63180] <-> InitialHandler has connected
+19:17:34 [INFO] [/99.31.212.148:63212] <-> InitialHandler has connected
+19:17:35 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+19:22:17 [INFO] [/99.89.34.31:60075] <-> InitialHandler has connected
+19:22:23 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+19:22:24 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+19:22:24 [INFO] [/99.31.212.148:63245] <-> InitialHandler has connected
+19:26:56 [INFO] [/99.89.34.31:60082] <-> InitialHandler has connected
+19:48:57 [INFO] [/99.31.212.148:65227] <-> InitialHandler has connected
+19:48:59 [INFO] [/99.31.212.148:65255] <-> InitialHandler has connected
+19:49:00 [INFO] [/99.31.212.148:65283] <-> InitialHandler has connected
+19:49:01 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+20:09:28 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+20:09:28 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+20:09:28 [INFO] [/99.31.212.148:65361] <-> InitialHandler has connected
+20:19:37 [INFO] [/67.169.137.124:59317] <-> InitialHandler has connected
+20:19:39 [INFO] [/67.169.137.124:59323] <-> InitialHandler has connected
+20:45:37 [INFO] [/24.6.231.231:49977] <-> InitialHandler has connected
+20:58:10 [INFO] [/67.169.137.124:61783] <-> InitialHandler has connected
+21:10:48 [INFO] [/24.6.231.231:52732] <-> InitialHandler has connected
+21:11:32 [INFO] [/99.89.34.31:60479] <-> InitialHandler has connected
+21:14:26 [INFO] [/99.89.34.31:60541] <-> InitialHandler has connected
+21:31:05 [INFO] [/24.6.231.231:52847] <-> InitialHandler has connected
+21:33:00 [INFO] [/99.89.34.31:60740] <-> InitialHandler has connected
+21:33:34 [INFO] [/24.6.231.231:53004] <-> InitialHandler has connected
+22:06:59 [INFO] [/24.6.231.231:53083] <-> InitialHandler has connected
+22:07:02 [INFO] [/24.6.231.231:53084] <-> InitialHandler has connected
+22:07:02 [SEVERE] [/24.6.231.231:53084] <-> InitialHandler - encountered exception
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exceeds writerIndex(11): UnpooledSlicedByteBuf(ridx: 11, widx: 11, cap: 11/11, unwrapped: PooledUnsafeDirectByteBuf(ridx: 12, widx: 12, cap: 1024))
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:98)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exceeds writerIndex(11): UnpooledSlicedByteBuf(ridx: 11, widx: 11, cap: 11/11, unwrapped: PooledUnsafeDirectByteBuf(ridx: 12, widx: 12, cap: 1024))
+	at io.netty.buffer.AbstractByteBuf.checkReadableBytes0(AbstractByteBuf.java:1405)
+	at io.netty.buffer.AbstractByteBuf.readByte(AbstractByteBuf.java:707)
+	at net.md_5.bungee.protocol.DefinedPacket.readVarInt(DefinedPacket.java:108)
+	at net.md_5.bungee.protocol.DefinedPacket.readVarInt(DefinedPacket.java:98)
+	at net.md_5.bungee.protocol.DefinedPacket.readArray(DefinedPacket.java:66)
+	at net.md_5.bungee.protocol.packet.EncryptionResponse.read(EncryptionResponse.java:26)
+	at net.md_5.bungee.protocol.MinecraftDecoder.decode(MinecraftDecoder.java:33)
+	at net.md_5.bungee.protocol.MinecraftDecoder.decode(MinecraftDecoder.java:10)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:88)
+	... 21 more
+22:07:04 [INFO] [/24.6.231.231:53086] <-> InitialHandler has connected
+22:07:32 [INFO] [/24.6.231.231:53091] <-> InitialHandler has connected
+22:07:38 [INFO] [/24.6.231.231:53096] <-> InitialHandler has connected
+22:20:23 [INFO] [/99.89.34.31:61031] <-> InitialHandler has connected
+00:39:01 [INFO] [/99.89.34.31:61456] <-> InitialHandler has connected
+00:45:56 [INFO] [/99.89.34.31:49842] <-> InitialHandler has connected
+07:42:01 [INFO] [/99.31.212.148:49219] <-> InitialHandler has connected
+07:42:02 [INFO] [/99.31.212.148:49239] <-> InitialHandler has connected
+07:42:03 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+07:43:39 [WARNING] [Supreme_Enderman] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+07:43:39 [INFO] [Supreme_Enderman] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+07:43:39 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+07:43:39 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+07:49:20 [INFO] [/99.31.212.148:49528] <-> InitialHandler has connected
+07:49:22 [INFO] [/99.31.212.148:49547] <-> InitialHandler has connected
+07:49:22 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+08:00:48 [WARNING] [Supreme_Enderman] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+08:00:48 [INFO] [Supreme_Enderman] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+08:00:48 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+08:00:48 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+08:47:19 [INFO] [/99.31.212.148:50226] <-> InitialHandler has connected
+08:47:20 [INFO] [/99.31.212.148:50253] <-> InitialHandler has connected
+08:47:21 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+08:49:47 [WARNING] [Supreme_Enderman] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+08:49:47 [INFO] [Supreme_Enderman] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+08:49:47 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+08:49:48 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+08:51:56 [INFO] [/99.31.212.148:50440] <-> InitialHandler has connected
+08:51:57 [INFO] [/99.31.212.148:50470] <-> InitialHandler has connected
+08:51:58 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+08:56:35 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+08:56:35 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+08:56:36 [INFO] [/99.31.212.148:50489] <-> InitialHandler has connected
+08:58:59 [INFO] [/99.31.212.148:50532] <-> InitialHandler has connected
+08:58:59 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:03:55 [WARNING] [Supreme_Enderman] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+10:03:55 [INFO] [Supreme_Enderman] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+10:03:55 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:03:55 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:05:44 [INFO] [/99.31.212.148:50965] <-> InitialHandler has connected
+10:12:47 [INFO] [/99.31.212.148:51032] <-> InitialHandler has connected
+10:17:32 [INFO] [/99.31.212.148:51088] <-> InitialHandler has connected
+10:18:20 [INFO] [/99.31.212.148:51207] <-> InitialHandler has connected
+10:18:21 [INFO] [/99.31.212.148:51225] <-> InitialHandler has connected
+10:18:22 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:30:02 [INFO] [Supreme_Enderman] disconnected with: §f[Proxy] Lost connection to server.
+10:30:02 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:30:03 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:30:05 [INFO] [/99.31.212.148:51452] <-> InitialHandler has connected
+10:30:07 [INFO] [/99.31.212.148:51477] <-> InitialHandler has connected
+10:30:08 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:30:13 [INFO] [Supreme_Enderman] disconnected with: §f[Proxy] Lost connection to server.
+10:30:13 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:30:13 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:30:16 [INFO] [/99.31.212.148:51483] <-> InitialHandler has connected
+10:30:17 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:38:28 [INFO] [/192.168.1.1:57219] <-> InitialHandler has connected
+10:38:29 [INFO] [TheJavaDev] <-> InitialHandler has connected
+10:38:30 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+10:41:07 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+10:41:07 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+10:41:07 [INFO] [/192.168.1.1:57249] <-> InitialHandler has connected
+10:44:44 [INFO] [/192.168.1.1:57338] <-> InitialHandler has connected
+10:45:17 [INFO] [TheJavaDev] <-> InitialHandler has connected
+10:45:18 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+10:45:33 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+10:45:33 [INFO] [SpongePls]  for the target "mods".
+10:45:33 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+10:45:34 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+10:45:57 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+10:45:57 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [mods] has disconnected
+10:45:58 [INFO] [/192.168.1.1:57358] <-> InitialHandler has connected
+10:46:55 [INFO] [/192.168.1.1:57401] <-> InitialHandler has connected
+10:46:56 [INFO] [TheJavaDev] <-> InitialHandler has connected
+10:46:57 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+10:46:57 [INFO] [SpongePls]  for the target "mods".
+10:46:57 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+10:47:04 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+10:47:04 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [mods] has disconnected
+10:47:04 [INFO] [/192.168.1.1:57405] <-> InitialHandler has connected
+10:47:51 [INFO] [/192.168.1.1:57455] <-> InitialHandler has connected
+10:47:54 [INFO] [/192.168.1.1:57460] <-> InitialHandler has connected
+10:47:55 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+10:47:55 [INFO] [SpongePls]  for the target "mods".
+10:47:55 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+10:47:55 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+10:47:55 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+10:47:55 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+10:47:55 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+10:47:55 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+10:47:55 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+10:47:55 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+10:47:55 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+10:47:55 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+10:47:55 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+10:47:55 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+10:47:55 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+10:47:55 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+10:47:55 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+10:47:55 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+10:47:55 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+10:47:55 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+10:47:55 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+10:47:55 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+10:49:37 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+10:49:37 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [mods] has disconnected
+10:53:53 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:53:53 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:53:54 [INFO] [/99.31.212.148:51645] <-> InitialHandler has connected
+10:56:51 [INFO] [/192.168.1.1:57577] <-> InitialHandler has connected
+10:56:53 [INFO] [/192.168.1.1:57578] <-> InitialHandler has connected
+10:56:54 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+10:56:54 [INFO] [SpongePls]  for the target "mods".
+10:56:54 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+11:01:14 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+11:01:14 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+11:01:15 [INFO] [/192.168.1.1:57582] <-> InitialHandler has connected
+11:08:53 [INFO] [/192.168.1.1:50034] <-> InitialHandler has connected
+11:08:57 [INFO] [/192.168.1.1:50035] <-> InitialHandler has connected
+11:08:57 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+11:09:33 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+11:09:33 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+11:09:38 [INFO] [/192.168.1.1:50038] <-> InitialHandler has connected
+11:23:14 [INFO] [/99.31.212.148:52021] <-> InitialHandler has connected
+11:24:02 [INFO] [/99.31.212.148:52061] <-> InitialHandler has connected
+11:32:42 [INFO] [/99.31.212.148:52171] <-> InitialHandler has connected
+12:05:00 [INFO] [/99.89.34.31:50240] <-> InitialHandler has connected
+12:08:13 [INFO] Closing listener [id: 0x421efd68, L:/0.0.0.0:25565]
+12:08:13 [INFO] Closing pending connections
+12:08:13 [INFO] Disconnecting 0 connections
+12:08:13 [INFO] Saving reconnect locations
+12:08:13 [INFO] Disabling plugins
+12:08:13 [INFO] Closing IO threads
+12:08:38 [INFO] Using mbed TLS based native cipher.
+12:08:38 [INFO] Using zlib based native compressor.
+12:08:38 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:786d8dc:196
+12:08:38 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:08:38 [INFO] Epoll is working, utilising it!
+12:08:38 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:08:38 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:08:38 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:08:38 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:08:38 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:08:38 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:08:38 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:08:38 [INFO] Attempting to Jenkins download module cmd_alert v196
+12:08:38 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-alert/target/cmd_alert.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:08:38 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:08:38 [INFO] Attempting to Jenkins download module cmd_find v196
+12:08:39 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-find/target/cmd_find.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:08:39 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:08:39 [INFO] Attempting to Jenkins download module cmd_list v196
+12:08:39 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-list/target/cmd_list.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:08:39 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:08:39 [INFO] Attempting to Jenkins download module cmd_send v196
+12:08:39 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-send/target/cmd_send.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:08:39 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:08:39 [INFO] Attempting to Jenkins download module cmd_server v196
+12:08:39 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-server/target/cmd_server.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:08:39 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:08:39 [INFO] Attempting to Jenkins download module reconnect_yaml v196
+12:08:39 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/reconnect-yaml/target/reconnect_yaml.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:08:39 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [WARNING] Forced host server pvp is not defined
+12:08:39 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:08:39 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:08:39 [INFO] Listening on /0.0.0.0:25565
+12:08:50 [INFO] §cCommand not found
+12:08:51 [INFO] Closing listener [id: 0xf328fd42, L:/0.0.0.0:25565]
+12:08:51 [INFO] Closing pending connections
+12:08:51 [INFO] Disconnecting 0 connections
+12:08:52 [INFO] Saving reconnect locations
+12:08:52 [INFO] Disabling plugins
+12:08:52 [INFO] Closing IO threads
+12:09:06 [INFO] Using mbed TLS based native cipher.
+12:09:06 [INFO] Using zlib based native compressor.
+12:09:06 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:786d8dc:196
+12:09:06 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:09:06 [INFO] Epoll is working, utilising it!
+12:09:06 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:09:06 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:09:06 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:09:06 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:09:06 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:09:06 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:09:06 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:09:06 [INFO] Attempting to Jenkins download module cmd_alert v196
+12:09:06 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-alert/target/cmd_alert.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:09:06 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:09:06 [INFO] Attempting to Jenkins download module cmd_find v196
+12:09:06 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-find/target/cmd_find.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:09:06 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:09:06 [INFO] Attempting to Jenkins download module cmd_list v196
+12:09:07 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-list/target/cmd_list.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:09:07 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:09:07 [INFO] Attempting to Jenkins download module cmd_send v196
+12:09:07 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-send/target/cmd_send.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:09:07 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:09:07 [INFO] Attempting to Jenkins download module cmd_server v196
+12:09:07 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/cmd-server/target/cmd_server.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:09:07 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=196, git=786d8dc)
+12:09:07 [INFO] Attempting to Jenkins download module reconnect_yaml v196
+12:09:07 [INFO] Failed to download: FileNotFoundException : https://ci.md-5.net/job/BungeeCord/196/artifact/module/reconnect-yaml/target/reconnect_yaml.jar @ sun.net.www.protocol.http.HttpURLConnection:1890
+12:09:07 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+12:09:07 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [WARNING] Forced host server pvp is not defined
+12:09:07 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:09:07 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+12:09:07 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:c070419:1319 by SpigotMC
+12:09:07 [INFO] Listening on /0.0.0.0:25565
+12:13:33 [INFO] [/99.31.212.148:52363] <-> InitialHandler has connected
+12:19:48 [INFO] [/192.168.1.1:57939] <-> InitialHandler has connected
+12:19:51 [INFO] [/192.168.1.1:57940] <-> InitialHandler has connected
+12:19:52 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:20:51 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+12:20:52 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:20:52 [INFO] [/192.168.1.1:57943] <-> InitialHandler has connected
+12:30:18 [INFO] [/192.168.1.1:58159] <-> InitialHandler has connected
+12:30:23 [INFO] [/192.168.1.1:58162] <-> InitialHandler has connected
+12:30:24 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:31:35 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+12:31:35 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:31:36 [INFO] [/192.168.1.1:58167] <-> InitialHandler has connected
+12:34:16 [INFO] [/192.168.1.1:50387] <-> InitialHandler has connected
+12:34:20 [INFO] [TheJavaDev] <-> InitialHandler has connected
+12:34:21 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:38:03 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+12:38:03 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:38:07 [INFO] [/192.168.1.1:50403] <-> InitialHandler has connected
+12:42:48 [INFO] [/192.168.1.1:50520] <-> InitialHandler has connected
+12:56:58 [INFO] [/192.168.1.1:50585] <-> InitialHandler has connected
+13:01:52 [INFO] [/192.168.1.1:50716] <-> InitialHandler has connected
+13:01:56 [INFO] [/192.168.1.1:50717] <-> InitialHandler has connected
+13:01:56 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+13:02:50 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+13:02:50 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+13:02:54 [INFO] [/192.168.1.1:50724] <-> InitialHandler has connected
+13:05:52 [INFO] §cCommand not found
+13:05:54 [INFO] Closing listener [id: 0xa0d231f5, L:/0.0.0.0:25565]
+13:05:54 [INFO] Closing pending connections
+13:05:54 [INFO] Disconnecting 0 connections
+13:05:54 [INFO] Saving reconnect locations
+13:05:54 [INFO] Disabling plugins
+13:05:54 [INFO] Closing IO threads
+13:06:04 [INFO] Using mbed TLS based native cipher.
+13:06:04 [INFO] Using zlib based native compressor.
+13:06:04 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+13:06:04 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:06:04 [INFO] Epoll is working, utilising it!
+13:06:04 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+13:06:04 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+13:06:04 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+13:06:04 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+13:06:04 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+13:06:04 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:06:04 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=1321, git=730715e)
+13:06:04 [INFO] Attempting to Jenkins download module cmd_alert v1321
+13:06:04 [INFO] Download complete
+13:06:04 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=1321, git=730715e)
+13:06:04 [INFO] Attempting to Jenkins download module cmd_find v1321
+13:06:04 [INFO] Download complete
+13:06:04 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=1321, git=730715e)
+13:06:04 [INFO] Attempting to Jenkins download module cmd_list v1321
+13:06:04 [INFO] Download complete
+13:06:04 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=1321, git=730715e)
+13:06:04 [INFO] Attempting to Jenkins download module cmd_send v1321
+13:06:05 [INFO] Download complete
+13:06:05 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=1321, git=730715e)
+13:06:05 [INFO] Attempting to Jenkins download module cmd_server v1321
+13:06:05 [INFO] Download complete
+13:06:05 [INFO] Attempting to update plugin from ModuleVersion(build=1319, git=c070419) to ModuleVersion(build=1321, git=730715e)
+13:06:05 [INFO] Attempting to Jenkins download module reconnect_yaml v1321
+13:06:05 [INFO] Download complete
+13:06:05 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+13:06:05 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [WARNING] Forced host server pvp is not defined
+13:06:05 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:06:05 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+13:06:05 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+13:06:05 [INFO] Listening on /0.0.0.0:25565
+13:13:34 [INFO] [/192.168.1.1:50910] <-> InitialHandler has connected
+13:13:39 [INFO] [/192.168.1.1:50912] <-> InitialHandler has connected
+13:13:39 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+13:16:47 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+13:16:47 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+13:16:51 [INFO] [/192.168.1.1:50916] <-> InitialHandler has connected
+14:32:38 [INFO] [/24.6.231.231:57284] <-> InitialHandler has connected
+14:32:42 [INFO] [/24.6.231.231:57288] <-> InitialHandler has connected
+14:34:21 [INFO] [/24.6.231.231:57404] <-> InitialHandler has connected
+14:46:37 [INFO] [/108.95.131.34:62010] <-> InitialHandler has connected
+14:46:38 [INFO] [/108.95.131.34:62012] <-> InitialHandler has connected
+14:47:15 [INFO] [/108.95.131.34:62019] <-> InitialHandler has connected
+14:47:28 [INFO] [/108.95.131.34:62031] <-> InitialHandler has connected
+14:53:35 [INFO] [/24.6.231.231:57496] <-> InitialHandler has connected
+14:54:33 [INFO] [/24.6.231.231:57589] <-> InitialHandler has connected
+14:54:34 [INFO] [/24.6.231.231:57590] <-> InitialHandler has connected

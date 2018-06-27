@@ -197,7 +197,7 @@ users:
     - youtube
     - admin
     options:
-      name: Enderknight205
+      name: Supreme_Enderman
       prefix: '&4ADMIN &fYOU&cTUBE&r '
     permissions:
     - worldedit.*

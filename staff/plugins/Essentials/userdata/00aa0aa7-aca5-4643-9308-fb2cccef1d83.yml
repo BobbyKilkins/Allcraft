@@ -1,8 +1,8 @@
 lastAccountName: JEAN_MILAN
 timestamps:
-  login: 1528852327502
+  login: 1529547699071
   logout: 1528853083375
-  lastteleport: 1526580395790
+  lastteleport: 1529547982136
 ipAddress: 108.209.224.61
 logoutlocation:
   world: world
@@ -13,11 +13,11 @@ logoutlocation:
   pitch: 42.450047
 lastlocation:
   world: world
-  x: -414.0
-  y: 111.0
-  z: 199.0
-  yaw: -35.7
-  pitch: -25.2
+  x: -126.53293388049354
+  y: 137.10770928708007
+  z: 235.61161132051447
+  yaw: -331.30228
+  pitch: 16.09556
 nickname: MeamMaster
 mail:
 - §6[§rServer§6] §rUse you rank wisely...
