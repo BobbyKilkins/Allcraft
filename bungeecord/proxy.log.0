@@ -13588,3 +13588,31 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 18:19:02 [INFO] Saving reconnect locations
 18:19:02 [INFO] Disabling plugins
 18:19:02 [INFO] Closing IO threads
+18:59:51 [INFO] Using mbed TLS based native cipher.
+18:59:51 [INFO] Using zlib based native compressor.
+18:59:51 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+18:59:51 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:59:51 [INFO] Epoll is working, utilising it!
+18:59:51 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:59:51 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:59:51 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:59:51 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:59:51 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:59:51 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:59:51 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+18:59:51 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [WARNING] Forced host server pvp is not defined
+18:59:51 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+18:59:51 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+18:59:51 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+18:59:51 [INFO] Listening on /0.0.0.0:25565

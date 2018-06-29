@@ -22,10 +22,10 @@ Lead Devs Gmail: jfand.cv.ca@gmail.com
 
 * Alexander Anokhin - Owner
 * Jim Fang - Developer
-* Peter Schlychkob - Admin
+* Peter Schlychkov - Admin
 * Jean-Milan Albarede - Admin
 * Austin Chu - Admin
-* Karl `LAST NAME HERE` - Admin
+* Karl Haidinyak - Admin
 
 
 
