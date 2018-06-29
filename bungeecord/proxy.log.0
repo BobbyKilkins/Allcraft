@@ -13616,3 +13616,63 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 18:59:51 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
 18:59:51 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
 18:59:51 [INFO] Listening on /0.0.0.0:25565
+19:24:59 [INFO] [/192.168.1.1:52116] <-> InitialHandler has connected
+19:25:02 [INFO] [/192.168.1.1:52118] <-> InitialHandler has connected
+19:25:03 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+19:25:27 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+19:25:27 [INFO] [SpongePls]  for the target "mods".
+19:25:27 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+19:25:28 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+19:25:28 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+19:25:28 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+19:25:28 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+19:25:28 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+19:25:28 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+19:25:28 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+19:25:28 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+19:25:28 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+19:25:28 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+19:25:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+19:25:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+19:25:32 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+19:25:32 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+19:25:32 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+19:25:32 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+19:25:32 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+19:25:32 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+19:25:32 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+19:25:32 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+19:25:32 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+19:25:45 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+19:25:46 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [mods] has disconnected
+19:25:50 [INFO] [/192.168.1.1:52121] <-> InitialHandler has connected

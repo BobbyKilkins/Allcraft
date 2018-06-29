@@ -194,3 +194,8 @@
 [19:00:16] [Craft Scheduler Thread - 6/INFO]: [0;36;1m[PetBlocks] [0;33;1mPetBlocks is outdated[m
 [19:00:16] [Craft Scheduler Thread - 6/INFO]: [0;36;1m[PetBlocks] [0;33;1mPlease download the latest version from spigotmc.org[m
 [19:00:16] [Craft Scheduler Thread - 6/INFO]: [0;36;1m[PetBlocks] [0;33;1m================================================[m
+[19:25:03] [User Authenticator #1/INFO]: UUID of player TheJavaDev is f8ad2f94-139f-40fa-8018-9a40bc6dabfd
+[19:25:03] [Server thread/INFO]: [Essentials] Found new UUID for TheJavaDev. Replacing e6aab3d3-b475-3caa-a9ac-4a5a896582d0 with f8ad2f94-139f-40fa-8018-9a40bc6dabfd
+[19:25:03] [Server thread/INFO]: TheJavaDev[/192.168.1.1:48013] logged in with entity id 281 at ([world]-182.42422382468726, 69.0, -37.478362025667195)
+[19:25:32] [Server thread/INFO]: TheJavaDev lost connection: Disconnected
+[19:25:32] [Server thread/INFO]: TheJavaDev left the game

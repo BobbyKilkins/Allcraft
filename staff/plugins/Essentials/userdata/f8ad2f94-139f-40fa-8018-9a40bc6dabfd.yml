@@ -1,8 +1,8 @@
 lastAccountName: TheJavaDev
 timestamps:
-  login: 1530129717028
+  login: 1530239103562
   lastteleport: 1530122423234
-  logout: 1530129768851
+  logout: 1530239130812
 ipAddress: 192.168.1.1
 lastlocation:
   world: world
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 8.899181
 logoutlocation:
   world: world
-  x: -10.012105629666387
-  y: 81.3962454556321
-  z: 1147.73778252151
-  yaw: 340.85706
-  pitch: 26.434021
+  x: -181.44985046048097
+  y: 70.0
+  z: -37.92724894081979
+  yaw: -85.31645
+  pitch: 1.5871996
 powertoolsenabled: true
 nickname: TheJavaDev
 powertools:
