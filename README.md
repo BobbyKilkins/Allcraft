@@ -1,6 +1,4 @@
-Allcraft
-========
-## Minecraft Server
+# Allcraft Minecraft Server
 
 Under Development
 IP: play.allcraft.online
