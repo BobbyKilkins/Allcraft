@@ -13347,3 +13347,244 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 15:53:32 [INFO] [/24.6.231.231:58436] <-> InitialHandler has connected
 16:02:01 [INFO] [/108.95.131.34:50441] <-> InitialHandler has connected
 16:02:03 [INFO] [/108.95.131.34:50454] <-> InitialHandler has connected
+19:05:27 [INFO] [/192.168.1.1:51112] <-> InitialHandler has connected
+19:05:30 [INFO] [/192.168.1.1:51114] <-> InitialHandler has connected
+19:05:31 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+19:05:57 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+19:05:57 [INFO] [SpongePls]  for the target "mods".
+19:05:57 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+19:05:57 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+19:05:57 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+19:05:57 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+19:05:57 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+19:05:57 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+19:05:57 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+19:05:57 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+19:05:57 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+19:05:57 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+19:05:57 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+19:05:57 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+19:05:57 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+19:06:01 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+19:06:01 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+19:06:27 [WARNING] [TheJavaDev] <-> ServerConnector [mods] - read timed out
+19:06:27 [INFO] [TheJavaDev] <-> ServerConnector [mods] has disconnected
+19:14:45 [INFO] [/24.6.231.231:58690] <-> InitialHandler has connected
+19:40:16 [INFO] Closing listener [id: 0xc7882236, L:/0:0:0:0:0:0:0:0%0:25565]
+19:40:16 [INFO] Closing pending connections
+19:40:16 [INFO] Disconnecting 0 connections
+19:40:17 [INFO] Saving reconnect locations
+19:40:17 [INFO] Disabling plugins
+19:40:17 [INFO] Closing IO threads
+19:40:36 [INFO] Using mbed TLS based native cipher.
+19:40:36 [INFO] Using zlib based native compressor.
+19:40:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+19:40:36 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:40:36 [INFO] Epoll is working, utilising it!
+19:40:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+19:40:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+19:40:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+19:40:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+19:40:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+19:40:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:40:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+19:40:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [WARNING] Forced host server pvp is not defined
+19:40:36 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+19:40:36 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+19:40:36 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+19:40:36 [INFO] Listening on /0.0.0.0:25565
+19:56:49 [INFO] [/192.168.1.1:51565] <-> InitialHandler has connected
+19:56:54 [INFO] [/192.168.1.1:51570] <-> InitialHandler has connected
+19:56:55 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+19:57:11 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+19:57:11 [INFO] [SpongePls]  for the target "mods".
+19:57:11 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+19:57:12 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+19:57:12 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+19:57:12 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+19:57:12 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+19:57:12 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+19:57:12 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+19:57:12 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+19:57:12 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+19:57:12 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+19:57:12 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+19:57:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+19:57:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+19:57:15 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+19:57:15 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+19:57:42 [WARNING] [TheJavaDev] <-> ServerConnector [mods] - read timed out
+19:57:42 [INFO] [TheJavaDev] <-> ServerConnector [mods] has disconnected
+20:33:08 [INFO] [/99.89.34.31:55851] <-> InitialHandler has connected
+20:54:19 [INFO] [/24.6.231.231:59029] <-> InitialHandler has connected
+21:02:27 [INFO] [/99.89.34.31:55927] <-> InitialHandler has connected
+21:06:01 [INFO] [/99.89.34.31:56023] <-> InitialHandler has connected
+23:08:08 [INFO] [/24.6.231.231:59631] <-> InitialHandler has connected
+23:08:08 [INFO] [/24.6.231.231:59636] <-> InitialHandler has connected
+23:11:22 [INFO] [/99.89.34.31:56599] <-> InitialHandler has connected
+23:21:12 [INFO] [/99.89.34.31:56708] <-> InitialHandler has connected
+23:22:26 [INFO] [/99.89.34.31:56788] <-> InitialHandler has connected
+00:12:48 [INFO] [/24.6.231.231:59930] <-> InitialHandler has connected
+00:12:49 [INFO] [/24.6.231.231:59928] <-> InitialHandler has connected
+00:15:54 [INFO] [/24.6.231.231:60227] <-> InitialHandler has connected
+00:15:54 [INFO] [/24.6.231.231:60222] <-> InitialHandler has connected
+00:18:24 [INFO] [/24.6.231.231:60427] <-> InitialHandler has connected
+00:18:24 [INFO] [/24.6.231.231:60432] <-> InitialHandler has connected
+00:18:27 [INFO] [/24.6.231.231:60436] <-> InitialHandler has connected
+00:29:28 [INFO] [/24.6.231.231:60627] <-> InitialHandler has connected
+00:29:28 [INFO] [/24.6.231.231:60625] <-> InitialHandler has connected
+01:11:36 [INFO] [/24.6.231.231:61092] <-> InitialHandler has connected
+01:11:36 [INFO] [/24.6.231.231:61086] <-> InitialHandler has connected
+01:45:38 [INFO] [/24.6.231.231:61469] <-> InitialHandler has connected
+01:45:38 [INFO] [/24.6.231.231:61475] <-> InitialHandler has connected
+10:53:41 [INFO] [/24.6.231.231:64753] <-> InitialHandler has connected
+10:53:41 [INFO] [/24.6.231.231:64756] <-> InitialHandler has connected
+10:55:21 [INFO] [/24.6.231.231:64949] <-> InitialHandler has connected
+10:55:22 [INFO] [/24.6.231.231:64952] <-> InitialHandler has connected
+11:33:51 [INFO] [/24.6.231.231:65062] <-> InitialHandler has connected
+11:48:23 [INFO] [/99.89.34.31:57344] <-> InitialHandler has connected
+11:57:22 [INFO] [/24.6.231.231:65501] <-> InitialHandler has connected
+11:57:22 [INFO] [/24.6.231.231:65498] <-> InitialHandler has connected
+12:00:05 [INFO] [/24.6.231.231:65524] <-> InitialHandler has connected
+12:20:06 [INFO] [/99.89.34.31:57393] <-> InitialHandler has connected
+13:47:33 [INFO] [/24.6.231.231:49906] <-> InitialHandler has connected
+13:47:33 [INFO] [/24.6.231.231:49913] <-> InitialHandler has connected
+14:30:50 [INFO] [/24.6.231.231:49983] <-> InitialHandler has connected
+14:42:08 [INFO] [/108.95.131.34:57493] <-> InitialHandler has connected
+14:42:19 [INFO] [/108.95.131.34:57504] <-> InitialHandler has connected
+15:32:35 [INFO] [/108.95.131.34:57793] <-> InitialHandler has connected
+15:32:45 [INFO] [/108.95.131.34:57803] <-> InitialHandler has connected
+15:32:46 [INFO] [/108.95.131.34:57815] <-> InitialHandler has connected
+15:32:46 [INFO] [/108.95.131.34:57823] <-> InitialHandler has connected
+16:44:00 [INFO] Closing listener [id: 0x656a4c4a, L:/0:0:0:0:0:0:0:0%0:25565]
+16:44:00 [INFO] Closing pending connections
+16:44:00 [INFO] Disconnecting 0 connections
+16:44:00 [INFO] Saving reconnect locations
+16:44:00 [INFO] Disabling plugins
+16:44:00 [INFO] Closing IO threads
+17:01:14 [INFO] Using mbed TLS based native cipher.
+17:01:14 [INFO] Using zlib based native compressor.
+17:01:14 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+17:01:14 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:01:14 [INFO] Epoll is working, utilising it!
+17:01:14 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:01:14 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:01:14 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:01:14 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:01:14 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:01:14 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:01:14 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+17:01:14 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [WARNING] Forced host server pvp is not defined
+17:01:14 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:01:14 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+17:01:14 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+17:01:14 [INFO] Listening on /0.0.0.0:25565
+17:08:02 [INFO] [/192.168.1.1:51742] <-> InitialHandler has connected
+17:08:11 [INFO] [/192.168.1.1:51744] <-> InitialHandler has connected
+17:08:12 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+17:09:50 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+17:09:50 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+17:09:55 [INFO] [/192.168.1.1:51749] <-> InitialHandler has connected
+17:19:32 [INFO] [/192.168.1.1:52022] <-> InitialHandler has connected
+17:19:33 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+17:22:20 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+17:22:20 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+17:22:24 [INFO] [/192.168.1.1:52027] <-> InitialHandler has connected
+17:34:38 [INFO] [TheJavaDev] <-> InitialHandler has connected
+17:34:38 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+17:34:52 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+17:34:52 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+17:34:56 [INFO] [/192.168.1.1:52040] <-> InitialHandler has connected
+17:37:56 [INFO] [TheJavaDev] <-> InitialHandler has connected
+17:37:57 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+17:39:06 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+17:39:06 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+17:39:10 [INFO] [/192.168.1.1:52049] <-> InitialHandler has connected
+17:41:38 [INFO] [/99.89.34.31:58415] <-> InitialHandler has connected
+17:45:19 [INFO] [TheJavaDev] <-> InitialHandler has connected
+17:45:19 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+17:45:51 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+17:45:51 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+17:45:55 [INFO] [/192.168.1.1:52061] <-> InitialHandler has connected
+17:54:37 [INFO] [TheJavaDev] <-> InitialHandler has connected
+17:54:38 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+17:55:30 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+17:55:30 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+17:55:34 [INFO] [/192.168.1.1:52068] <-> InitialHandler has connected
+17:58:52 [INFO] [TheJavaDev] <-> InitialHandler has connected
+17:58:52 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+18:18:59 [INFO] [TheJavaDev] disconnected with: §fServer closed
+18:18:59 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+18:18:59 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+18:19:01 [INFO] Closing listener [id: 0xb5cfe120, L:/0:0:0:0:0:0:0:0%0:25565]
+18:19:01 [INFO] Closing pending connections
+18:19:01 [INFO] Disconnecting 0 connections
+18:19:02 [INFO] Saving reconnect locations
+18:19:02 [INFO] Disabling plugins
+18:19:02 [INFO] Closing IO threads
