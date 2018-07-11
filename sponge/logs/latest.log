@@ -2729,3 +2729,25 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [12:19:43] [Forestry Greenhouse/INFO] [forestry]: Starting greenhouse thread
 [12:19:43] [Thread-13/INFO] [Galacticraft]: Galacticraft remote version found: 4.0.1
 [12:24:36] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Applied Energistics 2, BC Builders, BC Energy, BC Factory, BC Robotics, BC Silicon, BC Transport, BD Lib, Backpack, Biomes O' Plenty, BuildCraft, BuildCraft Lib, CoFH Core, CoFH World, CodeChicken Lib, Davinci's Vessels, Extra Utilities 2, Forestry, Forge Microblocks, Forge Multipart CBE, Galacticraft Core, Galacticraft Planets, GenDustry, HatStand, Hats, IndustrialCraft 2, Iron Chest, Mantle, Mekanism, MekanismGenerators, MekanismTools, Minecraft Multipart Plugin, Moving World, MrTJPCore, Natura, OpenBlocks, OpenModsLib, Pam's HarvestCraft, ProjectRed Core, ProjectRed Exploration, ProjectRed Fabrication, ProjectRed Illumination, ProjectRed Transmission, ProjectRed integration, Redstone Arsenal, Redstone Flux, SecurityCraft, Thermal Cultivation, Thermal Dynamics, Thermal Expansion, Thermal Foundation, Thermal Innovation, Tinkers' Construct, iChunUtil, projectred-compat]
+[14:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server§r
+[14:30:36] [Server thread/INFO] [Mekanism]: VoiceServer: Shutting down server...
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/the_nether
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/the_end
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-11325'/Deep Dark
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-9999'/ExtraUtils2_Quarry_Dim
+[14:30:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM2'/Storage Cell
+[14:30:36] [Server thread/INFO] [Sponge]: Unloading world [world] (DIM0)
+[14:30:37] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (DIM-1)
+[14:30:37] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (DIM1)
+[14:30:37] [Server thread/INFO] [Sponge]: Unloading world [DIM-11325] (DIM-11325)
+[14:30:37] [Server thread/INFO] [Sponge]: Unloading world [DIM-9999] (DIM-9999)
+[14:30:37] [Server thread/INFO] [Sponge]: Unloading world [DIM2] (DIM2)
+[14:30:37] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[14:30:37] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[14:30:37] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[14:30:37] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[14:30:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
