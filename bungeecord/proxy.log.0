@@ -13788,3 +13788,18 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 13:09:39 [INFO] [/192.168.1.1:58995] <-> InitialHandler has connected
 13:09:42 [INFO] [TheJavaDev] <-> InitialHandler has connected
 13:09:42 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+13:10:51 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+13:10:51 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+13:10:52 [INFO] [/192.168.1.1:59000] <-> InitialHandler has connected
+13:24:45 [INFO] [/192.168.1.1:59255] <-> InitialHandler has connected
+13:24:45 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+13:25:56 [INFO] [TheJavaDev] disconnected with: §fServer closed
+13:25:56 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+13:25:56 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+13:49:49 [INFO] [/192.168.1.1:59764] <-> InitialHandler has connected
+13:49:50 [INFO] [TheJavaDev] <-> InitialHandler has connected
+13:49:51 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+13:49:59 [INFO] [TheJavaDev] disconnected with: §fServer closed
+13:49:59 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+13:50:00 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+13:52:51 [INFO] §cCommand not found
