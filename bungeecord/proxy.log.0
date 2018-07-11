@@ -13676,3 +13676,99 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 19:25:45 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
 19:25:46 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [mods] has disconnected
 19:25:50 [INFO] [/192.168.1.1:52121] <-> InitialHandler has connected
+00:56:36 [INFO] [/99.89.34.31:59372] <-> InitialHandler has connected
+01:05:33 [INFO] [/99.89.34.31:49846] <-> InitialHandler has connected
+11:59:59 [INFO] Using mbed TLS based native cipher.
+11:59:59 [INFO] Using zlib based native compressor.
+11:59:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+11:59:59 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+11:59:59 [INFO] Epoll is working, utilising it!
+11:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+11:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+11:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+11:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+11:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+11:59:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+11:59:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+11:59:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+11:59:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+11:59:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+11:59:59 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+11:59:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+11:59:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:00:00 [WARNING] Forced host server pvp is not defined
+12:00:00 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:00:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:00:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:00:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:00:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:00:00 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+12:00:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:00:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:00:00 [INFO] Listening on /0.0.0.0:25565
+12:01:32 [INFO] [/192.168.1.1:58014] <-> InitialHandler has connected
+12:01:36 [INFO] [/192.168.1.1:58017] <-> InitialHandler has connected
+12:02:19 [INFO] [/192.168.1.1:58044] <-> InitialHandler has connected
+12:02:20 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+12:02:20 [INFO] [SpongePls]  for the target "mods".
+12:02:20 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:02:54 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+12:02:54 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:02:55 [INFO] [/192.168.1.1:58048] <-> InitialHandler has connected
+12:03:14 [INFO] Closing listener [id: 0xc39092f6, L:/0:0:0:0:0:0:0:0%0:25565]
+12:03:14 [INFO] Closing pending connections
+12:03:14 [INFO] Disconnecting 0 connections
+12:03:14 [INFO] Saving reconnect locations
+12:03:14 [INFO] Disabling plugins
+12:03:14 [INFO] Closing IO threads
+12:18:34 [INFO] Using mbed TLS based native cipher.
+12:18:34 [INFO] Using zlib based native compressor.
+12:18:34 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+12:18:34 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:18:34 [INFO] Epoll is working, utilising it!
+12:18:34 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:18:34 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:18:34 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:18:34 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:18:34 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:18:34 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:18:34 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+12:18:34 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [WARNING] Forced host server pvp is not defined
+12:18:34 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:18:34 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+12:18:34 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+12:18:34 [INFO] Listening on /0.0.0.0:25565
+12:24:11 [INFO] [/192.168.1.1:58617] <-> InitialHandler has connected
+12:24:11 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:24:23 [INFO] [TheJavaDev] <-> ServerConnector [lobby] has connected
+12:24:23 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:24:36 [INFO] [SpongePls] Using the Forge Server Connector for TheJavaDev
+12:24:36 [INFO] [SpongePls]  for the target "mods".
+12:24:36 [INFO] [TheJavaDev] <-> ServerConnector [mods] has connected
+12:24:36 [INFO] [TheJavaDev] <-> ServerConnector [mods] has disconnected
+12:24:40 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:24:40 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [lobby] has disconnected
+12:24:48 [INFO] [TheJavaDev] <-> ServerConnector [lobby] has connected
+12:24:49 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:28:00 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:28:00 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [lobby] has disconnected
+12:29:23 [INFO] [TheJavaDev] disconnected with: §fServer closed
+12:29:23 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:29:24 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+12:31:45 [INFO] [/192.168.1.1:58627] <-> InitialHandler has connected
+12:31:47 [INFO] [/192.168.1.1:58629] <-> InitialHandler has connected
+12:31:48 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+12:32:12 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+12:32:13 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+12:32:13 [INFO] [/192.168.1.1:58632] <-> InitialHandler has connected

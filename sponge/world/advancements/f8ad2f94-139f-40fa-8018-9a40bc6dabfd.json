@@ -1,337 +1,74 @@
 {
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "zombie": "2018-06-09 11:48:32 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2018-06-09 11:54:13 -0700"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
-    "criteria": {
-      "has_the_recipe": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wooden_slab": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow": {
-    "criteria": {
-      "has_snowball": "2018-06-09 11:44:37 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2018-06-09 11:54:13 -0700"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
-    "criteria": {
-      "has_the_recipe": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
-    "criteria": {
-      "has_the_recipe": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_bonemeal": "2018-06-09 11:54:13 -0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "ice_flats": "2018-06-09 11:20:34 -0700",
-      "frozen_river": "2018-06-09 11:55:16 -0700",
-      "forest": "2018-06-09 11:49:24 -0700",
-      "forest_hills": "2018-06-09 11:19:54 -0700",
-      "ice_mountains": "2018-06-09 11:52:57 -0700",
-      "river": "2018-06-09 11:53:04 -0700"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2018-06-09 11:35:08 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapdoor": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2018-06-09 11:54:13 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2018-06-09 11:38:30 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2018-06-09 11:54:13 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2018-06-09 11:36:34 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2018-06-09 11:21:27 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2018-06-09 11:36:34 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sign": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow_layer": {
-    "criteria": {
-      "has_snowball": "2018-06-09 11:44:37 -0700"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
-    "criteria": {
-      "has_the_recipe": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2018-06-09 11:54:13 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2018-06-09 11:19:54 -0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "zombie": "2018-06-09 11:48:32 -0700"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fence": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stonebrick": {
-    "criteria": {
-      "has_stone": "2018-06-09 11:36:34 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
-    "criteria": {
-      "has_the_recipe": "2018-06-09 11:36:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
-    "criteria": {
-      "has_iron_block": "2018-06-09 11:45:30 -0700"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2018-06-09 11:46:55 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_block": {
-    "criteria": {
-      "has_the_recipe": "2018-06-09 11:54:13 -0700"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2018-06-09 11:46:55 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
+      "entered_water": "2018-06-28 17:20:57 -0700"
     },
     "done": true
   },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
-      "has_stone": "2018-06-09 11:36:34 -0700"
+      "has_stone": "2018-06-28 17:38:50 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
-      "has_iron_block": "2018-06-09 11:45:30 -0700"
+      "has_stone": "2018-06-28 17:38:50 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_door": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "has_planks": "2018-06-09 11:36:40 -0700"
+      "entered_water": "2018-06-28 17:20:57 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_bonemeal": "2018-06-09 11:54:13 -0700"
+      "has_stone": "2018-06-28 17:38:50 -0700"
     },
     "done": true
   },
-  "biomesoplenty:recipes/tools/flower_basket": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_lots_of_items": "2018-06-09 11:38:30 -0700"
+      "entered_water": "2018-06-28 17:20:57 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "has_at_least_9_bonemeal": "2018-06-09 11:54:13 -0700"
+      "has_stone": "2018-06-28 17:38:50 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
+  "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
+      "entered_water": "2018-06-28 17:20:57 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_gold_ingot": "2018-06-09 11:46:09 -0700"
+      "entered_water": "2018-06-28 17:20:57 -0700"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2018-06-28 17:20:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "swampland": "2018-06-28 17:21:01 -0700",
+      "extreme_hills_with_trees": "2018-06-28 17:08:51 -0700",
+      "plains": "2018-06-28 17:08:13 -0700",
+      "extreme_hills": "2018-06-28 17:08:50 -0700",
+      "roofed_forest": "2018-06-28 17:08:45 -0700",
+      "river": "2018-06-28 17:20:56 -0700",
+      "stone_beach": "2018-06-28 17:08:55 -0700"
+    },
+    "done": false
   }
 }

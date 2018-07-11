@@ -1,0 +1,443 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  OpenModsCorePlugin (OpenModsLib-1.12.2-0.11.5.jar)
+  MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.1.169.jar)
+  SpongeCoremod (spongeforge-1.12.2-2705-7.1.0-BETA-3136.jar)
+  MovingWorldCore (movingworld-1.12-6.342-full.jar)
+Contact their authors BEFORE contacting forge
+
+// I blame Dinnerbone.
+
+Time: 7/11/18 12:05 PM
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
+	at journeymap.common.version.Version.toMajorMinorString(Version.java:146)
+	at journeymap.server.Constants.<clinit>(Constants.java:22)
+	at journeymap.server.properties.ServerPropertiesBase.getFile(ServerPropertiesBase.java:182)
+	at journeymap.common.properties.PropertiesBase.load(PropertiesBase.java:181)
+	at journeymap.server.properties.PropertiesManager.loadConfigs(PropertiesManager.java:31)
+	at journeymap.server.properties.PropertiesManager.getInstance(PropertiesManager.java:22)
+	at journeymap.common.Journeymap.serverStartingEvent(Journeymap.java:161)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:627)
+	at sun.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.redirect$onPost$zza000(LoadController.java:560)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+	at net.minecraftforge.fml.common.Loader.serverStarting(Loader.java:794)
+	at net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarting(FMLCommonHandler.java:296)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:306)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at journeymap.common.version.Version.toMajorMinorString(Version.java:146)
+	at journeymap.server.Constants.<clinit>(Constants.java:22)
+	at journeymap.server.properties.ServerPropertiesBase.getFile(ServerPropertiesBase.java:182)
+	at journeymap.common.properties.PropertiesBase.load(PropertiesBase.java:181)
+	at journeymap.server.properties.PropertiesManager.loadConfigs(PropertiesManager.java:31)
+	at journeymap.server.properties.PropertiesManager.getInstance(PropertiesManager.java:22)
+	at journeymap.common.Journeymap.serverStartingEvent(Journeymap.java:161)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:627)
+	at sun.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.redirect$onPost$zza000(LoadController.java:560)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+
+-- Sponge PhaseTracker --
+Details:
+	Phase Stack: [Empty stack]
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.handler$onCrashReport$zjg000(MinecraftServer.java:3997)
+	at net.minecraft.server.MinecraftServer.func_71230_b(MinecraftServer.java:889)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71230_b(DedicatedServer.java:370)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:62)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- Thread Dump --
+Details:
+	Threads: "Server Watchdog" Id=50 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:46)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Sponge - Async Light Thread" Id=49 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7337741b
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7337741b
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Sponge - Async Light Thread" Id=48 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7337741b
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7337741b
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"ic2-poolthread-1" Id=47 WAITING on ic2.core.util.PriorityExecutor$FixedPriorityQueue@7df0940d
+	at java.lang.Object.wait(Native Method)
+	-  waiting on ic2.core.util.PriorityExecutor$FixedPriorityQueue@7df0940d
+	at java.lang.Object.wait(Object.java:502)
+	at ic2.core.util.PriorityExecutor$FixedPriorityQueue.take(PriorityExecutor.java:143)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Epoll Server IO #0" Id=40 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:117)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:223)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:247)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Java2D Disposer" Id=39 WAITING on java.lang.ref.ReferenceQueue$Lock@79cf1f6b
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@79cf1f6b
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at sun.java2d.Disposer.run(Disposer.java:148)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Sponge Async Scheduler Thread" Id=24 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3ccd9e36
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3ccd9e36
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2163)
+	at org.spongepowered.common.scheduler.AsyncScheduler.preTick(AsyncScheduler.java:112)
+	at org.spongepowered.common.scheduler.SchedulerBase.runTick(SchedulerBase.java:105)
+	at org.spongepowered.common.scheduler.AsyncScheduler.mainLoop(AsyncScheduler.java:66)
+	at org.spongepowered.common.scheduler.AsyncScheduler$$Lambda$80/412055260.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Server console handler" Id=23 RUNNABLE (in native)
+	at java.io.FileInputStream.read0(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:207)
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:245)
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:257)
+	-  locked jline.internal.NonBlockingInputStream@7412a218
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:194)
+	-  locked jline.internal.NonBlockingInputStream@7412a218
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2136)
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2126)
+	at jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3228)
+	...
+
+
+"DestroyJavaVM" Id=22 RUNNABLE
+
+
+"Server thread" Id=20 RUNNABLE
+	at journeymap.common.version.Version.toMajorMinorString(Version.java:146)
+	at journeymap.server.Constants.<clinit>(Constants.java:22)
+	at journeymap.server.properties.ServerPropertiesBase.getFile(ServerPropertiesBase.java:182)
+	at journeymap.common.properties.PropertiesBase.load(PropertiesBase.java:181)
+	at journeymap.server.properties.PropertiesManager.loadConfigs(PropertiesManager.java:31)
+	at journeymap.server.properties.PropertiesManager.getInstance(PropertiesManager.java:22)
+	at journeymap.common.Journeymap.serverStartingEvent(Journeymap.java:161)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	...
+
+
+"Server Infinisleeper" Id=19 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:82)
+
+
+"Snooper Timer" Id=18 WAITING on java.util.TaskQueue@5ce26179
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@5ce26179
+	at java.lang.Object.wait(Object.java:502)
+	at java.util.TimerThread.mainLoop(Timer.java:526)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@3d011a9f
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@3d011a9f
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:212)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@68ecfd0c
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@68ecfd0c
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
+
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.15.0-23-generic
+	Java Version: 1.8.0_171, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 661208288 bytes (630 MB) / 2942304256 bytes (2806 MB) up to 2942304256 bytes (2806 MB)
+	JVM Flags: 2 total; -Xmx3G -Xms3G
+	IntCache: cache: 0, tcache: 0, allocated: 15, tallocated: 95
+	FML: MCP 9.42 Powered by Forge 14.23.4.2705 68 mods loaded, 68 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State    | ID                                           | Version                     | Source                                          | Signature                                |
+	|:-------- |:-------------------------------------------- |:--------------------------- |:----------------------------------------------- |:---------------------------------------- |
+	| UCHIJAAA | minecraft                                    | 1.12.2                      | minecraft.jar                                   | None                                     |
+	| UCHIJAAA | mcp                                          | 9.42                        | minecraft.jar                                   | None                                     |
+	| UCHIJAAA | FML                                          | 8.0.99.99                   | forge-1.12.2-14.23.4.2705-universal.jar         | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAA | forge                                        | 14.23.4.2705                | forge-1.12.2-14.23.4.2705-universal.jar         | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAA | micdoodlecore                                |                             | minecraft.jar                                   | None                                     |
+	| UCHIJAAA | com.elytradev.movingworld.common.asm.coremod |                             | minecraft.jar                                   | None                                     |
+	| UCHIJAAA | spongeapi                                    | 7.1.0-SNAPSHOT-43d8496      | spongeforge-1.12.2-2705-7.1.0-BETA-3136.jar     | None                                     |
+	| UCHIJAAA | sponge                                       | 1.12.2-2705-7.1.0-BETA-3136 | spongeforge-1.12.2-2705-7.1.0-BETA-3136.jar     | 6729a677746f8cf63ef31881f913ed15d431b7f0 |
+	| UCHIJAAA | openmodscore                                 | 0.11.5                      | minecraft.jar                                   | None                                     |
+	| UCHIJAAA | securitycraft                                | v1.8.4.1                    | [1.12.x]+SecurityCraft+v1.8.4.1.jar             | None                                     |
+	| UCHIJAAA | appliedenergistics2                          | rv5-stable-11               | appliedenergistics2-rv5-stable-11.jar           | None                                     |
+	| UCHIJAAA | backpack                                     | 3.0.2                       | backpack-3.0.2-1.12.2.jar                       | None                                     |
+	| UCHIJAAA | bdlib                                        | 1.14.3.12                   | bdlib-1.14.3.12-mc1.12.2.jar                    | None                                     |
+	| UCHIJAAA | biomesoplenty                                | 7.0.1.2384                  | BiomesOPlenty-1.12.2-7.0.1.2384-universal.jar   | None                                     |
+	| UCHIJAAA | buildcraftlib                                | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | buildcraftcore                               | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | buildcraftbuilders                           | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | buildcraftenergy                             | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | buildcraftfactory                            | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | buildcraftrobotics                           | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | buildcrafttransport                          | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | buildcraftsilicon                            | 7.99.17                     | buildcraft-7.99.17.jar                          | None                                     |
+	| UCHIJAAA | codechickenlib                               | 3.1.8.341                   | CodeChickenLib-1.12.2-3.1.8.341-universal.jar   | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| UCHIJAAA | redstoneflux                                 | 2.0.2                       | RedstoneFlux-1.12-2.0.2.3-universal.jar         | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| UCHIJAAA | cofhcore                                     | 4.5.1                       | CoFHCore-1.12.2-4.5.1.18-universal.jar          | None                                     |
+	| UCHIJAAA | cofhworld                                    | 1.2.0                       | CoFHWorld-1.12.2-1.2.0.5-universal.jar          | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| UCHIJAAA | movingworld                                  | 1.12-6.342                  | movingworld-1.12-6.342-full.jar                 | None                                     |
+	| UCHIJAAA | davincisvessels                              | @DVESSELSVER@               | davincisvessels-1.12-6.340-full.jar             | None                                     |
+	| UCHIJAAA | jei                                          | 4.9.1.188                   | jei_1.12.2-4.9.1.188.jar                        | None                                     |
+	| UCHIJAAA | mantle                                       | 1.12-1.3.2.24               | Mantle-1.12-1.3.2.24.jar                        | None                                     |
+	| UCHIJAAA | tconstruct                                   | 1.12.2-2.10.1.84            | TConstruct-1.12.2-2.10.1.84.jar                 | None                                     |
+	| UCHIJAAA | extrautils2                                  | 1.0                         | extrautils2-1.12-1.7.6.jar                      | None                                     |
+	| UCHIJAAA | ic2                                          | 2.8.83-ex112                | industrialcraft-2-2.8.83-ex112.jar              | de041f9f6187debbc77034a344134053277aa3b0 |
+	| UCHIJAAA | natura                                       | 1.12.2-4.3.2.49             | natura-1.12.2-4.3.2.49.jar                      | None                                     |
+	| UCHIJAAA | forestry                                     | 5.8.0.295                   | forestry_1.12.2-5.8.0.295.jar                   | None                                     |
+	| UCHIJAAA | forgemultipartcbe                            | 2.4.2.58                    | ForgeMultipart-1.12.2-2.4.2.58-universal.jar    | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| UCHIJAAA | microblockcbe                                | 2.4.2.58                    | ForgeMultipart-1.12.2-2.4.2.58-universal.jar    | None                                     |
+	| UCHIJAAA | minecraftmultipartcbe                        | 2.4.2.58                    | ForgeMultipart-1.12.2-2.4.2.58-universal.jar    | None                                     |
+	| UCHIJAAA | galacticraftcore                             | 4.0.1.169                   | GalacticraftCore-1.12.2-4.0.1.169.jar           | None                                     |
+	| UCHIJAAA | galacticraftplanets                          | 4.0.1.169                   | Galacticraft-Planets-1.12.2-4.0.1.169.jar       | None                                     |
+	| UCHIJAAA | gendustry                                    | 1.6.5.8                     | gendustry-1.6.5.8-mc1.12.2.jar                  | None                                     |
+	| UCHIJAAA | ichunutil                                    | 7.1.4                       | iChunUtil-1.12.2-7.1.4.jar                      | None                                     |
+	| UCHIJAAA | hats                                         | 7.0.0                       | Hats-1.12.2-7.0.2.jar                           | None                                     |
+	| UCHIJAAA | hatstand                                     | 7.0.0                       | HatStand-1.12.2-7.0.1.jar                       | None                                     |
+	| UCHIJAAA | waila                                        | 1.8.24                      | Hwyla-1.8.24-B39_1.12.jar                       | None                                     |
+	| UCHIJAAA | inventorytweaks                              | 1.63+release.109.220f184    | InventoryTweaks-1.63.jar                        | 55d2cd4f5f0961410bf7b91ef6c6bf00a766dcbe |
+	| UCHIJAAA | ironchest                                    | 1.12.2-7.0.40.824           | ironchest-1.12.2-7.0.40.824.jar                 | None                                     |
+	| UCHIJAA  | journeymap                                   | 1.12.2-5.5.2                | journeymap-1.12.2-5.5.2.jar                     | None                                     |
+	| UCHIJAA  | mekanism                                     | 1.12.2-9.4.10.345           | Mekanism-1.12.2-9.4.10.345.jar                  | None                                     |
+	| UCHIJAA  | mekanismgenerators                           | 9.4.10                      | MekanismGenerators-1.12.2-9.4.10.345.jar        | None                                     |
+	| UCHIJAA  | mekanismtools                                | 9.4.10                      | MekanismTools-1.12.2-9.4.10.345.jar             | None                                     |
+	| UCHIJAA  | mrtjpcore                                    | 2.1.2.34                    | MrTJPCore-1.12.2-2.1.2.34-universal.jar         | None                                     |
+	| UCHIJAA  | openmods                                     | 0.11.5                      | OpenModsLib-1.12.2-0.11.5.jar                   | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| UCHIJAA  | openblocks                                   | 1.7.6                       | OpenBlocks-1.12.2-1.7.6.jar                     | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| UCHIJAA  | harvestcraft                                 | 1.12.2p                     | Pam's+HarvestCraft+1.12.2p.jar                  | None                                     |
+	| UCHIJAA  | projectred-core                              | 4.9.0.86                    | ProjectRed-1.12.2-4.9.0.86-Base.jar             | None                                     |
+	| UCHIJAA  | projectred-compat                            | 1.0                         | ProjectRed-1.12.2-4.9.0.86-compat.jar           | None                                     |
+	| UCHIJAA  | projectred-integration                       | 4.9.0.86                    | ProjectRed-1.12.2-4.9.0.86-integration.jar      | None                                     |
+	| UCHIJAA  | projectred-transmission                      | 4.9.0.86                    | ProjectRed-1.12.2-4.9.0.86-integration.jar      | None                                     |
+	| UCHIJAA  | projectred-fabrication                       | 4.9.0.86                    | ProjectRed-1.12.2-4.9.0.86-fabrication.jar      | None                                     |
+	| UCHIJAA  | projectred-illumination                      | 4.9.0.86                    | ProjectRed-1.12.2-4.9.0.86-lighting.jar         | None                                     |
+	| UCHIJAA  | projectred-exploration                       | 4.9.0.86                    | ProjectRed-1.12.2-4.9.0.86-world.jar            | None                                     |
+	| UCHIJAA  | thermalfoundation                            | 2.5.0                       | ThermalFoundation-1.12.2-2.5.0.19-universal.jar | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| UCHIJAA  | thermalexpansion                             | 5.5.0                       | ThermalExpansion-1.12.2-5.5.0.29-universal.jar  | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| UCHIJAA  | redstonearsenal                              | 2.5.0                       | RedstoneArsenal-1.12.2-2.5.0.10-universal.jar   | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| UCHIJAA  | thermalcultivation                           | 0.3.0                       | ThermalCultivation-1.12.2-0.3.0.7-universal.jar | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| UCHIJAA  | thermaldynamics                              | 2.5.1                       | ThermalDynamics-1.12.2-2.5.1.13-universal.jar   | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| UCHIJAA  | thermalinnovation                            | 0.3.0                       | ThermalInnovation-1.12.2-0.3.0.7-universal.jar  | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+
+	Loaded coremods (and transformers): 
+Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  invtweaks.forge.asm.ContainerTransformer
+OpenModsCorePlugin (OpenModsLib-1.12.2-0.11.5.jar)
+  openmods.core.OpenModsClassTransformer
+MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.1.169.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+SpongeCoremod (spongeforge-1.12.2-2705-7.1.0-BETA-3136.jar)
+  org.spongepowered.common.launch.transformer.SpongeSuperclassTransformer
+MovingWorldCore (movingworld-1.12-6.342-full.jar)
+  
+	OpenModsLib class transformers: [llama_null_fix:FINISHED],[horse_base_null_fix:FINISHED],[pre_world_render_hook:ENABLED],[player_render_hook:ENABLED],[horse_null_fix:FINISHED]
+	AE2 Version: stable rv5-stable-11 for Forge 14.23.1.2554
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- wailaIntegration (Enabled/Not Forced)
+
+	Pulsar/natura loaded Pulses: 
+		- NaturaCommons (Enabled/Forced)
+		- NaturaOverworld (Enabled/Not Forced)
+		- NaturaNether (Enabled/Not Forced)
+		- NaturaDecorative (Enabled/Not Forced)
+		- NaturaTools (Enabled/Not Forced)
+		- NaturaEntities (Enabled/Not Forced)
+		- NaturaOredict (Enabled/Forced)
+		- NaturaWorld (Enabled/Not Forced)
+
+	List of loaded APIs: 
+		* appliedenergistics2|API (rv5) from appliedenergistics2-rv5-stable-11.jar
+		* BuildCraftAPI|blocks (1.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|boards (2.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|core (2.2) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|crops (1.1) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|enums (1.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|events (2.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|facades (1.1) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|filler (5.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|fuels (2.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|gates (4.1) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|items (1.1) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|library (2.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|lists (1.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|power (1.3) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|recipes (3.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|robotics (3.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|statements (1.1) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|tiles (1.2) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|tools (1.0) from buildcraft-7.99.17.jar
+		* BuildCraftAPI|transport (5.0) from buildcraft-7.99.17.jar
+		* cofhapi (2.5.0) from CoFHCore-1.12.2-4.5.1.18-universal.jar
+		* ForestryAPI|apiculture (5.0.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|arboriculture (4.3.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|book (5.8.1) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|circuits (3.1.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|climate (5.0.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|core (5.7.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|farming (5.8.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|food (1.1.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|fuels (3.0.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|genetics (5.7.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|greenhouse (5.2.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|gui (5.8.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|hives (4.1.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|lepidopterology (1.4.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|mail (3.1.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|modules (5.7.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|multiblock (3.0.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|recipes (5.4.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|storage (5.0.0) from forestry_1.12.2-5.8.0.295.jar
+		* ForestryAPI|world (2.1.0) from forestry_1.12.2-5.8.0.295.jar
+		* Galacticraft API (1.0) from GalacticraftCore-1.12.2-4.0.1.169.jar
+		* gendustryAPI (2.3.0) from gendustry-1.6.5.8-mc1.12.2.jar
+		* iChunUtil API (1.2.0) from iChunUtil-1.12.2-7.1.4.jar
+		* jeresources|API (0.8.5.27) from JustEnoughResources-1.12.2-0.8.5.27.jar
+		* journeymap|client-api (1.4) from journeymap-1.12.2-5.5.2.jar
+		* journeymap|client-api-display (1.4) from journeymap-1.12.2-5.5.2.jar
+		* journeymap|client-api-event (1.4) from journeymap-1.12.2-5.5.2.jar
+		* journeymap|client-api-model (1.4) from journeymap-1.12.2-5.5.2.jar
+		* journeymap|client-api-util (1.4) from journeymap-1.12.2-5.5.2.jar
+		* JustEnoughItemsAPI (4.13.0) from jei_1.12.2-4.9.1.188.jar
+		* MekanismAPI|core (9.0.0) from Mekanism-1.12.2-9.4.10.345.jar
+		* MekanismAPI|energy (9.0.0) from Mekanism-1.12.2-9.4.10.345.jar
+		* MekanismAPI|gas (9.0.0) from Mekanism-1.12.2-9.4.10.345.jar
+		* MekanismAPI|infuse (9.0.0) from Mekanism-1.12.2-9.4.10.345.jar
+		* MekanismAPI|laser (9.0.0) from Mekanism-1.12.2-9.4.10.345.jar
+		* MekanismAPI|transmitter (9.0.0) from Mekanism-1.12.2-9.4.10.345.jar
+		* MekanismAPI|util (9.0.0) from Mekanism-1.12.2-9.4.10.345.jar
+		* openblocks|api (1.2) from OpenBlocks-1.12.2-1.7.6.jar
+		* projectred|api (2.0) from ProjectRed-1.12.2-4.9.0.86-Base.jar
+		* SecurityCraftAPI (1.2.2) from [1.12.x]+SecurityCraft+v1.8.4.1.jar
+		* WailaAPI (1.3) from Hwyla-1.8.24-B39_1.12.jar
+	AE2 Integration: IC2:ON, RC:OFF, MFR:OFF, Waila:ON, Mekanism:ON, OpenComputers:OFF, THE_ONE_PROBE:OFF, TESLA:OFF, CRAFTTWEAKER:OFF
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge,sponge'
+	Type: Dedicated Server (map_server.txt)
