@@ -13772,3 +13772,19 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 12:32:12 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
 12:32:13 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
 12:32:13 [INFO] [/192.168.1.1:58632] <-> InitialHandler has connected
+12:57:13 [INFO] [/76.103.133.62:50367] <-> InitialHandler has connected
+12:57:13 [INFO] [AirFusion_45] <-> InitialHandler has connected
+12:57:13 [INFO] [AirFusion_45] <-> ServerConnector [staff] has connected
+13:02:36 [INFO] [/192.168.1.1:58966] <-> InitialHandler has connected
+13:02:37 [INFO] [TheJavaDev] <-> InitialHandler has connected
+13:02:38 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected
+13:08:41 [INFO] [TheJavaDev] -> UpstreamBridge has disconnected
+13:08:41 [INFO] [TheJavaDev] <-> DownstreamBridge <-> [staff] has disconnected
+13:08:41 [INFO] [/192.168.1.1:58972] <-> InitialHandler has connected
+13:08:43 [WARNING] [AirFusion_45] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+13:08:43 [INFO] [AirFusion_45] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+13:08:43 [INFO] [AirFusion_45] -> UpstreamBridge has disconnected
+13:08:43 [INFO] [AirFusion_45] <-> DownstreamBridge <-> [staff] has disconnected
+13:09:39 [INFO] [/192.168.1.1:58995] <-> InitialHandler has connected
+13:09:42 [INFO] [TheJavaDev] <-> InitialHandler has connected
+13:09:42 [INFO] [TheJavaDev] <-> ServerConnector [staff] has connected

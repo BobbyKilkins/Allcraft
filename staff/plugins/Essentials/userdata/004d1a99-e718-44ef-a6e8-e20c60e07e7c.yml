@@ -1,23 +1,23 @@
 lastAccountName: AirFusion_45
 timestamps:
-  login: 1528042535885
-  logout: 1528042548375
+  login: 1531339034003
+  logout: 1531339721342
   lastteleport: 1527438706766
 ipAddress: 76.103.133.62
 lastlocation:
   world: world
-  x: -419.5839922171432
-  y: 104.0
-  z: 191.68873635111825
-  yaw: 125.4768
-  pitch: 49.31903
+  x: 235.5
+  y: 71.0
+  z: 253.5
+  yaw: 3.1252747
+  pitch: 0.0
 logoutlocation:
   world: world
-  x: -417.69999998807907
-  y: 103.56834522283262
-  z: 198.7067538428583
-  yaw: 79.82807
-  pitch: 21.103945
+  x: 352.4955464967985
+  y: 67.5492710466726
+  z: 120.1173458807146
+  yaw: -152.82953
+  pitch: 23.476658
 afk: false
 homes:
   home:
@@ -58,4 +58,4 @@ powertools:
   - summon tnt
 godmode: false
 powertoolsenabled: true
-teleportenabled: false
+teleportenabled: true
