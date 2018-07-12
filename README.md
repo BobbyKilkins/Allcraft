@@ -14,9 +14,9 @@ Beta Release will probably take 4-6 months.
 
 Discord: https://discord.gg/Khq248F
 
-Owner's Gmail: alexander.g.anokhin@gmail.com
+Owner's Email: alexander.g.anokhin@gmail.com
 
-Lead Devs Gmail: jfand.cv.ca@gmail.com
+Lead Dev's Email: jfang.cv.ca.us@gmail.com
 
 ## Staff
 
