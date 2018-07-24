@@ -13810,3 +13810,348 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exce
 14:10:10 [INFO] Saving reconnect locations
 14:10:10 [INFO] Disabling plugins
 14:10:10 [INFO] Closing IO threads
+14:43:20 [INFO] Using mbed TLS based native cipher.
+14:43:20 [INFO] Using zlib based native compressor.
+14:43:20 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+14:43:20 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+14:43:20 [INFO] Epoll is working, utilising it!
+14:43:20 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+14:43:20 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+14:43:20 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+14:43:20 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+14:43:20 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+14:43:20 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:43:20 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+14:43:20 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [WARNING] Forced host server pvp is not defined
+14:43:20 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:43:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+14:43:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+14:43:20 [INFO] Listening on /0.0.0.0:25565
+15:05:09 [INFO] [/99.31.212.148:62868] <-> InitialHandler has connected
+15:05:15 [INFO] [/99.31.212.148:62870] <-> InitialHandler has connected
+15:05:17 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+15:06:17 [INFO] [Supreme_Enderman] disconnected with: §fServer closed
+15:06:17 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+15:06:17 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+15:06:19 [INFO] Closing listener [id: 0x9aee0640, L:/0:0:0:0:0:0:0:0%0:25565]
+15:06:19 [INFO] Closing pending connections
+15:06:19 [INFO] Disconnecting 0 connections
+15:06:19 [INFO] Saving reconnect locations
+15:06:19 [INFO] Disabling plugins
+15:06:19 [INFO] Closing IO threads
+15:06:22 [INFO] Thank you and goodbye
+08:41:56 [INFO] Using mbed TLS based native cipher.
+08:41:56 [INFO] Using zlib based native compressor.
+08:41:56 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+08:41:56 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+08:41:56 [INFO] Epoll is working, utilising it!
+08:41:56 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+08:41:56 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+08:41:56 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+08:41:56 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+08:41:56 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+08:41:56 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+08:41:56 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+08:41:56 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [WARNING] Forced host server pvp is not defined
+08:41:56 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+08:41:56 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:56 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:57 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+08:41:57 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:57 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:41:57 [INFO] Listening on /0.0.0.0:25565
+08:49:23 [INFO] Closing listener [id: 0xa14bdf86, L:/0:0:0:0:0:0:0:0%0:25565]
+08:49:23 [INFO] Closing pending connections
+08:49:23 [INFO] Disconnecting 0 connections
+08:49:23 [INFO] Saving reconnect locations
+08:49:23 [INFO] Disabling plugins
+08:49:23 [INFO] Closing IO threads
+08:50:03 [INFO] Using mbed TLS based native cipher.
+08:50:03 [INFO] Using zlib based native compressor.
+08:50:03 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+08:50:04 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+08:50:04 [INFO] Epoll is working, utilising it!
+08:50:04 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+08:50:04 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+08:50:04 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+08:50:04 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+08:50:04 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+08:50:04 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+08:50:04 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+08:50:04 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [WARNING] Forced host server pvp is not defined
+08:50:04 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+08:50:04 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+08:50:04 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:50:04 [INFO] Listening on /0.0.0.0:25565
+10:02:02 [INFO] [/99.31.212.148:61807] <-> InitialHandler has connected
+10:02:11 [INFO] [/99.31.212.148:61845] <-> InitialHandler has connected
+10:02:13 [INFO] [/99.31.212.148:61877] <-> InitialHandler has connected
+10:02:14 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:03:50 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+10:03:50 [INFO] [SpongePls]  for the target "mods".
+10:03:50 [INFO] [Supreme_Enderman] <-> ServerConnector [mods] has connected
+10:03:50 [INFO] [Supreme_Enderman] <-> ServerConnector [mods] has disconnected
+10:07:25 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:07:25 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:07:25 [INFO] [/99.31.212.148:61922] <-> InitialHandler has connected
+10:11:11 [INFO] [/99.31.212.148:62105] <-> InitialHandler has connected
+10:11:12 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:24:33 [WARNING] [Supreme_Enderman] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+10:24:33 [INFO] [Supreme_Enderman] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+10:24:33 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:24:33 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:28:17 [INFO] [/99.31.212.148:62296] <-> InitialHandler has connected
+10:28:18 [INFO] [/99.31.212.148:62327] <-> InitialHandler has connected
+10:28:19 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:29:09 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:29:10 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:29:10 [INFO] [/99.31.212.148:62334] <-> InitialHandler has connected
+10:32:19 [INFO] [/99.31.212.148:62529] <-> InitialHandler has connected
+10:32:21 [INFO] [/99.31.212.148:62531] <-> InitialHandler has connected
+10:32:22 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:35:04 [WARNING] [Supreme_Enderman] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+10:35:04 [INFO] [Supreme_Enderman] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+10:35:04 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:35:04 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+11:08:51 [INFO] [/99.31.212.148:62890] <-> InitialHandler has connected
+11:08:58 [INFO] [/99.31.212.148:62898] <-> InitialHandler has connected
+11:08:59 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+11:09:03 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+11:09:03 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+11:09:04 [INFO] [/99.31.212.148:62911] <-> InitialHandler has connected
+11:09:32 [INFO] [/99.31.212.148:62928] <-> InitialHandler has connected
+11:09:50 [INFO] [Supreme_Enderman] <-> InitialHandler has connected
+11:09:51 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+11:10:07 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+11:10:07 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+11:10:08 [INFO] [/99.31.212.148:62953] <-> InitialHandler has connected
+13:04:32 [INFO] [/99.31.212.148:63755] <-> InitialHandler has connected
+13:04:34 [INFO] [/99.31.212.148:63756] <-> InitialHandler has connected
+13:04:35 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+13:04:46 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+13:04:46 [INFO] [SpongePls]  for the target "mods".
+13:04:46 [INFO] [Supreme_Enderman] <-> ServerConnector [mods] has connected
+13:04:46 [INFO] [Supreme_Enderman] <-> ServerConnector [mods] has disconnected
+13:05:36 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+13:05:37 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+13:05:37 [INFO] [/99.31.212.148:63767] <-> InitialHandler has connected
+13:11:32 [INFO] [/108.95.131.34:53330] <-> InitialHandler has connected
+13:22:45 [WARNING] [/108.95.131.34:53369] <-> InitialHandler - NativeIoException: syscall:read(..) failed: Connection reset by peer
+13:31:45 [INFO] [/108.95.131.34:53652] <-> InitialHandler has connected
+13:47:22 [INFO] [/108.95.131.34:53696] <-> InitialHandler has connected
+16:20:19 [INFO] [/24.102.88.18:59826] <-> InitialHandler has connected
+18:24:52 [INFO] [/99.31.212.148:65412] <-> InitialHandler has connected
+18:24:54 [INFO] [/99.31.212.148:65415] <-> InitialHandler has connected
+18:24:55 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+18:27:05 [INFO] [Supreme_Enderman] disconnected with: §fServer closed
+18:27:05 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+18:27:05 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+18:27:08 [INFO] Closing listener [id: 0x320a7b71, L:/0:0:0:0:0:0:0:0%0:25565]
+18:27:08 [INFO] Closing pending connections
+18:27:08 [INFO] Disconnecting 0 connections
+18:27:09 [INFO] Saving reconnect locations
+18:27:09 [INFO] Disabling plugins
+18:27:09 [INFO] Closing IO threads
+09:18:29 [INFO] Using mbed TLS based native cipher.
+09:18:29 [INFO] Using zlib based native compressor.
+09:18:29 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+09:18:29 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:18:29 [INFO] Epoll is working, utilising it!
+09:18:29 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:18:29 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:18:29 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:18:29 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:18:29 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:18:29 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:18:29 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:18:29 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [WARNING] Forced host server pvp is not defined
+09:18:29 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+09:18:29 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:18:29 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+09:18:29 [INFO] Listening on /0.0.0.0:25565
+12:36:43 [INFO] [/108.95.131.34:59118] <-> InitialHandler has connected
+14:19:14 [INFO] [/24.6.231.231:59306] <-> InitialHandler has connected
+14:19:14 [INFO] [/24.6.231.231:59317] <-> InitialHandler has connected
+14:19:14 [INFO] [/24.6.231.231:59325] <-> InitialHandler has connected
+14:20:27 [INFO] [/99.89.34.31:49956] <-> InitialHandler has connected
+14:21:26 [INFO] [/24.6.231.231:59630] <-> InitialHandler has connected
+14:21:26 [INFO] [/24.6.231.231:59637] <-> InitialHandler has connected
+14:21:27 [INFO] [/24.6.231.231:59658] <-> InitialHandler has connected
+15:35:27 [INFO] [/99.89.34.31:50107] <-> InitialHandler has connected
+15:55:33 [INFO] [/47.36.118.25:49570] <-> InitialHandler has connected
+15:57:46 [INFO] [/47.36.118.25:49628] <-> InitialHandler has connected
+15:58:45 [INFO] Closing listener [id: 0xf03c039a, L:/0:0:0:0:0:0:0:0%0:25565]
+15:58:45 [INFO] Closing pending connections
+15:58:45 [INFO] Disconnecting 0 connections
+15:58:45 [INFO] Saving reconnect locations
+15:58:45 [INFO] Disabling plugins
+15:58:45 [INFO] Closing IO threads
+21:08:49 [INFO] Using mbed TLS based native cipher.
+21:08:49 [INFO] Using zlib based native compressor.
+21:08:49 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+21:08:49 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:08:49 [INFO] Epoll is working, utilising it!
+21:08:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:08:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:08:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:08:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:08:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:08:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:08:49 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+21:08:49 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [WARNING] Forced host server pvp is not defined
+21:08:49 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:08:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+21:08:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+21:08:49 [INFO] Listening on /0.0.0.0:25565
+21:31:44 [INFO] [/99.89.34.31:55672] <-> InitialHandler has connected
+23:50:59 [INFO] [/99.89.34.31:55998] <-> InitialHandler has connected
+09:40:28 [INFO] [/47.36.118.25:53298] <-> InitialHandler has connected
+09:40:42 [INFO] [/47.36.118.25:53306] <-> InitialHandler has connected
+09:40:49 [INFO] [/47.36.118.25:53316] <-> InitialHandler has connected
+09:40:51 [INFO] [/47.36.118.25:53320] <-> InitialHandler has connected
+09:40:52 [INFO] [/47.36.118.25:53324] <-> InitialHandler has connected
+09:40:53 [INFO] [/47.36.118.25:53327] <-> InitialHandler has connected
+09:41:24 [INFO] [/47.36.118.25:53335] <-> InitialHandler has connected
+09:41:56 [INFO] Closing listener [id: 0x0e7513ff, L:/0:0:0:0:0:0:0:0%0:25565]
+09:41:56 [INFO] Closing pending connections
+09:41:56 [INFO] Disconnecting 0 connections
+09:41:57 [INFO] Saving reconnect locations
+09:41:57 [INFO] Disabling plugins
+09:41:57 [INFO] Closing IO threads
+08:43:04 [INFO] Using mbed TLS based native cipher.
+08:43:04 [INFO] Using zlib based native compressor.
+08:43:04 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:730715e:1321
+08:43:04 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+08:43:04 [INFO] Epoll is working, utilising it!
+08:43:04 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+08:43:04 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+08:43:04 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+08:43:04 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+08:43:04 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+08:43:04 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+08:43:04 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+08:43:04 [INFO] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [WARNING] Forced host server pvp is not defined
+08:43:04 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+08:43:04 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+08:43:04 [INFO] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:730715e:1321 by SpigotMC
+08:43:04 [INFO] Listening on /0.0.0.0:25565
+09:18:59 [INFO] [/99.31.212.148:51273] <-> InitialHandler has connected
+09:47:20 [INFO] [/99.89.34.31:54791] <-> InitialHandler has connected
+09:50:50 [INFO] [/99.31.212.148:51444] <-> InitialHandler has connected
+09:50:55 [INFO] [/99.31.212.148:51477] <-> InitialHandler has connected
+09:51:45 [INFO] [/99.31.212.148:51642] <-> InitialHandler has connected
+09:52:52 [INFO] [/99.31.212.148:51648] <-> InitialHandler has connected
+09:52:53 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+09:54:35 [INFO] [/192.168.1.1:55151] <-> InitialHandler has connected
+09:54:37 [INFO] [/192.168.1.1:55153] <-> InitialHandler has connected
+09:54:50 [INFO] [/192.168.1.1:55160] <-> InitialHandler has connected
+09:57:39 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+09:57:39 [INFO] [SpongePls]  for the target "mods".
+09:57:39 [INFO] [Supreme_Enderman] <-> ServerConnector [mods] has connected
+09:57:40 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+09:57:40 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+09:57:40 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+09:57:40 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+09:57:40 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+09:57:40 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+09:57:40 [INFO] [Supreme_Enderman] <-> ServerConnector [mods] has disconnected
+09:57:55 [INFO] [Supreme_Enderman] disconnected with: §fKicked by an operator.
+09:57:55 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+09:57:55 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+09:58:00 [INFO] [/99.31.212.148:51669] <-> InitialHandler has connected
+09:58:01 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+09:58:15 [INFO] [Supreme_Enderman] disconnected with: §fYou are banned from this server.
+09:58:15 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+09:58:15 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+09:58:18 [INFO] [Supreme_Enderman] <-> InitialHandler has connected
+09:58:19 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+09:58:19 [INFO] [Supreme_Enderman] disconnected with: §cKicked whilst connecting to staff: §fYou are banned from this server!
+Reason: lol
+09:58:19 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has disconnected
+09:58:19 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+09:58:28 [INFO] [Supreme_Enderman] <-> InitialHandler has connected
+09:58:28 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+09:59:48 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+09:59:49 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+09:59:49 [INFO] [/99.31.212.148:51779] <-> InitialHandler has connected
+10:00:12 [INFO] [/99.31.212.148:51818] <-> InitialHandler has connected
+10:00:13 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:00:17 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:00:17 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:00:17 [INFO] [/99.31.212.148:51829] <-> InitialHandler has connected
+10:00:21 [INFO] [/99.31.212.148:51839] <-> InitialHandler has connected
+10:00:21 [INFO] [Supreme_Enderman] <-> ServerConnector [staff] has connected
+10:00:33 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+10:00:33 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [staff] has disconnected
+10:00:33 [INFO] [/99.31.212.148:51859] <-> InitialHandler has connected
+13:35:46 [INFO] §cCommand not found
+13:47:27 [INFO] §cCommand not found
+13:47:28 [INFO] Closing listener [id: 0x958c4856, L:/0:0:0:0:0:0:0:0%0:25565]
+13:47:28 [INFO] Closing pending connections
+13:47:28 [INFO] Disconnecting 0 connections
+13:47:29 [INFO] Saving reconnect locations
+13:47:29 [INFO] Disabling plugins
+13:47:29 [INFO] Closing IO threads
