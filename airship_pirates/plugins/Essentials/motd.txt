@@ -1,6 +1,0 @@
-񖶆񖶄
-&6Welcome,&c {PLAYER}&6!
-&6You can now make your airship safe from theft in protected airspace! Place a sign that says Pilot: and the next line is your name. Any additional pilots should be added after the first line.
-&6Forums:&c http://minecraftairshippirates.enjin.com/
-&6Players online:&c {ONLINE}
-&6World time:&c {WORLDTIME12}

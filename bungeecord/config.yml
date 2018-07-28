@@ -1,37 +1,7 @@
-forge_support: true
-timeout: 30000
-custom_server_name: Allcraft
-log_commands: false
-listeners:
-- query_port: 25577
-  motd: '&BA long way to go'
-  tab_list: GLOBAL_PING
-  query_enabled: false
-  proxy_protocol: false
-  forced_hosts:
-    pvp.md-5.net: pvp
-  ping_passthrough: false
-  priorities:
-  - staff
-  bind_local_address: true
-  host: 0.0.0.0:25565
-  max_players: 100
-  tab_size: 60
-  force_default_server: false
-online_mode: true
-connection_throttle: 4000
-groups:
-  TheJavaDev:
-  - admin
-  AirFusion_45:
-  - admin
 ip_forward: true
-always_handle_packets: false
+forge_support: true
 network_compression_threshold: 256
-prevent_proxy_connections: false
-disabled_commands:
-- disabledcommandhere
-stats: 2c95b70b-56f0-4242-a6f8-62a20d520f26
+stats: 187b9f20-6b41-49d8-8bdf-59b892adc1bb
 permissions:
   default:
   - bungeecord.command.server
@@ -41,21 +11,57 @@ permissions:
   - bungeecord.command.end
   - bungeecord.command.ip
   - bungeecord.command.reload
+groups:
+  CyberK1ng:
+  - admin
+  AirFusion_45:
+  - admin
 servers:
   lobby:
-    motd: '&AWelcome to Allcraft!'
+    motd: '&6Now with mods!'
     address: localhost:25566
     restricted: false
-  airship_pirates:
-    motd: '&6Arrrgggh!'
+  survival:
+    motd: '&2Classic Minecraft'
     address: localhost:25567
     restricted: false
-  staff:
-    motd: '&1STAFF ONLY'
+  creative:
+    motd: '&BINFINITE POWER'
     address: localhost:25568
     restricted: false
-  mods:
-    motd: '&6Industrial Revolution'
+  mods_tech:
+    motd: '&EIndustrial Revolution!'
     address: localhost:25569
     restricted: false
-player_limit: -1
+  mods_magic:
+    motd: '&5Abracadabra!'
+    address: localhost:25570
+    restricted: false
+  staff:
+    motd: '&CSTAFF ONLY!'
+    address: localhost:25571
+    restricted: false
+timeout: 30000
+listeners:
+- query_port: 25577
+  motd: '&6Now with mods!'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 100
+  tab_size: 60
+  force_default_server: false
+prevent_proxy_connections: false
+player_limit: 100
+online_mode: true
+log_commands: false
+disabled_commands:
+- disabledcommandhere
+connection_throttle: 4000

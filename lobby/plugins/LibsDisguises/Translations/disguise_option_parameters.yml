@@ -169,6 +169,12 @@
 "DOWN": "DOWN"
 
 # Used as a disguise option
+"Euler Angle (X,Y,Z)": "Euler Angle (X,Y,Z)"
+
+# Description for the disguise option Euler Angle (X,Y,Z)
+"Set the X,Y,Z directions on an armorstand": "Set the X,Y,Z directions on an armorstand"
+
+# Used as a disguise option
 "Four ItemStacks (id:damage,id:damage..), damage optional": "Four ItemStacks (id:damage,id:damage..), damage optional"
 
 # Description for the disguise option Four ItemStacks (id:damage,id:damage..), damage optional
@@ -424,7 +430,7 @@
 "Villager Profession": "Villager Profession"
 
 # Description for the disguise option Villager Profession
-"View all the professions you can set on a villager": "View all the professions you can set on a villager"
+"View all the professions you can set on a Zombie and Normal Villager": "View all the professions you can set on a Zombie and Normal Villager"
 
 # Used for the disguise option Villager Profession
 "NORMAL": "NORMAL"

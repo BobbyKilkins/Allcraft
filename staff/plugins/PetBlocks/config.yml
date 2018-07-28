@@ -3,30 +3,8 @@
 # 		            	   by Shynixn							      #
 #######################################################################
 
-# Permission:
-# LEVEL		 DESCRIPTION									PERMISSION
-# user       Access to the /petblock command 				petblocks.use
-# user       Allows to have all pet engines			        petblocks.pet.type.all
-# user       Allows to have a specific pet engine			petblocks.pet.type.<number>
-# user       Allows to rename your pet 	       			    petblocks.pet.rename
-# user       Allows to ride your pet 	                    petblocks.pet.ride
-# user       Allows to wear your pet 	                    petblocks.pet.wear
-# user       Allows to change the skin name 	            petblocks.pet.skin
-# user       Allows to shoot your pet                       petblocks.pet.cannon
-# user       Allows to use every ordinary costume 	        petblocks.pet.defaultcostumes.all
-# user       Allows to use specific ordinary costumes	    petblocks.pet.defaultcostumes.<number>
-# user       Allows to use every color costume   		    petblocks.pet.colorcostumes.all
-# user       Allows to use specific color costumes   		petblocks.pet.colorcostumes.<number>
-# user       Allows to use every rare costume   		    petblocks.pet.customcostumes.all
-# user       Allows to use specific rare costumes  		    petblocks.pet.customcostumes.<number>
-# user       Allows to use every exclusive costume          petblocks.pet.minecraft-heads-costumes.all
-# user       Allows to use specific exclusive costume       petblocks.pet.minecraft-heads-costumes.<number>
-# user       Allows to use head-database for a costumes     petblocks.pet.head-database-costumes.all
-# user       Allows to use every particle					petblocks.pet.particles.all
-# user 		 Allows to use a specific particle				petblocks.pet.particles.<number>
-# admin      Reloads config and lang file 				    petblocks.reload
-# admin 	 Allows to use own skulls ingame 				petblocks.inventory.costume
-# admin 	 Access to the /petblocks command			    petblocks.commands
+# You can find the permissions at the official documentation.
+# https://shynixn.github.io/PetBlocks/build/html/gettingstarted/permissions.html#permissionlist
 
 ############################
 
@@ -56,6 +34,7 @@ sql:
   host: localhost
   port: 3306
   database: ''
+  usessl: false
   username: ''
   password: ''
 
@@ -77,14 +56,14 @@ petblocks-gui:
   command: petblock
   useage: /<command>
   description: Opens the pet GUI.
-  permission: petblocks.use
+  permission: petblocks.command.use
   permission-message: You don't have permission
 petblocks-configuration:
   enabled: true
   command: petblocks
   useage: /<command>
   description: Command to configure pets.
-  permission: petblocks.commands
+  permission: petblocks.command.admin
   permission-message: You don't have permission
 
 
@@ -148,8 +127,9 @@ pet:
     amount-blocks-away: 2
     teleport-fall: true
     max-range-teleport: 50
-    carry: true
+    carry: false
     flying-wall-colliding: true
+    running-hitbox-height: -1.5
     afraid-water: false
     afraid-water-particles: false
   feeding:
@@ -169,6 +149,7 @@ pet:
     max-petname-length: 20
     show-damage-animation: true
     sounds-other-players: true
+    particles-other-players: true
     petname-blacklist:
       - 'petty'
       - 'shitty'
@@ -241,23 +222,6 @@ join:
 
 ############################
 
-# Chat settings
-
-# Settings to manage entered pet-names into the chat
-# Changing these settings are only recommend when there are issues with entering pet-names or pet-skins into the chat
-
-# chat-async : Should chat messages be handled asynchronously?
-# Highest-priority : Should petblock chat message get the highest priority?
-
-############################
-
-chat:
-  async: true
-  highest-priority: true
-
-
-############################
-
 # Messages settings
 
 # Settings to adjust the messages
@@ -267,12 +231,21 @@ chat:
 messages:
   prefix: '&2[&aPetBlocks&2]&a '
   default-petname: ":player's pet"
-  naming-message: '&eEnter the name the of your pet:'
+  naming-suggest-prefix: ''
+  naming-suggest-clickable: '&e<<Click here>> '
+  naming-suggest-suffix: 'to rename your pet.'
+  naming-suggest-hover: 'Click me to rename your pet.'
   naming-success: '&aYou changed the name of your pet.'
   naming-error: '&cYou cannot name your pet like that.'
-  skullnaming-message: '&eEnter the name of the player:'
+  skullnaming-suggest-prefix: ''
+  skullnaming-suggest-clickable: '&e<<Click here>> '
+  skullnaming-suggest-suffix: 'to change the skin of your pet.'
+  skullnaming-suggest-hover: 'Click me to change the skin of your pet.'
   skullnaming-success: '&aYou changed the skin of your pet.'
   skullnaming-error: '&eThis skin is invalid.'
+  called-success: '&aYou have called your pet.'
+  toggle-spawn: '&aYour pet has spawned.'
+  toggle-despawn: '&aYour pet has despawned.'
   perms-ico-yes: '&aYes'
   perms-ico-no: '&cNo'
   no-perms: '&cYou do not have permissions.'
@@ -331,6 +304,7 @@ gui:
       damage: 3
       skin: 'textures.minecraft.net/texture/3ebf907494a935e955bfcadab81beafb90fb9be49c7026ba97d798d5f1a23'
       name: '&aPrevious page'
+      script: 'scrolling collection -45'
       unbreakable: false
       lore:
         - 'none'
@@ -341,6 +315,7 @@ gui:
       damage: 3
       skin: 'textures.minecraft.net/texture/1b6f1a25b6bc199946472aedb370522584ff6f4e83221e5946bd2e41b5ca13b'
       name: '&aNext page'
+      script: 'scrolling collection 45'
       unbreakable: false
       lore:
         - 'none'
@@ -422,7 +397,7 @@ gui:
         - '&7Click to enable the sounds of your pet.'
     ordinary-costume:
       enabled: true
-      position: 20
+      position: 19
       page: 'WARDROBE'
       id: 397
       damage: 3
@@ -433,7 +408,7 @@ gui:
         - '&7Use Minecraft blocks as costume.'
     color-costume:
       enabled: true
-      position: 21
+      position: 20
       page: 'WARDROBE'
       id: 397
       damage: 3
@@ -444,7 +419,7 @@ gui:
         - '&7Use colored Minecraft blocks as costume.'
     rare-costume:
       enabled: true
-      position: 22
+      position: 21
       page: 'WARDROBE'
       id: 397
       damage: 3
@@ -453,20 +428,48 @@ gui:
       unbreakable: false
       lore:
         - '&7Use player heads as costume.'
-    minecraft-heads-costume:
+    minecraft-heads-pet-costume:
+      enabled: true
+      position: 22
+      page: 'WARDROBE'
+      id: 397
+      damage: 3
+      skin: 'textures.minecraft.net/texture/fec052be76e39148a27f255ec537dff92018c79744202d60c51bc67d618ae36a'
+      name: '&9&lPet costumes'
+      script: 'binding collection minecraft-heads-com.pet petblocks.selection.petcostumes.all'
+      unbreakable: false
+      lore:
+        - "&7Use exclusive pet heads as costume."
+        - "&eSponsored by Minecraft-Heads.com"
+    minecraft-heads-vehicle-costume:
       enabled: true
       position: 23
       page: 'WARDROBE'
       id: 397
       damage: 3
-      name: '&9&lPet costumes'
+      skin: 'textures.minecraft.net/texture/e8778c34fba29652cfac8d3f6fb35c49cbc2362b2b8f1378d83b30f463b181'
+      name: '&2&lVehicle costumes'
+      script: 'binding collection minecraft-heads-com.vehicle petblocks.selection.vehiclecostumes.all'
       unbreakable: false
-      skin: 'textures.minecraft.net/texture/fec052be76e39148a27f255ec537dff92018c79744202d60c51bc67d618ae36a'
       lore:
-        - 'none'
-    head-database-costume:
+        - "&7Use exclusive vehicle heads as costume."
+        - "&eSponsored by Minecraft-Heads.com"
+    minecraft-heads-puppet-costume:
       enabled: true
       position: 24
+      page: 'WARDROBE'
+      id: 397
+      damage: 3
+      skin: 'textures.minecraft.net/texture/3835da2685f7ad3f1919a018976ad56826691e26758a3a55a1918f7f17ad938'
+      name: '&b&lPlushie costumes'
+      script: 'binding collection minecraft-heads-com.puppet petblocks.selection.puppetcostumes.all'
+      unbreakable: false
+      lore:
+        - "&7Use exclusive plushie heads as costume."
+        - "&eSponsored by Minecraft-Heads.com"
+    head-database-costume:
+      enabled: true
+      position: 25
       page: 'WARDROBE'
       id: 397
       damage: 3

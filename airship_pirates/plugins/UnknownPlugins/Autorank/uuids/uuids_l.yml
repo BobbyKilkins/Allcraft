@@ -1,8 +1,0 @@
-# This file stores all uuids of players that Autorank has looked up before.
-# Each file stores accounts with the starting letter of the player's name.
-LordLati:
-  uuid: e595f695-c577-4fd5-a94b-df548908a363
-  updateTime: 1434762871417
-lordmightybob:
-  uuid: 1b10fccb-1f76-4769-9901-da70609060dc
-  updateTime: 1434807097024

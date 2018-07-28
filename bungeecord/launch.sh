@@ -1,2 +1,2 @@
 #!/bin/bash
-java -Xmx1G -Xms1G -jar BungeeCord.jar
+java -Xmx3G -Xms3G -jar BungeeCord.jar

@@ -3,4 +3,7 @@
 #####################################
 
 allowed-servers:
-  - mods
+  - '.*'
+  - 'ServerNameHere'
+  - '(.*nomatch.*)'
+  - 'CaseInsensaTiVe'
