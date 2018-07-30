@@ -1,0 +1,204 @@
+[19:59:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:59:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:59:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:59:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[19:59:41] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_171, running on Linux:amd64:4.15.0-29-generic, installed at /usr/lib/jvm/java-8-oracle/jre
+[19:59:41] [main/INFO] [FML]: Searching /home/allcraft/Desktop/allcraft/sponge_magic/./mods for mods
+[19:59:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar
+[19:59:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:59:42] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:59:42] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.4 Source=file:/home/allcraft/Desktop/allcraft/sponge_magic/./mods/spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar Service=LaunchWrapper Env=SERVER
+[19:59:42] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[19:59:42] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[DEFAULT]
+[19:59:42] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[PREINIT]
+[19:59:42] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[INIT]
+[19:59:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:59:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:59:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:59:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:59:43] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:59:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:59:43] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:59:43] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@a0a9fa5
+[19:59:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:59:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:59:43] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:59:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:59:43] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:59:47] [main/WARN] [mixin]: Static binding violation: PRIVATE overwrite method initializeConnectionToPlayer in mixins.common.core.json:server.MixinPlayerList cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[19:59:47] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:59:52] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
+[19:59:52] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:59:52] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[19:59:52] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/home/allcraft/Desktop/allcraft/sponge_magic/./mods/spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar!/mcmod.info
+[19:59:52] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
+[20:00:02] [Server thread/INFO] [FML]: Searching /home/allcraft/Desktop/allcraft/sponge_magic/./mods for mods
+[20:00:02] [Server thread/INFO] [FML]: Searching %s for plugins
+[20:00:02] [Server thread/INFO] [FML]: Forge Mod Loader has identified 9 mods to load
+[20:00:02] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[20:00:02] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+[20:00:02] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[20:00:02] [Server thread/WARN] [FML]: Missing English translation for voxelsniper: assets/voxelsniper/lang/en_us.lang
+[20:00:02] [Server thread/WARN] [FML]: Missing English translation for luckperms: assets/luckperms/lang/en_us.lang
+[20:00:02] [Server thread/WARN] [Sponge]: The mod luckperms was designed for spongeapi 8.0.0-SNAPSHOT but version 7.1.0-SNAPSHOT-d453c3e is in use. It may not work properly.
+[20:00:02] [Server thread/WARN] [Sponge]: The mod luckperms was designed for spongeapi 8.0.0-SNAPSHOT but version 7.1.0-SNAPSHOT-d453c3e is in use. It may not work properly.
+[20:00:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, worldedit, voxelsniper, luckperms] at CLIENT
+[20:00:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, worldedit, voxelsniper, luckperms] at SERVER
+[20:00:03] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:00:03] [Server thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[20:00:03] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:00:03] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:00:03] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:00:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:00:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §b               __       §r§3 __   ___  __         __  §r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §b    |    |  | /  ` |__/ §r§3|__) |__  |__)  |\/| /__` §r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §b    |___ \__/ \__, |  \ §r§3|    |___ |  \  |  | .__/ §r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:  §r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §2  Loading version §r§bv4.2.17§r§2 on Sponge - SpongeForge§r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §8  Running on server version SpongeAPI: 7.1.0-SNAPSHOT-d453c3e - SpongeForge: 1.12.2-2705-7.1.0-BETA-3206§r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:  §r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Loading configuration...§r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Loading storage provider... [H2]§r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Loading internal permission managers...§r
+[20:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Registering PermissionService...§r
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Performing initial data load...§r
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Successfully enabled. (took 927ms)§r
+[20:00:07] [Server thread/INFO] [FML]: Applying holder lookups
+[20:00:07] [Server thread/INFO] [FML]: Holder lookups applied
+[20:00:07] [Server thread/INFO] [FML]: Applying holder lookups
+[20:00:07] [Server thread/INFO] [FML]: Holder lookups applied
+[20:00:07] [Server thread/INFO] [FML]: Applying holder lookups
+[20:00:07] [Server thread/INFO] [FML]: Holder lookups applied
+[20:00:07] [Server thread/INFO] [FML]: Applying holder lookups
+[20:00:07] [Server thread/INFO] [FML]: Holder lookups applied
+[20:00:07] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:00:07] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25570
+[20:00:07] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[20:00:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:00:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[20:00:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:00:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:00:07] [Server thread/INFO] [FML]: Applying holder lookups
+[20:00:07] [Server thread/INFO] [FML]: Holder lookups applied
+[20:00:07] [Server thread/ERROR] [Sponge]: Could not pass FMLInitializationEvent to Plugin{id=voxelsniper, name=VoxelSniper, version=8.5.0-SNAPSHOT, description=Long range terrain editing, source=/home/allcraft/Desktop/allcraft/sponge_magic/./mods/plugins/VoxelSniper-8.5.0-SNAPSHOT.jar}
+java.lang.NoClassDefFoundError: org/spongepowered/api/event/cause/NamedCause
+	at com.thevoxelbox.voxelsniper.VoxelSniper.onInit(VoxelSniper.java:142) ~[VoxelSniper.class:?]
+	at org.spongepowered.common.event.listener.GameInitializationEventListener_VoxelSniper_onInit9.handle(Unknown Source) ~[?:?]
+	at org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95) ~[RegisteredListener.class:1.12.2-2705-7.1.0-BETA-3206]
+	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:383) [SpongeModEventManager.class:1.12.2-2705-7.1.0-BETA-3206]
+	at org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:420) [SpongeModEventManager.class:1.12.2-2705-7.1.0-BETA-3206]
+	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:404) [SpongeModEventManager.class:1.12.2-2705-7.1.0-BETA-3206]
+	at org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:223) [SpongeImpl.class:1.12.2-2705-7.1.0-BETA-3206]
+	at org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:246) [SpongeMod.class:1.12.2-2705-7.1.0-BETA-3206]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_171]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_171]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_171]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_171]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_171]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_171]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_171]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_171]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.redirect$onPost$zza000(LoadController.java:560) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:744) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:107) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:337) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
+Caused by: java.lang.ClassNotFoundException: org.spongepowered.api.event.cause.NamedCause
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_171]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_171]
+	... 40 more
+Caused by: java.lang.NullPointerException
+[20:00:07] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:00:07] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:00:07] [Server thread/INFO] [worldedit]: WorldEdit for Sponge (version 6.1.9-SNAPSHOT) is loaded
+[20:00:07] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 9 mods
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[20:00:07] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
+[20:00:07] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
+[20:00:08] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[20:00:08] [Server thread/INFO] [FML]: Applying holder lookups
+[20:00:08] [Server thread/INFO] [FML]: Holder lookups applied
+[20:00:09] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[20:00:09] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancement trees
+[20:00:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (world)
+[20:00:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 69%
+[20:00:10] [Server thread/INFO] [Sponge]: Loading world [world] (overworld)
+[20:00:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[20:00:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancement trees
+[20:00:10] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (the_nether)
+[20:00:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[20:00:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancement trees
+[20:00:10] [Server thread/INFO] [Sponge]: Loading world [DIM1] (the_end)
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.856s)! For help, type "help" or "?"
+[20:00:10] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2 §r§2Showing Help (/page <page>):§r§2 §r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a/.s§r §rExecute last CraftScript§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//§r §rToggle the super pickaxe function§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//calc§r §rEvaluate a mathematical expression§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//center§r §rSet the center block(s)§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//chunk§r §rSet the selection to your current chunk.§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//clearhistory§r §rClear your history§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//contract§r §rContract the selection area§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//copy§r §rCopy the selection to the clipboard§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//count§r §rCounts the number of a certain type of block§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//curve§r §rDraws a spline through selected points§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//cut§r §rCut the selection to the clipboard§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//cyl§r §rGenerates a cylinder.§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//deform§r §rDeforms a selected region with an expression§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//distr§r §rGet the distribution of blocks in the selection§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//drain§r §rDrain a pool§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §a//ex§r §rExtinguish nearby fire§r
+[20:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2 §r§2«§r§2 §r§21§r§2/§r§211§r§2 §r§9§n»§r§2 §r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r§2=§r
+[20:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cFor parameter 'player': Caller is not a player§r
+[20:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUsage: //ex [radius]§r
+[20:06:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cFor parameter 'player': Caller is not a player§r
+[20:06:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUsage: //ex [radius]§r
+[20:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cFor parameter 'player': Caller is not a player§r
+[20:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUsage: //ex [radius]§r
+[20:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cFor parameter 'player': Caller is not a player§r
+[20:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUsage: //ex [radius]§r
+[20:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cFor parameter 'player': Caller is not a player§r
+[20:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUsage: //ex [radius]§r
+[20:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cFor parameter 'player': Caller is not a player§r
+[20:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUsage: //ex [radius]§r
+[20:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server§r
+[20:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Closing storage...§r
+[20:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Shutting down internal scheduler...§r
+[20:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7§l[§r§bL§r§3P§r§7§l] §r§3Goodbye!§r
+[20:07:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:07:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:07:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:07:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:07:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/the_nether
+[20:07:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/the_end
+[20:07:10] [Server thread/INFO] [Sponge]: Unloading world [world] (DIM0)
+[20:07:10] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (DIM-1)
+[20:07:10] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (DIM1)
+[20:07:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
