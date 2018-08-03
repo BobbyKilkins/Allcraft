@@ -22,7 +22,7 @@ Lead Dev's Email: jfang.cv.ca.us@gmail.com
 
 * Alexander Anokhin - Owner
 * Jim Fang - Developer
-* Peter Schlychkov - Admin
+* Peter Shlychkov - Admin
 * Jean-Milan Albarede - Admin
 * Austin Chu - Admin
 * Karl Haidinyak - Admin
