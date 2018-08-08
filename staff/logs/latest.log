@@ -1,203 +1,189 @@
-[18:52:35] [Server thread/INFO]: Loading properties
-[18:52:36] [Server thread/INFO]: Default game type: SURVIVAL
-[18:52:36] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-eb3d921-2b93d83 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[18:52:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:52:36] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:52:36] [Server thread/INFO]: Debug logging is disabled
-[18:52:36] [Server thread/INFO]: Generating keypair
-[18:52:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:52:36] [Server thread/INFO]: Using epoll channel type
-[18:52:36] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:52:36] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.14.2
-[18:52:36] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.2.17
-[18:52:36] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully downloaded 'caffeine-2.6.2.jar' with checksum: 53pEV3NfB1FY29Ahx2YXl91IVpX8Ttkt/d401HFNl1A=[m
-[18:52:36] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully downloaded 'okio-1.14.0.jar' with checksum: RjPDMfUGQuvnldwInWpZKK/0MHHJ0X54QKAJ7qL+laM=[m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully downloaded 'okhttp-3.10.0.jar' with checksum: Sso+VSr7HOtH+JVmhfYpWiduSfoD+QZvi2voO+xW+2Y=[m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully downloaded 'asm-6.1.1.jar' with checksum: 3TtUZBXdS63i6+O0fHgoqwYj7iM2YEBo4tgQI/n42DM=[m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully downloaded 'asm_commons-6.1.1.jar' with checksum: hvVtP58zCQu9/PZjAniac17Kdfol6uidP7E/TrE7VtE=[m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully downloaded 'jar_relocator-1.3.jar' with checksum: mmz3ltQbS8xXGA2scM0ZH6raISlt4nukjCiU2l9Jxfs=[m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mAttempting to apply relocations to caffeine-2.6.2.jar...[m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mAttempting to apply relocations to okio-1.14.0.jar...[m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mAttempting to apply relocations to okhttp-3.10.0.jar...[m
-[18:52:37] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.22-SNAPSHOT (build 1487)
-[18:52:37] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
-[18:52:37] [Server thread/INFO]: [iFill] Loading iFill v0.6.0
-[18:52:37] [Server thread/INFO]: [OpenInv] Loading OpenInv v3.3.3
-[18:52:37] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[18:52:37] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.172.0-SNAPSHOT
-[18:52:37] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
-[18:52:37] [Server thread/INFO]: [PetBlocks] Loading PetBlocks v7.1.0
-[18:52:37] [Server thread/INFO]: [Movecraft] Loading Movecraft v6.0.0
-[18:52:37] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.4.1
-[18:52:37] [Server thread/INFO]: [ViaVersion] ViaVersion 1.4.1 is now loaded, injecting!
-[18:52:37] [Server thread/INFO]: Loading block mapping...
-[18:52:37] [Server thread/INFO]: Loading item mapping...
-[18:52:37] [Server thread/INFO]: Loading new tags...
-[18:52:37] [Server thread/INFO]: Loading enchantments...
-[18:52:37] [Server thread/INFO]: Loading sound mapping...
-[18:52:37] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
-[18:52:37] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.8
-[18:52:37] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v2.3.1
-[18:52:37] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
-[18:52:37] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
-[18:52:37] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v9.5.2-SNAPSHOT
-[18:52:37] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
-[18:52:37] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
-[18:52:37] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.2.17
-[18:52:37] [Server thread/INFO]: [0;36;1m               __       [0;36;22m __   ___  __         __  [m
-[18:52:37] [Server thread/INFO]: [0;36;1m    |    |  | /  ` |__/ [0;36;22m|__) |__  |__)  |\/| /__` [m
-[18:52:37] [Server thread/INFO]: [0;36;1m    |___ \__/ \__, |  \ [0;36;22m|    |___ |  \  |  | .__/ [m
-[18:52:37] [Server thread/INFO]:  [m
-[18:52:37] [Server thread/INFO]: [0;32;22m  Loading version [0;36;1mv4.2.17[0;32;22m on Bukkit - CraftBukkit[m
-[18:52:37] [Server thread/INFO]: [0;30;1m  Running on server version git-Spigot-eb3d921-2b93d83 (MC: 1.12.2) - 1.12.2-R0.1-SNAPSHOT[m
-[18:52:37] [Server thread/INFO]:  [m
-[18:52:37] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading configuration...[m
-[18:52:38] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully downloaded 'h2_driver-1.4.197.jar' with checksum: N/UhbhSvJ3KTDf+bhzQ1PwqA6Juj8z4GVEHeZTfF6EI=[m
-[18:52:38] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading storage provider... [H2][m
-[18:52:38] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading internal permission managers...[m
-[18:52:38] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mPerforming initial data load...[m
-[18:52:38] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully enabled. (took 535ms)[m
-[18:52:38] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v2.3.1
-[18:52:38] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
-[18:52:38] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[18:52:38] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:52:38] [Server thread/INFO]: Preparing level "world"
-[18:52:38] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:52:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[18:52:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:52:38] [Server thread/INFO]: Mob Spawn Range: 4
-[18:52:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:52:38] [Server thread/INFO]: Random Lighting Updates: false
-[18:52:38] [Server thread/INFO]: Structure Info Saving: true
-[18:52:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[18:52:38] [Server thread/INFO]: Max TNT Explosions: 100
-[18:52:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:52:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:52:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:52:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:52:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:52:38] [Server thread/INFO]: View Distance: 10
-[18:52:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:52:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:52:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:52:38] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[18:52:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[18:52:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:52:38] [Server thread/INFO]: Mob Spawn Range: 4
-[18:52:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:52:38] [Server thread/INFO]: Random Lighting Updates: false
-[18:52:38] [Server thread/INFO]: Structure Info Saving: true
-[18:52:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[18:52:38] [Server thread/INFO]: Max TNT Explosions: 100
-[18:52:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:52:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:52:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:52:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:52:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:52:38] [Server thread/INFO]: View Distance: 10
-[18:52:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:52:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:52:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:52:38] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[18:52:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:52:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[18:52:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:52:38] [Server thread/INFO]: Mob Spawn Range: 4
-[18:52:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:52:38] [Server thread/INFO]: Random Lighting Updates: false
-[18:52:38] [Server thread/INFO]: Structure Info Saving: true
-[18:52:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[18:52:38] [Server thread/INFO]: Max TNT Explosions: 100
-[18:52:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:52:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:52:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:52:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:52:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:52:38] [Server thread/INFO]: View Distance: 10
-[18:52:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:52:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:52:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:52:38] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5084483517647498500)
-[18:52:39] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5084483517647498500)
-[18:52:39] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5084483517647498500)
-[18:52:40] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.14.2
-[18:52:40] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[18:52:40] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[18:52:40] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.22-SNAPSHOT (build 1487)
-[18:52:40] [Server thread/INFO]: Creating file: config.yml
-[18:52:40] [Server thread/INFO]: Creating file: saves.yml
-[18:52:40] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
-[18:52:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
-[18:52:40] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
-[18:52:40] [Server thread/INFO]: WEPIF: Updated config file
-[18:52:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[18:52:40] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
-[18:52:40] [Server thread/INFO]: [iFill] Enabling iFill v0.6.0
-[18:52:40] [Server thread/INFO]: [iFill] Done!
-[18:52:40] [Server thread/INFO]: [OpenInv] Enabling OpenInv v3.3.3
-[18:52:40] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[18:52:40] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[18:52:40] [Server thread/INFO]: git-Spigot-eb3d921-2b93d83 (MC: 1.12.2)
-[18:52:40] [Server thread/INFO]: 1.12.2-R0.1-SNAPSHOT
-[18:52:40] [Server thread/INFO]: Creating config from template: /home/allcraft/Desktop/allcraft/CLEANUP/staff_CLEANUP/plugins/Essentials/config.yml
-[18:52:40] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[18:52:40] [pool-11-thread-1/INFO]: Creating empty config: /home/allcraft/Desktop/allcraft/CLEANUP/staff_CLEANUP/plugins/Essentials/upgrades-done.yml
-[18:52:40] [Server thread/INFO]: Using locale en_US
-[18:52:40] [Server thread/INFO]: Creating config from template: /home/allcraft/Desktop/allcraft/CLEANUP/staff_CLEANUP/plugins/Essentials/worth.yml
-[18:52:40] [Server thread/INFO]: Using locale en_US
-[18:52:40] [Server thread/INFO]: [Essentials] This plugin collects minimal statistic data and sends it to http://metrics.essentials3.net.
-[18:52:40] [Server thread/INFO]: [Essentials] You can opt out, disabling metrics for all plugins, by running /essentials opt-out
-[18:52:40] [Server thread/INFO]: [Essentials] This will start 5 minutes after the first admin/op joins.
-[18:52:40] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[18:52:40] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[18:52:40] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.172.0-SNAPSHOT
-[18:52:40] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
-[18:52:40] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
-[18:52:40] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
-[18:52:40] [Server thread/INFO]: [PetBlocks] Enabling PetBlocks v7.1.0
-[18:52:40] [Server thread/INFO]: [0;36;1m[PetBlocks] [0;32;1mLoading PetBlocks ...[m
-[18:52:40] [Server thread/INFO]: HikariPool-1 - Starting...
-[18:52:40] [Server thread/INFO]: HikariPool-1 - Start completed.
-[18:52:41] [Server thread/INFO]: [0;36;1m[PetBlocks] [0;32;1mEnabled PetBlocks 7.1.0 by Shynixn[m
-[18:52:41] [Server thread/INFO]: [Movecraft] Enabling Movecraft v6.0.0
-[18:52:41] [Server thread/INFO]: [Movecraft] Recognized PilotTool setting of: 280
-[18:52:41] [Server thread/INFO]: [Movecraft] WARNING: CompatibilityMode was set to false, but required build-specific classes were not found. FORCING COMPATIBILITY MODE
-[18:52:41] [Server thread/INFO]: [Movecraft] CompatiblityMode is set to true
-[18:52:41] [Server thread/INFO]: [Movecraft] Movecraft did not find a compatible version of WorldGuard. Disabling WorldGuard integration
-[18:52:41] [Server thread/INFO]: [Movecraft] Found a compatible version of WorldEdit. Enabling WorldEdit integration
-[18:52:41] [Server thread/INFO]: [Movecraft] Movecraft did not find a compatible version of Towny. Disabling Towny integration.
-[18:52:41] [Server thread/INFO]: [Movecraft] Found a compatible version of Essentials. Enabling Essentials integration.
-[18:52:41] [Server thread/INFO]: [Movecraft] Could not find compatible Vault plugin. Disabling Vault integration.
-[18:52:41] [Server thread/ERROR]: Error occurred while enabling Movecraft v6.0.0 (Is it up to date?)
+[10:16:16] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[10:16:16] [Server thread/INFO]: Loading properties
+[10:16:16] [Server thread/INFO]: Default game type: SURVIVAL
+[10:16:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-eb3d921-2b93d83 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[10:16:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:16:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:16:16] [Server thread/INFO]: Debug logging is disabled
+[10:16:16] [Server thread/INFO]: Generating keypair
+[10:16:16] [Server thread/INFO]: Starting Minecraft server on *:25571
+[10:16:16] [Server thread/INFO]: Using epoll channel type
+[10:16:17] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[10:16:17] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.14.2
+[10:16:17] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.2.17
+[10:16:17] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.22-SNAPSHOT (build 1487)
+[10:16:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[10:16:17] [Server thread/INFO]: [iFill] Loading iFill v0.6.0
+[10:16:17] [Server thread/INFO]: [OpenInv] Loading OpenInv v3.3.3
+[10:16:17] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[10:16:17] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.172.0-SNAPSHOT
+[10:16:17] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[10:16:17] [Server thread/INFO]: [PetBlocks] Loading PetBlocks v7.1.0
+[10:16:17] [Server thread/INFO]: [Movecraft] Loading Movecraft v6.0.0
+[10:16:17] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.4.1
+[10:16:17] [Server thread/INFO]: [ViaVersion] ViaVersion 1.4.1 is now loaded, injecting!
+[10:16:17] [Server thread/INFO]: Loading block mapping...
+[10:16:17] [Server thread/INFO]: Loading item mapping...
+[10:16:17] [Server thread/INFO]: Loading new tags...
+[10:16:17] [Server thread/INFO]: Loading enchantments...
+[10:16:17] [Server thread/INFO]: Loading sound mapping...
+[10:16:17] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[10:16:17] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.8
+[10:16:17] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v2.3.1
+[10:16:17] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[10:16:17] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[10:16:17] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v9.5.2-SNAPSHOT
+[10:16:17] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
+[10:16:17] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[10:16:17] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.2.17
+[10:16:17] [Server thread/INFO]: [0;36;1m               __       [0;36;22m __   ___  __         __  [m
+[10:16:17] [Server thread/INFO]: [0;36;1m    |    |  | /  ` |__/ [0;36;22m|__) |__  |__)  |\/| /__` [m
+[10:16:17] [Server thread/INFO]: [0;36;1m    |___ \__/ \__, |  \ [0;36;22m|    |___ |  \  |  | .__/ [m
+[10:16:17] [Server thread/INFO]:  [m
+[10:16:17] [Server thread/INFO]: [0;32;22m  Loading version [0;36;1mv4.2.17[0;32;22m on Bukkit - CraftBukkit[m
+[10:16:17] [Server thread/INFO]: [0;30;1m  Running on server version git-Spigot-eb3d921-2b93d83 (MC: 1.12.2) - 1.12.2-R0.1-SNAPSHOT[m
+[10:16:17] [Server thread/INFO]:  [m
+[10:16:17] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading configuration...[m
+[10:16:17] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading storage provider... [YAML][m
+[10:16:17] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading internal permission managers...[m
+[10:16:17] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mPerforming initial data load...[m
+[10:16:18] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully enabled. (took 244ms)[m
+[10:16:18] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v2.3.1
+[10:16:18] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
+[10:16:18] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[10:16:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:16:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:16:18] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[10:16:18] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[10:16:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:16:18] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[10:16:18] [Server thread/INFO]: Preparing level "world"
+[10:16:18] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:16:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Mob Spawn Range: 4
+[10:16:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[10:16:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:16:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:16:18] [Server thread/INFO]: Random Lighting Updates: false
+[10:16:18] [Server thread/INFO]: Structure Info Saving: true
+[10:16:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:16:18] [Server thread/INFO]: Max TNT Explosions: 100
+[10:16:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:16:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:16:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:16:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:16:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:16:18] [Server thread/INFO]: View Distance: 10
+[10:16:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:16:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:16:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:16:18] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:16:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Mob Spawn Range: 4
+[10:16:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[10:16:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:16:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:16:18] [Server thread/INFO]: Random Lighting Updates: false
+[10:16:18] [Server thread/INFO]: Structure Info Saving: true
+[10:16:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:16:18] [Server thread/INFO]: Max TNT Explosions: 100
+[10:16:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:16:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:16:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:16:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:16:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:16:18] [Server thread/INFO]: View Distance: 10
+[10:16:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:16:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:16:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:16:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:16:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:16:18] [Server thread/INFO]: Mob Spawn Range: 4
+[10:16:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[10:16:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:16:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:16:18] [Server thread/INFO]: Random Lighting Updates: false
+[10:16:18] [Server thread/INFO]: Structure Info Saving: true
+[10:16:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:16:18] [Server thread/INFO]: Max TNT Explosions: 100
+[10:16:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:16:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:16:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:16:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:16:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:16:18] [Server thread/INFO]: View Distance: 10
+[10:16:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:16:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:16:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:16:18] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5084483517647498500)
+[10:16:19] [Server thread/INFO]: Preparing spawn area: 73%
+[10:16:19] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5084483517647498500)
+[10:16:20] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5084483517647498500)
+[10:16:20] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.14.2
+[10:16:20] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[10:16:20] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[10:16:20] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.22-SNAPSHOT (build 1487)
+[10:16:20] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
+[10:16:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[10:16:20] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[10:16:20] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[10:16:20] [Server thread/INFO]: [iFill] Enabling iFill v0.6.0
+[10:16:20] [Server thread/INFO]: [iFill] Done!
+[10:16:20] [Server thread/INFO]: [OpenInv] Enabling OpenInv v3.3.3
+[10:16:20] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[10:16:20] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[10:16:20] [Server thread/INFO]: git-Spigot-eb3d921-2b93d83 (MC: 1.12.2)
+[10:16:20] [Server thread/INFO]: 1.12.2-R0.1-SNAPSHOT
+[10:16:20] [Server thread/INFO]: Using locale en_US
+[10:16:21] [Server thread/INFO]: Using locale en_US
+[10:16:21] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[10:16:21] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[10:16:21] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.172.0-SNAPSHOT
+[10:16:21] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[10:16:21] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[10:16:21] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[10:16:21] [Server thread/INFO]: [PetBlocks] Enabling PetBlocks v7.1.0
+[10:16:21] [Server thread/INFO]: [0;36;1m[PetBlocks] [0;32;1mLoading PetBlocks ...[m
+[10:16:21] [Server thread/INFO]: HikariPool-1 - Starting...
+[10:16:21] [Server thread/INFO]: HikariPool-1 - Start completed.
+[10:16:21] [Server thread/INFO]: [0;36;1m[PetBlocks] [0;32;1mEnabled PetBlocks 7.1.0 by Shynixn[m
+[10:16:21] [Server thread/INFO]: [Movecraft] Enabling Movecraft v6.0.0
+[10:16:21] [Server thread/INFO]: [Movecraft] Recognized PilotTool setting of: 280
+[10:16:21] [Server thread/INFO]: [Movecraft] WARNING: CompatibilityMode was set to false, but required build-specific classes were not found. FORCING COMPATIBILITY MODE
+[10:16:21] [Server thread/INFO]: [Movecraft] CompatiblityMode is set to true
+[10:16:21] [Server thread/INFO]: [Movecraft] Movecraft did not find a compatible version of WorldGuard. Disabling WorldGuard integration
+[10:16:21] [Server thread/INFO]: [Movecraft] Found a compatible version of WorldEdit. Enabling WorldEdit integration
+[10:16:21] [Server thread/INFO]: [Movecraft] Movecraft did not find a compatible version of Towny. Disabling Towny integration.
+[10:16:21] [Server thread/INFO]: [Movecraft] Found a compatible version of Essentials. Enabling Essentials integration.
+[10:16:21] [Server thread/INFO]: [Movecraft] Could not find compatible Vault plugin. Disabling Vault integration.
+[10:16:21] [Server thread/ERROR]: Error occurred while enabling Movecraft v6.0.0 (Is it up to date?)
 java.lang.NoClassDefFoundError: com/sk89q/worldguard/protection/flags/Flag
 	at net.countercraft.movecraft.Movecraft.onEnable(Movecraft.java:388) ~[?:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.12.2.jar:git-Spigot-eb3d921-2b93d83]
@@ -218,100 +204,36 @@ Caused by: java.lang.ClassNotFoundException: com.sk89q.worldguard.protection.fla
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_171]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_171]
 	... 12 more
-[18:52:41] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.4.1
-[18:52:41] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
-[18:52:41] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.8
-[18:52:41] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[18:52:41] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
-[18:52:41] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[18:52:41] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[18:52:41] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v9.5.2-SNAPSHOT
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_12_R1
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Translations for DISGUISES missing! Skipping...
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Translations for MESSAGES missing! Skipping...
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Translations for DISGUISE_OPTIONS missing! Skipping...
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Translations for DISGUISE_OPTIONS_PARAMETERS missing! Skipping...
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
-[18:52:41] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
-[18:52:41] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
-[18:52:41] [Server thread/INFO]: [BungeePortals] Metrics initiated!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Commands registered!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Events registered!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Configuration file config.yml created!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml created!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Portal data loaded! (0ms)
-[18:52:41] [Server thread/INFO]: [BungeePortals] Save task started!
-[18:52:41] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (4ms)
-[18:52:41] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
-[18:52:41] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
-[18:52:41] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
-[18:52:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:52:41] [Server thread/INFO]: Done (3.293s)! For help, type "help" or "?"
-[18:52:41] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
-[18:52:41] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
-[18:52:46] [Server thread/INFO]: Plugins (19): [0;32;1mCoreProtect[0;37;1m, [0;32;1mLuckPerms[0;37;1m, [0;32;1mCitizens[0;37;1m, [0;32;1mWorldEdit[0;37;1m, [0;32;1miFill[0;37;1m, [0;32;1mOpenInv[0;37;1m, [0;32;1mEssentials[0;37;1m, [0;32;1mVoxelSniper[0;37;1m, [0;32;1mEssentialsChat[0;37;1m, [0;32;1mPetBlocks[0;37;1m, [0;32;1mMovecraft[0;37;1m, [0;32;1mViaVersion[0;37;1m, [0;32;1mEssentialsSpawn[0;37;1m, [0;32;1mGriefPrevention[0;37;1m, [0;32;1mViaBackwards[0;37;1m, [0;32;1mProtocolLib[0;37;1m, [0;32;1mLibsDisguises[0;37;1m, [0;32;1mBungeePortals[0;37;1m, [0;32;1mHolographicDisplays[m
-[18:53:13] [Server thread/INFO]: CONSOLE issued server command: /help Movecraft
-[18:53:13] [Server thread/INFO]: To view help from the console, type ?.[m
-[18:53:18] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Movecraft [0;33;1m-----------------------[m
-[18:53:18] [Server thread/INFO]: [0;37;22mBelow is a list of all Movecraft commands:[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/assault: [0;37;1mBegins an Assault on the specified region[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/assaultinfo: [0;37;1mGives you information about the region(s) you are in, and if they are available for Assault[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/contacts: [0;37;1mreports on all crafts within detection range[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/craftreport: [0;37;1mreports on all active craft in the world you are in[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/cruise: [0;37;1mStarts your craft cruising[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/cruiseoff: [0;37;1mStops your craft from cruising[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/manoverboard: [0;37;1mIf enabled, returns you to a craft you have fallen out of[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/pilot: [0;37;1mPilots the craft at your feet[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/release: [0;37;1mReleases your craft[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/rotateleft: [0;37;1mRotates your craft left[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/rotateright: [0;37;1mRotates your craft right[m
-[18:53:18] [Server thread/INFO]: [0;33;22m/siege: [0;37;1mIf the region you are standing in is configured for Siege, lays siege to it[m
-[18:53:22] [Server thread/INFO]: /assault <regionname>[m
-[18:53:31] [Server thread/INFO]: /siege[m
-[18:53:34] [Server thread/INFO]: /siege[m
-[18:53:36] [Server thread/INFO]: /assault <regionname>[m
-[18:53:39] [Server thread/INFO]: /cruise [north|south|east|west][m
-[18:53:42] [Server thread/INFO]: /cruise [north|south|east|west][m
-[18:53:51] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: /cruise [0;33;1m-------------------------[m
-[18:53:51] [Server thread/INFO]: [0;33;22mDescription: [0;37;1mStarts your craft cruising[m
-[18:53:51] [Server thread/INFO]: [0;33;22mUsage: [0;37;1m/cruise [north|south|east|west][m
-[18:53:53] [Server thread/INFO]: Stopping the server
-[18:53:53] [Server thread/INFO]: Stopping server
-[18:53:53] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
-[18:53:53] [Server thread/INFO]: [BungeePortals] Disabling BungeePortals v1.2
-[18:53:53] [Server thread/INFO]: [BungeePortals] Portal data saved! (0ms)
-[18:53:53] [Server thread/INFO]: [BungeePortals] Version 1.2 has been disabled. (1ms)
-[18:53:53] [Server thread/INFO]: [LibsDisguises] Disabling LibsDisguises v9.5.2-SNAPSHOT
-[18:53:53] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
-[18:53:53] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v2.3.1
-[18:53:53] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.8
-[18:53:53] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
-[18:53:53] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
-[18:53:53] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.4.1
-[18:53:53] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[18:53:53] [Server thread/INFO]: [Movecraft] Disabling Movecraft v6.0.0
-[18:53:53] [Server thread/INFO]: [PetBlocks] Disabling PetBlocks v7.1.0
-[18:53:53] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
-[18:53:53] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.172.0-SNAPSHOT
-[18:53:53] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[18:53:53] [Server thread/INFO]: [OpenInv] Disabling OpenInv v3.3.3
-[18:53:53] [Server thread/INFO]: [iFill] Disabling iFill v0.6.0
-[18:53:53] [Server thread/INFO]: [iFill] Done!
-[18:53:53] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
-[18:53:53] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.22-SNAPSHOT (build 1487)
-[18:53:53] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.2.17
-[18:53:53] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mClosing storage...[m
-[18:53:53] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mShutting down internal scheduler...[m
-[18:53:53] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mGoodbye![m
-[18:53:53] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.14.2
-[18:53:54] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...[m
-[18:53:54] [Server thread/INFO]: [CoreProtect] Success! Resuming server shutdown.
-[18:53:54] [Server thread/INFO]: Saving players
-[18:53:54] [Server thread/INFO]: Saving worlds
-[18:53:54] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[18:53:54] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[18:53:54] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[10:16:21] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.4.1
+[10:16:21] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[10:16:21] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.8
+[10:16:21] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[10:16:21] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[10:16:22] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[10:16:22] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[10:16:22] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[10:16:22] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v9.5.2-SNAPSHOT
+[10:16:22] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_12_R1
+[10:16:22] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[10:16:22] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[10:16:22] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
+[10:16:22] [Server thread/INFO]: [BungeePortals] Metrics initiated!
+[10:16:22] [Server thread/INFO]: [BungeePortals] Commands registered!
+[10:16:22] [Server thread/INFO]: [BungeePortals] Events registered!
+[10:16:22] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
+[10:16:22] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
+[10:16:22] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
+[10:16:22] [Server thread/INFO]: [BungeePortals] Portal data loaded! (0ms)
+[10:16:22] [Server thread/INFO]: [BungeePortals] Save task started!
+[10:16:22] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (6ms)
+[10:16:22] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[10:16:22] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[10:16:22] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[10:16:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:16:22] [Server thread/INFO]: Done (4.594s)! For help, type "help" or "?"
+[10:16:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
+[10:16:22] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[10:16:23] [Craft Scheduler Thread - 5/INFO]: [0;36;1m[PetBlocks] [0;33;1m================================================[m
+[10:16:23] [Craft Scheduler Thread - 5/INFO]: [0;36;1m[PetBlocks] [0;33;1mPetBlocks is outdated[m
+[10:16:23] [Craft Scheduler Thread - 5/INFO]: [0;36;1m[PetBlocks] [0;33;1mPlease download the latest version from github[m
+[10:16:23] [Craft Scheduler Thread - 5/INFO]: [0;36;1m[PetBlocks] [0;33;1m================================================[m

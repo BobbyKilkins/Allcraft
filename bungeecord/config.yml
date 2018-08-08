@@ -2,6 +2,15 @@ ip_forward: true
 forge_support: true
 network_compression_threshold: 256
 stats: 187b9f20-6b41-49d8-8bdf-59b892adc1bb
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
 groups:
   CyberK1ng:
   - admin
@@ -33,7 +42,6 @@ servers:
     address: localhost:25571
     restricted: false
 timeout: 30000
-player_limit: 100
 listeners:
 - query_port: 25577
   motd: '&6Now with mods!'
@@ -51,15 +59,7 @@ listeners:
   tab_size: 60
   force_default_server: false
 prevent_proxy_connections: false
-permissions:
-  default:
-  - bungeecord.command.server
-  - bungeecord.command.list
-  admin:
-  - bungeecord.command.alert
-  - bungeecord.command.end
-  - bungeecord.command.ip
-  - bungeecord.command.reload
+player_limit: 100
 online_mode: true
 log_commands: false
 disabled_commands:

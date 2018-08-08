@@ -223,3 +223,1283 @@
 20:07:16 [INFO] Saving reconnect locations
 20:07:16 [INFO] Disabling plugins
 20:07:16 [INFO] Closing IO threads
+09:13:13 [INFO] Using mbed TLS based native cipher.
+09:13:13 [INFO] Using zlib based native compressor.
+09:13:13 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:6fadb42:1343
+09:13:13 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:13:13 [INFO] Epoll is working, utilising it!
+09:13:13 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:13:13 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:13:13 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:13:13 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:13:13 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:13:13 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:13:13 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:13 [INFO] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:13 [INFO] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:13 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:13 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:13:14 [INFO] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [INFO] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [WARNING] Forced host server pvp is not defined
+09:13:14 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+09:13:14 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [INFO] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [INFO] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:13:14 [INFO] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [INFO] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:14 [INFO] Listening on /0.0.0.0:25565
+09:17:04 [INFO] [/192.168.1.1:57319] <-> InitialHandler has connected
+09:17:06 [INFO] [/192.168.1.1:57323] <-> InitialHandler has connected
+09:17:07 [INFO] [SpongePls] Using the Forge Server Connector for WhiteT1gerNinja
+09:17:07 [INFO] [SpongePls]  for the target "lobby".
+09:17:07 [INFO] [WhiteT1gerNinja] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+09:17:07 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+09:17:55 [INFO] [/192.168.1.1:57339] <-> InitialHandler has connected
+09:17:58 [INFO] [/192.168.1.1:57341] <-> InitialHandler has connected
+09:17:59 [INFO] [SpongePls] Using the Forge Server Connector for WhiteT1gerNinja
+09:17:59 [INFO] [SpongePls]  for the target "lobby".
+09:17:59 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has connected
+09:17:59 [INFO] [WhiteT1gerNinja] disconnected with: §cKicked whilst connecting to lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+09:17:59 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has disconnected
+09:17:59 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+09:20:06 [INFO] [/192.168.1.1:57428] <-> InitialHandler has connected
+09:20:07 [INFO] [SpongePls] Using the Forge Server Connector for WhiteT1gerNinja
+09:20:07 [INFO] [SpongePls]  for the target "lobby".
+09:20:07 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has connected
+09:20:07 [INFO] [WhiteT1gerNinja] disconnected with: §cKicked whilst connecting to lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+09:20:07 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has disconnected
+09:20:07 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+09:20:24 [INFO] [/192.168.1.1:57431] <-> InitialHandler has connected
+09:20:25 [INFO] [SpongePls] Using the Forge Server Connector for WhiteT1gerNinja
+09:20:25 [INFO] [SpongePls]  for the target "lobby".
+09:20:25 [INFO] [WhiteT1gerNinja] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+09:20:25 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+09:20:43 [INFO] Closing listener [id: 0x805ccd3a, L:/0:0:0:0:0:0:0:0%0:25565]
+09:20:43 [INFO] Closing pending connections
+09:20:43 [INFO] Disconnecting 0 connections
+09:20:43 [INFO] Saving reconnect locations
+09:20:43 [INFO] Disabling plugins
+09:20:43 [INFO] Closing IO threads
+09:20:53 [INFO] Using mbed TLS based native cipher.
+09:20:53 [INFO] Using zlib based native compressor.
+09:20:53 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:6fadb42:1343
+09:20:53 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:20:53 [INFO] Epoll is working, utilising it!
+09:20:53 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:20:53 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:20:53 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:20:53 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:20:53 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:20:53 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:20:53 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:20:53 [INFO] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [WARNING] Forced host server pvp is not defined
+09:20:53 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+09:20:53 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:20:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:20:53 [INFO] Listening on /0.0.0.0:25565
+09:21:09 [INFO] [/192.168.1.1:57466] <-> InitialHandler has connected
+09:21:29 [INFO] [/192.168.1.1:57481] <-> InitialHandler has connected
+09:21:34 [INFO] [/192.168.1.1:57490] <-> InitialHandler has connected
+09:21:34 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has connected
+09:22:24 [INFO] [WhiteT1gerNinja] <-> ServerConnector [mods_magic] has connected
+09:22:24 [INFO] [WhiteT1gerNinja] <-> ServerConnector [mods_magic] has disconnected
+09:23:18 [INFO] §cCommand not found
+09:23:19 [INFO] Closing listener [id: 0x78a5ad71, L:/0:0:0:0:0:0:0:0%0:25565]
+09:23:19 [INFO] Closing pending connections
+09:23:19 [INFO] Disconnecting 1 connections
+09:23:19 [INFO] [WhiteT1gerNinja] disconnected with: §f[Proxy] Proxy restarting.
+09:23:20 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+09:23:20 [INFO] [WhiteT1gerNinja] <-> DownstreamBridge <-> [lobby] has disconnected
+09:23:20 [INFO] Saving reconnect locations
+09:23:20 [INFO] Disabling plugins
+09:23:20 [INFO] Closing IO threads
+09:23:24 [INFO] Using mbed TLS based native cipher.
+09:23:24 [INFO] Using zlib based native compressor.
+09:23:24 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:6fadb42:1343
+09:23:24 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:23:24 [INFO] Epoll is working, utilising it!
+09:23:25 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:23:25 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:23:25 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:23:25 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:23:25 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:23:25 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:23:25 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:23:25 [INFO] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [WARNING] Forced host server pvp is not defined
+09:23:25 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+09:23:25 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:23:25 [INFO] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:23:25 [INFO] Listening on /0.0.0.0:25565
+09:31:52 [INFO] [/192.168.1.1:57808] <-> InitialHandler has connected
+09:31:52 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has connected
+09:32:08 [INFO] [WhiteT1gerNinja] <-> ServerConnector [mods_magic] has connected
+09:32:08 [INFO] [WhiteT1gerNinja] <-> ServerConnector [mods_magic] has disconnected
+09:32:39 [INFO] Closing listener [id: 0x312220eb, L:/0:0:0:0:0:0:0:0%0:25565]
+09:32:39 [INFO] Closing pending connections
+09:32:39 [INFO] Disconnecting 1 connections
+09:32:39 [INFO] [WhiteT1gerNinja] disconnected with: §f[Proxy] Proxy restarting.
+09:32:39 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+09:32:39 [INFO] [WhiteT1gerNinja] <-> DownstreamBridge <-> [lobby] has disconnected
+09:32:40 [INFO] Saving reconnect locations
+09:32:40 [INFO] Disabling plugins
+09:32:40 [INFO] Closing IO threads
+09:32:51 [INFO] Using mbed TLS based native cipher.
+09:32:51 [INFO] Using zlib based native compressor.
+09:32:51 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:6fadb42:1343
+09:32:51 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:32:51 [INFO] Epoll is working, utilising it!
+09:32:52 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:32:52 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:32:52 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:32:52 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:32:52 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:32:52 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:32:52 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:32:52 [INFO] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [WARNING] Forced host server pvp is not defined
+09:32:52 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+09:32:52 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:32:52 [INFO] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:32:52 [INFO] Listening on /0.0.0.0:25565
+09:33:49 [INFO] [/192.168.1.1:57883] <-> InitialHandler has connected
+09:33:50 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has connected
+09:33:58 [INFO] [SpongePls] Using the Forge Server Connector for WhiteT1gerNinja
+09:33:58 [INFO] [SpongePls]  for the target "mods_magic".
+09:33:58 [INFO] [WhiteT1gerNinja] <-> ServerConnector [mods_magic] has connected
+09:33:59 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+09:33:59 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+09:33:59 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+09:33:59 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+09:33:59 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+09:33:59 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+09:33:59 [INFO] [WhiteT1gerNinja] <-> ServerConnector [mods_magic] has disconnected
+09:34:21 [INFO] [/99.89.34.31:55182] <-> InitialHandler has connected
+09:34:53 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+09:34:53 [INFO] [WhiteT1gerNinja] <-> DownstreamBridge <-> [lobby] has disconnected
+09:34:54 [INFO] [/192.168.1.1:57917] <-> InitialHandler has connected
+09:35:31 [INFO] [/192.168.1.1:57980] <-> InitialHandler has connected
+09:35:32 [INFO] [CyberKn1ght] <-> ServerConnector [lobby] has connected
+09:35:48 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+09:35:48 [INFO] [SpongePls]  for the target "mods_magic".
+09:35:48 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has connected
+09:35:48 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+09:35:48 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+09:35:48 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+09:35:48 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+09:35:48 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+09:35:48 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+09:35:48 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+09:35:48 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+09:35:48 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+09:35:48 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+09:35:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+09:35:48 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:35:48 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+09:35:48 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:35:48 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+09:35:48 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+09:35:48 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+09:35:48 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:35:48 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+09:35:48 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [lobby] has disconnected
+09:37:05 [INFO] [CyberKn1ght] disconnected with: §fServer closed
+09:37:05 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_magic] has disconnected
+09:37:05 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+14:11:39 [INFO] [/99.89.34.31:55456] <-> InitialHandler has connected
+14:16:32 [INFO] [/24.6.231.231:60202] <-> InitialHandler has connected
+14:16:34 [INFO] [SkyNoob28] <-> InitialHandler has connected
+14:16:35 [INFO] [SkyNoob28] <-> ServerConnector [lobby] has connected
+14:22:14 [WARNING] [SkyNoob28] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+14:22:14 [INFO] [SkyNoob28] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+14:22:14 [INFO] [SkyNoob28] -> UpstreamBridge has disconnected
+14:22:14 [INFO] [SkyNoob28] <-> DownstreamBridge <-> [lobby] has disconnected
+16:55:09 [INFO] [/99.89.34.31:55592] <-> InitialHandler has connected
+17:37:56 [INFO] [CyberKn1ght] <-> InitialHandler has connected
+17:53:01 [INFO] [/99.89.34.31:55744] <-> InitialHandler has connected
+17:55:10 [INFO] [CyberKn1ght] <-> InitialHandler has connected
+17:55:11 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+17:55:11 [INFO] [SpongePls]  for the target "mods_magic".
+17:55:11 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has connected
+17:55:12 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+17:55:12 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+17:55:12 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+17:55:12 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+17:55:12 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+17:55:12 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+17:55:12 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+17:55:12 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+17:55:12 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+17:55:12 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+17:55:12 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+17:55:12 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+17:55:12 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+17:55:12 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+17:55:12 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+17:55:12 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+17:55:12 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+17:55:12 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+17:55:12 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+17:55:44 [INFO] [/47.36.118.25:49512] <-> InitialHandler has connected
+17:55:45 [INFO] [Supreme_Enderman] <-> ServerConnector [lobby] has connected
+17:56:25 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+17:56:25 [INFO] [SpongePls]  for the target "mods_magic".
+17:56:25 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has connected
+17:56:25 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+17:56:25 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+17:56:25 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+17:56:25 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+17:56:25 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+17:56:25 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+17:56:25 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has disconnected
+17:56:50 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+17:56:51 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [lobby] has disconnected
+17:56:51 [INFO] [/47.36.118.25:49526] <-> InitialHandler has connected
+17:59:58 [INFO] [Supreme_Enderman] <-> InitialHandler has connected
+17:59:59 [INFO] [Supreme_Enderman] <-> ServerConnector [lobby] has connected
+18:00:28 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+18:00:28 [INFO] [SpongePls]  for the target "mods_magic".
+18:00:28 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has connected
+18:00:28 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+18:00:28 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+18:00:28 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+18:00:28 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+18:00:28 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+18:00:28 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+18:00:28 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+18:00:28 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+18:00:28 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+18:00:28 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:00:28 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+18:00:28 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+18:00:29 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:00:29 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+18:00:29 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+18:00:29 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:00:29 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:00:29 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+18:00:29 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:00:29 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+18:00:29 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [lobby] has disconnected
+18:04:58 [INFO] [CyberKn1ght] disconnected with: §fFlying is not enabled on this server
+18:04:58 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_magic] has disconnected
+18:04:58 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+18:05:05 [INFO] [/47.36.118.25:58976] <-> InitialHandler has connected
+18:05:06 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+18:05:06 [INFO] [SpongePls]  for the target "mods_magic".
+18:05:06 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has connected
+18:05:06 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+18:05:06 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+18:05:06 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+18:05:06 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+18:05:06 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+18:05:06 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+18:05:06 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+18:05:06 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+18:05:06 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+18:05:06 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:05:06 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+18:05:06 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:05:06 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+18:05:06 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:05:06 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+18:05:06 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+18:05:06 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:05:06 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:05:06 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+18:06:46 [INFO] [Supreme_Enderman] disconnected with: §fFlying is not enabled on this server
+18:06:46 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [mods_magic] has disconnected
+18:06:46 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+18:06:51 [INFO] [/47.36.118.25:49642] <-> InitialHandler has connected
+18:06:52 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+18:06:52 [INFO] [SpongePls]  for the target "mods_magic".
+18:06:52 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has connected
+18:06:52 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+18:06:52 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+18:06:52 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+18:06:52 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+18:06:52 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+18:06:52 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+18:06:52 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+18:06:52 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+18:06:52 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+18:06:52 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:06:52 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+18:06:52 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:06:52 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+18:06:52 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+18:06:52 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:06:52 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:06:52 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+18:06:52 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:06:52 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+18:10:47 [INFO] [Supreme_Enderman] disconnected with: §fFlying is not enabled on this server
+18:10:47 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [mods_magic] has disconnected
+18:10:47 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+18:10:53 [INFO] [/47.36.118.25:49654] <-> InitialHandler has connected
+18:10:53 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+18:10:53 [INFO] [SpongePls]  for the target "mods_magic".
+18:10:53 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has connected
+18:10:53 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+18:10:53 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+18:10:53 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+18:10:53 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+18:10:53 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+18:10:53 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+18:10:53 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+18:10:53 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+18:10:53 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+18:10:53 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:10:53 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+18:10:53 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+18:10:54 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:10:54 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+18:10:54 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:10:54 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+18:10:54 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+18:10:54 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+18:10:54 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+18:10:54 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+18:14:00 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+18:14:00 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [mods_magic] has disconnected
+18:14:01 [INFO] [/47.36.118.25:49667] <-> InitialHandler has connected
+18:14:02 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+18:14:03 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_magic] has disconnected
+18:14:03 [INFO] [/47.36.118.25:59018] <-> InitialHandler has connected
+18:15:41 [INFO] [/99.89.34.31:55890] <-> InitialHandler has connected
+18:42:02 [INFO] [/24.6.231.231:57011] <-> InitialHandler has connected
+18:42:03 [INFO] [/24.6.231.231:57133] <-> InitialHandler has connected
+18:42:04 [INFO] [SkyNoob28] <-> ServerConnector [lobby] has connected
+18:43:29 [INFO] [SkyNoob28] -> UpstreamBridge has disconnected
+18:43:29 [INFO] [SkyNoob28] <-> DownstreamBridge <-> [lobby] has disconnected
+18:43:30 [INFO] [/24.6.231.231:57228] <-> InitialHandler has connected
+19:05:49 [INFO] [/99.89.34.31:55964] <-> InitialHandler has connected
+19:35:38 [INFO] [/47.36.118.25:49899] <-> InitialHandler has connected
+20:38:04 [INFO] [/108.95.131.34:51301] <-> InitialHandler has connected
+20:58:58 [INFO] [/67.169.137.124:65182] <-> InitialHandler has connected
+20:59:52 [INFO] [/47.36.118.25:60302] <-> InitialHandler has connected
+20:59:56 [INFO] [/47.36.118.25:60306] <-> InitialHandler has connected
+21:00:14 [INFO] [/47.36.118.25:60313] <-> InitialHandler has connected
+21:22:51 [INFO] [/108.209.224.61:51261] <-> InitialHandler has connected
+21:30:05 [INFO] [/67.169.137.124:50826] <-> InitialHandler has connected
+22:40:15 [INFO] [/99.89.34.31:57961] <-> InitialHandler has connected
+23:01:04 [INFO] [/99.89.34.31:58782] <-> InitialHandler has connected
+23:01:31 [INFO] [/99.89.34.31:58798] <-> InitialHandler has connected
+23:01:35 [INFO] [/99.89.34.31:58800] <-> InitialHandler has connected
+23:14:32 [INFO] [/99.89.34.31:58822] <-> InitialHandler has connected
+23:21:35 [INFO] [/99.89.34.31:58831] <-> InitialHandler has connected
+09:01:43 [INFO] [/47.36.118.25:61217] <-> InitialHandler has connected
+09:01:44 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+09:01:44 [INFO] [SpongePls]  for the target "mods_magic".
+09:01:44 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has connected
+09:01:44 [INFO] [CyberKn1ght] disconnected with: §cKicked whilst connecting to mods_magic: §fThis server has mods that require FML/Forge to be installed on the client. Contact your server admin for more details.
+09:01:44 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has disconnected
+09:01:44 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+09:01:49 [INFO] [/47.36.118.25:61218] <-> InitialHandler has connected
+09:01:50 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+09:01:50 [INFO] [SpongePls]  for the target "mods_magic".
+09:01:50 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has connected
+09:01:50 [INFO] [CyberKn1ght] disconnected with: §cKicked whilst connecting to mods_magic: §fThis server has mods that require FML/Forge to be installed on the client. Contact your server admin for more details.
+09:01:50 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has disconnected
+09:01:50 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+09:03:26 [INFO] [/47.36.118.25:61258] <-> InitialHandler has connected
+09:03:26 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+09:03:26 [INFO] [SpongePls]  for the target "mods_magic".
+09:03:26 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has connected
+09:03:27 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+09:03:27 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+09:03:27 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+09:03:27 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+09:03:27 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+09:03:27 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+09:03:27 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+09:03:27 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+09:03:27 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+09:03:27 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+09:03:27 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+09:03:27 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:03:27 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+09:03:27 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+09:03:27 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+09:03:27 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:03:27 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+09:03:27 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:03:27 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+09:03:44 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+09:03:44 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_magic] has disconnected
+09:03:45 [INFO] [/47.36.118.25:61263] <-> InitialHandler has connected
+09:03:47 [INFO] [/47.36.118.25:61265] <-> InitialHandler has connected
+09:03:48 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+09:03:48 [INFO] [SpongePls]  for the target "mods_magic".
+09:03:48 [INFO] [CyberKn1ght] <-> ServerConnector [mods_magic] has connected
+09:03:48 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+09:03:48 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+09:03:48 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+09:03:48 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+09:03:48 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+09:03:48 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+09:03:48 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+09:03:48 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+09:03:48 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+09:03:48 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+09:03:48 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+09:03:48 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:03:48 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+09:03:48 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+09:03:48 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+09:03:48 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:03:48 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+09:03:48 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+09:03:48 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+09:04:00 [INFO] [CyberKn1ght] <-> ServerConnector [staff] has connected
+09:04:00 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_magic] has disconnected
+09:08:10 [INFO] [/47.36.118.25:50952] <-> InitialHandler has connected
+09:08:19 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+09:08:19 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [staff] has disconnected
+09:08:20 [INFO] [/47.36.118.25:61310] <-> InitialHandler has connected
+09:08:57 [INFO] [/47.36.118.25:50964] <-> InitialHandler has connected
+09:09:36 [INFO] [/47.36.118.25:50972] <-> InitialHandler has connected
+09:09:39 [INFO] [/47.36.118.25:50975] <-> InitialHandler has connected
+09:09:51 [INFO] [/47.36.118.25:50980] <-> InitialHandler has connected
+09:10:08 [INFO] [/47.36.118.25:50991] <-> InitialHandler has connected
+09:10:12 [INFO] [/47.36.118.25:50996] <-> InitialHandler has connected
+09:11:33 [INFO] [/47.36.118.25:51182] <-> InitialHandler has connected
+09:12:56 [INFO] [/47.36.118.25:51194] <-> InitialHandler has connected
+09:13:46 [INFO] [/47.36.118.25:61394] <-> InitialHandler has connected
+10:04:50 [INFO] [/47.36.118.25:61570] <-> InitialHandler has connected
+10:32:45 [INFO] [/47.36.118.25:51854] <-> InitialHandler has connected
+10:32:45 [INFO] [/47.36.118.25:61764] <-> InitialHandler has connected
+12:39:44 [INFO] [/108.209.224.61:52181] <-> InitialHandler has connected
+12:47:14 [INFO] [/99.89.34.31:59100] <-> InitialHandler has connected
+12:48:57 [INFO] [/99.89.34.31:59241] <-> InitialHandler has connected
+12:50:27 [INFO] [/99.89.34.31:59363] <-> InitialHandler has connected
+12:58:08 [INFO] [/108.209.224.61:52286] <-> InitialHandler has connected
+13:43:42 [INFO] [/99.89.34.31:59499] <-> InitialHandler has connected
+17:18:53 [INFO] [/108.95.131.34:50796] <-> InitialHandler has connected
+19:46:52 [INFO] [/99.89.34.31:59944] <-> InitialHandler has connected
+20:47:58 [INFO] [/108.95.131.34:51897] <-> InitialHandler has connected
+21:31:03 [INFO] [/108.95.131.34:51976] <-> InitialHandler has connected
+23:15:26 [INFO] [/99.89.34.31:60113] <-> InitialHandler has connected
+00:54:39 [INFO] [/24.6.231.231:49371] <-> InitialHandler has connected
+00:54:41 [INFO] [/24.6.231.231:49372] <-> InitialHandler has connected
+00:54:43 [INFO] [SkyNoob28] <-> ServerConnector [lobby] has connected
+00:56:13 [INFO] [SkyNoob28] -> UpstreamBridge has disconnected
+00:56:14 [INFO] [SkyNoob28] <-> DownstreamBridge <-> [lobby] has disconnected
+00:56:15 [INFO] [/24.6.231.231:49248] <-> InitialHandler has connected
+11:31:41 [INFO] [/99.89.34.31:61331] <-> InitialHandler has connected
+11:32:01 [INFO] [/47.36.118.25:53262] <-> InitialHandler has connected
+11:32:10 [INFO] [/47.36.118.25:53265] <-> InitialHandler has connected
+11:32:11 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+11:32:11 [INFO] [SpongePls]  for the target "mods_magic".
+11:32:11 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has connected
+11:32:11 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+11:32:11 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+11:32:12 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+11:32:12 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+11:32:12 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+11:32:12 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+11:32:12 [INFO] [Supreme_Enderman] disconnected with: §cKicked whilst connecting to mods_magic: §fServer Mod rejections:
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Thaumcraft: Requires version 6.1.BETA16 but mod is not found on client.
+11:32:12 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has disconnected
+11:32:12 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+11:33:15 [INFO] [/47.36.118.25:53358] <-> InitialHandler has connected
+11:33:16 [INFO] [/47.36.118.25:53359] <-> InitialHandler has connected
+11:33:17 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+11:33:17 [INFO] [SpongePls]  for the target "mods_magic".
+11:33:17 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has connected
+11:33:17 [INFO] [Supreme_Enderman] disconnected with: §cKicked whilst connecting to mods_magic: §fThis server has mods that require FML/Forge to be installed on the client. Contact your server admin for more details.
+11:33:17 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has disconnected
+11:33:17 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+11:34:56 [INFO] [/47.36.118.25:51822] <-> InitialHandler has connected
+11:34:56 [INFO] [/47.36.118.25:53428] <-> InitialHandler has connected
+11:34:57 [INFO] [/47.36.118.25:53429] <-> InitialHandler has connected
+11:34:58 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+11:34:58 [INFO] [SpongePls]  for the target "mods_magic".
+11:34:58 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_magic] has connected
+11:34:58 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+11:34:58 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+11:34:58 [INFO] [/47.36.118.25:51825] <-> InitialHandler has connected
+11:34:58 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+11:34:58 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+11:34:58 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+11:34:58 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+11:34:58 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+11:34:58 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+11:34:58 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+11:34:58 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+11:34:58 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+11:34:58 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+11:34:59 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+11:34:59 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+11:34:59 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+11:34:59 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+11:34:59 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+11:34:59 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+11:34:59 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+11:34:59 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+11:35:02 [INFO] [/47.36.118.25:51827] <-> InitialHandler has connected
+11:35:08 [INFO] [/47.36.118.25:51831] <-> InitialHandler has connected
+11:35:09 [INFO] [CyberKn1ght] <-> ServerConnector [staff] has connected
+11:35:30 [INFO] [CyberKn1ght] <-> ServerConnector [lobby] has connected
+11:35:30 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [staff] has disconnected
+11:35:44 [INFO] [Supreme_Enderman] <-> ServerConnector [lobby] has connected
+11:35:45 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [mods_magic] has disconnected
+11:36:09 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+11:36:09 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [lobby] has disconnected
+11:36:10 [INFO] [/47.36.118.25:53438] <-> InitialHandler has connected
+11:36:14 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+11:36:15 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [lobby] has disconnected
+11:36:15 [INFO] [/47.36.118.25:51835] <-> InitialHandler has connected
+11:38:37 [INFO] [/47.36.118.25:53532] <-> InitialHandler has connected
+11:38:41 [INFO] [/47.36.118.25:53535] <-> InitialHandler has connected
+11:38:42 [INFO] [Supreme_Enderman] <-> ServerConnector [lobby] has connected
+11:39:01 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+11:39:01 [INFO] [SpongePls]  for the target "mods_tech".
+11:39:17 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+11:39:17 [INFO] [SpongePls]  for the target "mods_tech".
+11:39:31 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+11:39:31 [INFO] [SpongePls]  for the target "mods_tech".
+11:39:53 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+11:39:53 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [lobby] has disconnected
+11:40:01 [INFO] [/47.36.118.25:53546] <-> InitialHandler has connected
+11:41:36 [INFO] [/47.36.118.25:51908] <-> InitialHandler has connected
+11:41:40 [INFO] [/47.36.118.25:51912] <-> InitialHandler has connected
+11:42:18 [INFO] [/47.36.118.25:51921] <-> InitialHandler has connected
+11:42:42 [INFO] [/47.36.118.25:51926] <-> InitialHandler has connected
+11:42:52 [INFO] [/47.36.118.25:51927] <-> InitialHandler has connected
+11:42:53 [INFO] [/47.36.118.25:51932] <-> InitialHandler has connected
+11:42:53 [INFO] [/47.36.118.25:51937] <-> InitialHandler has connected
+11:42:53 [INFO] [/47.36.118.25:51942] <-> InitialHandler has connected
+11:42:53 [INFO] [/47.36.118.25:51947] <-> InitialHandler has connected
+11:42:54 [INFO] [/47.36.118.25:51952] <-> InitialHandler has connected
+11:42:54 [INFO] [/47.36.118.25:51957] <-> InitialHandler has connected
+11:42:54 [INFO] [/47.36.118.25:51962] <-> InitialHandler has connected
+11:42:54 [INFO] [/47.36.118.25:51967] <-> InitialHandler has connected
+11:42:55 [INFO] [/47.36.118.25:51972] <-> InitialHandler has connected
+11:42:55 [INFO] [/47.36.118.25:51977] <-> InitialHandler has connected
+11:42:55 [INFO] [/47.36.118.25:51982] <-> InitialHandler has connected
+11:42:55 [INFO] [/47.36.118.25:51987] <-> InitialHandler has connected
+11:42:56 [INFO] [/47.36.118.25:51992] <-> InitialHandler has connected
+11:42:56 [INFO] [/47.36.118.25:51997] <-> InitialHandler has connected
+11:42:57 [INFO] [/47.36.118.25:52002] <-> InitialHandler has connected
+11:42:57 [INFO] [/47.36.118.25:52007] <-> InitialHandler has connected
+11:42:58 [INFO] [/47.36.118.25:52012] <-> InitialHandler has connected
+11:42:59 [INFO] [/47.36.118.25:52017] <-> InitialHandler has connected
+11:42:59 [INFO] [/47.36.118.25:52022] <-> InitialHandler has connected
+11:43:00 [INFO] [/47.36.118.25:52027] <-> InitialHandler has connected
+11:43:01 [INFO] [/47.36.118.25:52032] <-> InitialHandler has connected
+11:43:01 [INFO] [/47.36.118.25:52037] <-> InitialHandler has connected
+11:43:01 [INFO] [/47.36.118.25:52042] <-> InitialHandler has connected
+11:43:01 [INFO] [/47.36.118.25:52047] <-> InitialHandler has connected
+11:43:02 [INFO] [/47.36.118.25:52052] <-> InitialHandler has connected
+11:43:02 [INFO] [/47.36.118.25:52057] <-> InitialHandler has connected
+11:43:03 [INFO] [/47.36.118.25:52062] <-> InitialHandler has connected
+11:43:03 [INFO] [/47.36.118.25:52067] <-> InitialHandler has connected
+11:43:04 [INFO] [/47.36.118.25:52072] <-> InitialHandler has connected
+11:43:04 [INFO] [/47.36.118.25:52077] <-> InitialHandler has connected
+11:43:04 [INFO] [/47.36.118.25:52082] <-> InitialHandler has connected
+11:43:06 [INFO] [/47.36.118.25:52087] <-> InitialHandler has connected
+11:43:06 [INFO] [/47.36.118.25:52092] <-> InitialHandler has connected
+11:43:07 [INFO] [/47.36.118.25:52097] <-> InitialHandler has connected
+11:43:07 [INFO] [/47.36.118.25:52102] <-> InitialHandler has connected
+11:43:07 [INFO] [/47.36.118.25:52107] <-> InitialHandler has connected
+11:43:11 [INFO] [/47.36.118.25:52112] <-> InitialHandler has connected
+11:43:11 [INFO] [/47.36.118.25:52116] <-> InitialHandler has connected
+11:43:12 [INFO] [/47.36.118.25:52123] <-> InitialHandler has connected
+11:43:19 [INFO] [/47.36.118.25:52127] <-> InitialHandler has connected
+11:43:25 [INFO] [/47.36.118.25:52136] <-> InitialHandler has connected
+11:46:22 [INFO] [/47.36.118.25:52193] <-> InitialHandler has connected
+11:46:30 [INFO] [/47.36.118.25:52199] <-> InitialHandler has connected
+11:46:31 [INFO] [/47.36.118.25:52203] <-> InitialHandler has connected
+11:46:31 [INFO] [/47.36.118.25:52206] <-> InitialHandler has connected
+11:49:14 [INFO] [/47.36.118.25:52843] <-> InitialHandler has connected
+11:57:16 [INFO] [/47.36.118.25:52873] <-> InitialHandler has connected
+11:58:05 [INFO] [/47.36.118.25:53838] <-> InitialHandler has connected
+12:42:29 [INFO] [/47.36.118.25:53268] <-> InitialHandler has connected
+17:25:07 [INFO] [/108.95.131.34:53383] <-> InitialHandler has connected
+17:25:09 [INFO] [/108.95.131.34:53388] <-> InitialHandler has connected
+17:34:47 [INFO] [/108.95.131.34:53465] <-> InitialHandler has connected
+19:09:14 [INFO] [/99.89.34.31:61679] <-> InitialHandler has connected
+21:12:35 [INFO] [/108.95.131.34:50299] <-> InitialHandler has connected
+21:12:37 [INFO] [/108.95.131.34:50306] <-> InitialHandler has connected
+23:29:50 [INFO] [/99.89.34.31:61828] <-> InitialHandler has connected
+12:31:37 [INFO] [/99.89.34.31:62110] <-> InitialHandler has connected
+13:41:07 [INFO] [/99.89.34.31:62187] <-> InitialHandler has connected
+13:42:28 [INFO] [/99.89.34.31:62294] <-> InitialHandler has connected
+08:50:23 [INFO] [/108.209.224.61:49967] <-> InitialHandler has connected
+09:31:28 [INFO] [/108.209.224.61:50366] <-> InitialHandler has connected
+09:58:04 [INFO] [/108.209.224.61:50795] <-> InitialHandler has connected
+12:53:59 [INFO] [/99.89.34.31:63796] <-> InitialHandler has connected
+15:26:00 [INFO] [/108.209.224.61:52034] <-> InitialHandler has connected
+16:35:02 [INFO] [/99.89.34.31:63910] <-> InitialHandler has connected
+16:38:42 [INFO] [/108.209.224.61:52603] <-> InitialHandler has connected
+16:38:44 [INFO] [/108.209.224.61:52607] <-> InitialHandler has connected
+16:38:45 [INFO] [/108.209.224.61:52611] <-> InitialHandler has connected
+16:38:46 [INFO] [/108.209.224.61:52613] <-> InitialHandler has connected
+16:38:47 [INFO] [/108.209.224.61:52621] <-> InitialHandler has connected
+16:38:47 [INFO] [/108.209.224.61:52625] <-> InitialHandler has connected
+16:38:47 [INFO] [/108.209.224.61:52630] <-> InitialHandler has connected
+16:38:48 [INFO] [/108.209.224.61:52634] <-> InitialHandler has connected
+16:39:17 [WARNING] [/108.209.224.61:52617] <-> InitialHandler - read timed out
+16:46:39 [INFO] [/99.89.34.31:64024] <-> InitialHandler has connected
+16:46:47 [INFO] [/99.89.34.31:64029] <-> InitialHandler has connected
+16:47:50 [INFO] [/99.89.34.31:64042] <-> InitialHandler has connected
+17:28:03 [INFO] [/108.209.224.61:53209] <-> InitialHandler has connected
+21:34:33 [INFO] [/108.95.131.34:52290] <-> InitialHandler has connected
+15:07:41 [INFO] [/99.89.34.31:65285] <-> InitialHandler has connected
+18:58:48 [INFO] [/99.89.34.31:65392] <-> InitialHandler has connected
+19:11:32 [INFO] [/99.89.34.31:65402] <-> InitialHandler has connected
+00:53:38 [INFO] [/24.6.231.231:58737] <-> InitialHandler has connected
+00:53:38 [INFO] [/24.6.231.231:58741] <-> InitialHandler has connected
+00:53:40 [INFO] [/24.6.231.231:58742] <-> InitialHandler has connected
+00:53:41 [INFO] [SkyNoob28] <-> ServerConnector [lobby] has connected
+00:54:03 [WARNING] [SkyNoob28] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+00:54:03 [INFO] [SkyNoob28] disconnected with: §fNativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+00:54:03 [INFO] [SkyNoob28] -> UpstreamBridge has disconnected
+00:54:04 [INFO] [SkyNoob28] <-> DownstreamBridge <-> [lobby] has disconnected
+09:01:20 [INFO] [/99.89.34.31:49486] <-> InitialHandler has connected
+09:01:22 [INFO] [/99.89.34.31:49491] <-> InitialHandler has connected
+09:01:27 [INFO] [/99.89.34.31:49494] <-> InitialHandler has connected
+09:29:04 [INFO] [/99.89.34.31:49520] <-> InitialHandler has connected
+09:29:46 [INFO] [/99.89.34.31:49531] <-> InitialHandler has connected
+15:13:54 [INFO] [/99.31.212.148:51055] <-> InitialHandler has connected
+15:15:57 [INFO] [/99.31.212.148:51069] <-> InitialHandler has connected
+15:15:58 [INFO] [Supreme_Enderman] <-> ServerConnector [lobby] has connected
+15:17:18 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+15:17:18 [INFO] [SpongePls]  for the target "mods_tech".
+15:17:18 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_tech] has connected
+15:17:19 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+15:17:19 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+15:17:19 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+15:17:19 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+15:17:19 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+15:17:19 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+15:17:19 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+15:17:19 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+15:17:22 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+15:17:22 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:17:22 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+15:17:22 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+15:17:23 [INFO] [/192.168.1.1:63547] <-> InitialHandler has connected
+15:17:24 [INFO] [WhiteT1gerNinja] <-> ServerConnector [lobby] has connected
+15:17:25 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:17:25 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:17:25 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+15:17:25 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:17:25 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:17:25 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:17:25 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:17:25 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:17:26 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [lobby] has disconnected
+15:18:07 [INFO] [WhiteT1gerNinja] -> UpstreamBridge has disconnected
+15:18:07 [INFO] [WhiteT1gerNinja] <-> DownstreamBridge <-> [lobby] has disconnected
+15:22:25 [INFO] [/192.168.1.1:51063] <-> InitialHandler has connected
+15:22:29 [INFO] [/192.168.1.1:51064] <-> InitialHandler has connected
+15:22:29 [INFO] [CyberKn1ght] <-> ServerConnector [lobby] has connected
+15:22:43 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+15:22:43 [INFO] [SpongePls]  for the target "mods_tech".
+15:22:43 [INFO] [CyberKn1ght] <-> ServerConnector [mods_tech] has connected
+15:22:43 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+15:22:43 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+15:22:43 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+15:22:43 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+15:22:43 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+15:22:43 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+15:22:43 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+15:22:43 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+15:22:43 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+15:22:43 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:22:43 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+15:22:43 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+15:22:47 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:22:47 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:22:47 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+15:22:47 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:22:47 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:22:47 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:22:47 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:22:47 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:22:48 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [lobby] has disconnected
+15:31:00 [INFO] [/99.89.34.31:49738] <-> InitialHandler has connected
+15:50:18 [INFO] [CyberKn1ght] disconnected with: §fServer closed
+15:50:18 [INFO] [Supreme_Enderman] disconnected with: §fServer closed
+15:50:18 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_tech] has disconnected
+15:50:18 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [mods_tech] has disconnected
+15:50:19 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+15:50:19 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+15:50:28 [INFO] [/99.31.212.148:52600] <-> InitialHandler has connected
+15:50:29 [INFO] [/99.31.212.148:52604] <-> InitialHandler has connected
+15:50:29 [INFO] [/99.31.212.148:52610] <-> InitialHandler has connected
+15:50:30 [INFO] [/99.31.212.148:52616] <-> InitialHandler has connected
+15:50:30 [INFO] [/99.31.212.148:52621] <-> InitialHandler has connected
+15:50:34 [INFO] [/99.31.212.148:52627] <-> InitialHandler has connected
+15:50:35 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+15:50:35 [INFO] [SpongePls]  for the target "mods_tech".
+15:50:35 [INFO] [Supreme_Enderman] <-> ServerConnector [lobby] has connected
+15:52:24 [INFO] [/192.168.1.1:51090] <-> InitialHandler has connected
+15:52:24 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+15:52:24 [INFO] [SpongePls]  for the target "mods_tech".
+15:52:24 [INFO] [CyberKn1ght] <-> ServerConnector [mods_tech] has connected
+15:52:25 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+15:52:25 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+15:52:25 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+15:52:25 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+15:52:25 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+15:52:25 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+15:52:25 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+15:52:25 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+15:52:25 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+15:52:25 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:52:25 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+15:52:25 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+15:52:27 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:52:27 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:27 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:52:27 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:27 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+15:52:27 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:52:27 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:52:27 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:42 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+15:52:43 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_tech] has disconnected
+15:52:47 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+15:52:47 [INFO] [SpongePls]  for the target "mods_tech".
+15:52:47 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_tech] has connected
+15:52:47 [INFO] [/192.168.1.1:51094] <-> InitialHandler has connected
+15:52:47 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+15:52:47 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+15:52:47 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+15:52:47 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+15:52:47 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+15:52:47 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+15:52:47 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+15:52:47 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+15:52:49 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+15:52:49 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:52:49 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+15:52:49 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+15:52:52 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:52:52 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:52 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:52:52 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:52 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+15:52:52 [FINE] [COMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:52:52 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:52:52 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:52:52 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [lobby] has disconnected
+15:53:06 [INFO] [Supreme_Enderman] disconnected with: §fServer closed
+15:53:06 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [mods_tech] has disconnected
+15:53:06 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+15:53:45 [INFO] [/99.31.212.148:52654] <-> InitialHandler has connected
+15:55:18 [INFO] [/192.168.1.1:51097] <-> InitialHandler has connected
+15:55:18 [INFO] [SpongePls] Using the Forge Server Connector for CyberKn1ght
+15:55:18 [INFO] [SpongePls]  for the target "mods_tech".
+15:55:18 [INFO] [CyberKn1ght] <-> ServerConnector [mods_tech] has connected
+15:55:18 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+15:55:18 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+15:55:18 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+15:55:18 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+15:55:18 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+15:55:18 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+15:55:18 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+15:55:18 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+15:55:18 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+15:55:18 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:55:19 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+15:55:19 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+15:55:21 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:55:21 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:55:21 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+15:55:21 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:55:21 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:55:21 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:55:21 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:55:21 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:55:22 [INFO] [/99.31.212.148:52674] <-> InitialHandler has connected
+15:55:22 [INFO] [SpongePls] Using the Forge Server Connector for Supreme_Enderman
+15:55:22 [INFO] [SpongePls]  for the target "mods_tech".
+15:55:22 [INFO] [Supreme_Enderman] <-> ServerConnector [mods_tech] has connected
+15:55:22 [FINE] [START Server -> Bungee][SENDING: ServerHello]
+15:55:22 [FINE] [HELLO Client <- Bungee][RECEIVED: ServerHello]
+15:55:22 [FINE] [HELLO Client -> Bungee][SENDING: ClientHello]
+15:55:22 [FINE] [HELLO Server <- Bungee][RECEIVED: ClientHello]
+15:55:22 [FINE] [HELLO Client -> Bungee][SENDING: ModList]
+15:55:22 [FINE] [HELLO Server <- Bungee][RECEIVED: ModList]
+15:55:22 [FINE] [HELLO Server -> Bungee][SENDING: ModList]
+15:55:22 [FINE] [WAITINGSERVERDATA Client <- Bungee][RECEIVED: ModList]
+15:55:23 [FINE] [WAITINGSERVERDATA Client -> Bungee][SENDING: HandshakeAck]
+15:55:23 [FINE] [WAITINGCACK Server <- Bungee][RECEIVED: HandshakeAck]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: ModIdData]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: ModIdData]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: HandshakeAck]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:55:23 [FINE] [WAITINGCACK Server -> Bungee][SENDING: FluidIdMap]
+15:55:23 [FINE] [WAITINGSERVERCOMPLETE Client <- Bungee][RECEIVED: FluidIdMap]
+15:55:25 [FINE] [WAITINGSERVERCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:55:25 [FINE] [COMPLETE Server <- Bungee][RECEIVED: HandshakeAck]
+15:55:25 [FINE] [COMPLETE Server -> Bungee][SENDING: HandshakeAck]
+15:55:25 [FINE] [PENDINGCOMPLETE Client <- Bungee][RECEIVED: HandshakeAck]
+15:55:25 [FINE] [PENDINGCOMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:55:25 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+15:55:25 [FINE] [COMPLETE Client -> Bungee][SENDING: HandshakeAck]
+15:55:25 [FINE] [DONE Server <- Bungee][RECEIVED: HandshakeAck]
+17:00:57 [INFO] [/99.89.34.31:49833] <-> InitialHandler has connected
+17:56:49 [INFO] [Supreme_Enderman] disconnected with: §fServer closed
+17:56:49 [INFO] [CyberKn1ght] disconnected with: §fServer closed
+17:56:49 [INFO] [CyberKn1ght] <-> DownstreamBridge <-> [mods_tech] has disconnected
+17:56:49 [INFO] [Supreme_Enderman] <-> DownstreamBridge <-> [mods_tech] has disconnected
+17:56:49 [INFO] [Supreme_Enderman] -> UpstreamBridge has disconnected
+17:56:49 [INFO] [CyberKn1ght] -> UpstreamBridge has disconnected
+18:52:28 [INFO] [/108.95.131.34:54756] <-> InitialHandler has connected
+21:10:29 [INFO] [/99.89.34.31:50438] <-> InitialHandler has connected
+21:10:34 [INFO] [/99.89.34.31:50441] <-> InitialHandler has connected
+21:10:49 [INFO] [/99.89.34.31:50451] <-> InitialHandler has connected
+21:21:43 [INFO] [/99.89.34.31:50493] <-> InitialHandler has connected
+22:11:01 [INFO] [/99.89.34.31:50522] <-> InitialHandler has connected
+04:06:41 [INFO] [/122.228.10.51:25646] <-> InitialHandler has connected
+09:32:02 [INFO] [/99.89.34.31:50878] <-> InitialHandler has connected
+13:18:19 [INFO] [/108.95.131.34:55631] <-> InitialHandler has connected
+13:18:23 [INFO] [/108.95.131.34:55636] <-> InitialHandler has connected
+14:59:03 [INFO] [/99.89.34.31:51215] <-> InitialHandler has connected
+15:32:45 [INFO] [/99.89.34.31:51239] <-> InitialHandler has connected
+15:34:02 [INFO] [/99.89.34.31:51337] <-> InitialHandler has connected
+17:29:39 [INFO] [/99.89.34.31:51390] <-> InitialHandler has connected
+18:42:44 [INFO] [/99.89.34.31:51429] <-> InitialHandler has connected
+20:31:46 [INFO] [/122.228.10.51:31702] <-> InitialHandler has connected
+20:40:55 [INFO] [/99.89.34.31:51537] <-> InitialHandler has connected
+20:44:33 [INFO] [/76.103.133.62:52521] <-> InitialHandler has connected
+20:44:33 [INFO] [AirFusion_45] <-> ServerConnector [lobby] has connected
+20:45:54 [INFO] [AirFusion_45] -> UpstreamBridge has disconnected
+20:45:55 [INFO] [AirFusion_45] <-> DownstreamBridge <-> [lobby] has disconnected
+20:45:55 [INFO] [/76.103.133.62:52538] <-> InitialHandler has connected
+20:46:08 [INFO] [/76.103.133.62:52558] <-> InitialHandler has connected
+20:46:13 [INFO] [/76.103.133.62:52572] <-> InitialHandler has connected
+20:46:21 [INFO] [/76.103.133.62:52589] <-> InitialHandler has connected
+20:49:35 [INFO] [/76.103.133.62:52784] <-> InitialHandler has connected
+20:50:15 [INFO] [/76.103.133.62:52900] <-> InitialHandler has connected
+21:15:16 [INFO] [/99.89.34.31:51575] <-> InitialHandler has connected
+22:47:22 [INFO] [/99.89.34.31:52180] <-> InitialHandler has connected
+23:40:01 [INFO] [/99.89.34.31:52211] <-> InitialHandler has connected
+23:40:28 [INFO] [/99.89.34.31:52223] <-> InitialHandler has connected
+23:43:56 [INFO] [/99.89.34.31:52353] <-> InitialHandler has connected
+23:44:45 [INFO] [/99.89.34.31:52368] <-> InitialHandler has connected
+23:46:03 [INFO] [/99.89.34.31:52382] <-> InitialHandler has connected
+00:46:59 [INFO] [/99.89.34.31:52447] <-> InitialHandler has connected
+01:02:32 [INFO] [/99.89.34.31:52461] <-> InitialHandler has connected
+01:14:17 [INFO] [/99.89.34.31:52478] <-> InitialHandler has connected
+01:21:47 [INFO] [/99.89.34.31:52490] <-> InitialHandler has connected

@@ -1,0 +1,45 @@
+09:13:20 [INFO] Using mbed TLS based native cipher.
+09:13:20 [INFO] Using zlib based native compressor.
+09:13:20 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:6fadb42:1343
+09:13:20 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:13:20 [INFO] Epoll is working, utilising it!
+09:13:20 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:13:20 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:13:20 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:13:20 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:13:20 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:13:20 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:13:20 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Loaded plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:13:20 [INFO] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [WARNING] Forced host server pvp is not defined
+09:13:20 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+09:13:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Enabled plugin SpongePls version 1.1-SNAPSHOT-b#35 by Cory Redmond
+09:13:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:6fadb42:1343 by SpigotMC
+09:13:21 [WARNING] Could not bind to host /0.0.0.0:25565
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+	at io.netty.channel.unix.Errors.newIOException(Errors.java:122)
+	at io.netty.channel.unix.Socket.bind(Socket.java:287)
+	at io.netty.channel.epoll.AbstractEpollChannel.doBind(AbstractEpollChannel.java:688)
+	at io.netty.channel.epoll.EpollServerSocketChannel.doBind(EpollServerSocketChannel.java:70)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:558)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:254)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)

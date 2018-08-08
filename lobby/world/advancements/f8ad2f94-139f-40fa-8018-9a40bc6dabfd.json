@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-07-31 09:35:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-07-31 09:35:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-08-02 11:35:46 -0700",
+      "plains": "2018-07-31 09:35:33 -0700"
+    },
+    "done": false
+  }
+}
