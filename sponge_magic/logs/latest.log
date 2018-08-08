@@ -1,102 +1,131 @@
-[10:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[10:18:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[10:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[10:18:17] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
-[10:18:17] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_171, running on Linux:amd64:4.15.0-29-generic, installed at /usr/lib/jvm/java-8-oracle/jre
-[10:18:17] [main/INFO] [FML]: Searching /home/allcraft/Desktop/allcraft/sponge_magic/./mods for mods
-[10:18:17] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[10:18:17] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[10:18:17] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_D3.jar
-[10:18:17] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar
-[10:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[10:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[10:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[10:18:17] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.4 Source=file:/home/allcraft/Desktop/allcraft/sponge_magic/./mods/spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar Service=LaunchWrapper Env=SERVER
-[10:18:17] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[10:18:17] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[DEFAULT]
-[10:18:17] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[PREINIT]
-[10:18:17] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[INIT]
-[10:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[10:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[10:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[10:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[10:18:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[10:18:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[10:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[10:18:18] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[10:18:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[10:18:18] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[10:18:18] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1d207fad
-[10:18:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[10:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[10:18:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[10:18:19] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[10:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[10:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[10:18:19] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[10:18:23] [main/WARN] [mixin]: Static binding violation: PRIVATE overwrite method initializeConnectionToPlayer in mixins.common.core.json:server.MixinPlayerList cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[10:18:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[10:18:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[10:18:29] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
-[10:18:29] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[10:18:29] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
-[10:18:30] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/home/allcraft/Desktop/allcraft/sponge_magic/./mods/spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar!/mcmod.info
-[10:18:30] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
-[10:18:40] [Server thread/INFO] [FML]: Searching /home/allcraft/Desktop/allcraft/sponge_magic/./mods for mods
-[10:18:40] [Server thread/INFO] [FML]: Searching %s for plugins
-[10:18:41] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
-[10:18:41] [Server thread/INFO] [FML]: Disabling mod keywizard it is client side only.
-[10:18:41] [Server thread/WARN] [FML]: Mod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.10
-[10:18:41] [Server thread/INFO] [FML]: Disabling mod wailaharvestability it is client side only.
-[10:18:41] [Server thread/INFO] [FML]: Forge Mod Loader has identified 16 mods to load
-[10:18:41] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[10:18:41] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
-[10:18:41] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
-[10:18:41] [Server thread/WARN] [FML]: Missing English translation for voxelsniper: assets/voxelsniper/lang/en_us.lang
-[10:18:41] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.8.5.27.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[10:18:41] [Server thread/INFO] [FML]: FML has found a non-mod file keywizard-1.12.2-1.5.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[10:18:41] [Server thread/INFO] [FML]: FML has found a non-mod file WailaHarvestability-mc1.12-1.1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[10:18:41] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, backpack, baubles, waila, inventorytweaks, jei, journeymap, thaumcraft, tcinventoryscan, worldedit, voxelsniper] at CLIENT
-[10:18:41] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, backpack, baubles, waila, inventorytweaks, jei, journeymap, thaumcraft, tcinventoryscan, worldedit, voxelsniper] at SERVER
-[10:18:41] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
-[10:18:42] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[10:18:42] [Server thread/INFO] [FML]: Found 1176 ObjectHolder annotations
-[10:18:42] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[10:18:42] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[10:18:42] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[10:18:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[10:18:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[10:18:45] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: thaumcraft:block_taint_feature_facing
-[10:18:45] [Server thread/WARN] [Sponge]: Could not find enabled owning class, assigning fallback id: thaumcraft:block_dioptra_enabled
-[10:18:45] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: thaumcraft:block_research_table_facing
-[10:18:45] [Server thread/INFO] [FML]: Applying holder lookups
-[10:18:45] [Server thread/INFO] [FML]: Holder lookups applied
-[10:18:45] [Server thread/INFO] [Backpack]: Loading items...
-[10:18:45] [Server thread/INFO] [Backpack]: 15 item features loaded.
-[10:18:45] [Server thread/INFO] [FML]: Applying holder lookups
-[10:18:45] [Server thread/INFO] [FML]: Holder lookups applied
-[10:18:45] [Server thread/INFO] [FML]: Applying holder lookups
-[10:18:45] [Server thread/INFO] [FML]: Holder lookups applied
-[10:18:45] [Server thread/INFO] [FML]: Applying holder lookups
-[10:18:45] [Server thread/INFO] [FML]: Holder lookups applied
-[10:18:45] [Server thread/INFO] [FML]: Injecting itemstacks
-[10:18:45] [Server thread/INFO] [FML]: Itemstack injection complete
-[10:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[10:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[10:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[10:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25570
-[10:18:45] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[10:18:45] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:18:45] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[10:18:45] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:18:45] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:18:45] [Server thread/INFO] [Backpack]: Loading recipes...
-[10:18:45] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
-[10:18:45] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
-[10:18:45] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
-[10:18:45] [Server thread/INFO] [FML]: Applying holder lookups
-[10:18:45] [Server thread/INFO] [FML]: Holder lookups applied
-[10:18:45] [Server thread/ERROR] [Sponge]: Could not pass FMLInitializationEvent to Plugin{id=voxelsniper, name=VoxelSniper, version=8.5.0-SNAPSHOT, description=Long range terrain editing, source=/home/allcraft/Desktop/allcraft/sponge_magic/./mods/plugins/VoxelSniper-8.5.0-SNAPSHOT.jar}
+[10:34:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:34:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:34:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:34:08] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[10:34:08] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_171, running on Linux:amd64:4.15.0-29-generic, installed at /usr/lib/jvm/java-8-oracle/jre
+[10:34:08] [main/INFO] [FML]: Searching /home/allcraft/Desktop/allcraft/sponge_magic/./mods for mods
+[10:34:08] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:34:08] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:34:08] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_D3.jar
+[10:34:08] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar
+[10:34:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:34:08] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[10:34:08] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[10:34:08] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.4 Source=file:/home/allcraft/Desktop/allcraft/sponge_magic/./mods/spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar Service=LaunchWrapper Env=SERVER
+[10:34:08] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[10:34:08] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[DEFAULT]
+[10:34:08] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[PREINIT]
+[10:34:08] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[INIT]
+[10:34:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:34:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:34:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:34:08] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[10:34:08] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[10:34:08] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[10:34:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:34:09] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:34:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:34:09] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[10:34:09] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5e3a39cd
+[10:34:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:34:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:34:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:34:10] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[10:34:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:34:10] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[10:34:10] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[10:34:13] [main/WARN] [mixin]: Static binding violation: PRIVATE overwrite method initializeConnectionToPlayer in mixins.common.core.json:server.MixinPlayerList cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10:34:14] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[10:34:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[10:34:19] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
+[10:34:19] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:34:19] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[10:34:19] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/home/allcraft/Desktop/allcraft/sponge_magic/./mods/spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar!/mcmod.info
+[10:34:19] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
+[10:34:29] [Server thread/INFO] [FML]: Searching /home/allcraft/Desktop/allcraft/sponge_magic/./mods for mods
+[10:34:29] [Server thread/INFO] [FML]: Searching %s for plugins
+[10:34:29] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[10:34:29] [Server thread/INFO] [FML]: Disabling mod keywizard it is client side only.
+[10:34:29] [Server thread/WARN] [FML]: Mod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.10
+[10:34:29] [Server thread/INFO] [FML]: Disabling mod wailaharvestability it is client side only.
+[10:34:29] [Server thread/INFO] [FML]: Forge Mod Loader has identified 19 mods to load
+[10:34:29] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[10:34:29] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+[10:34:29] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[10:34:29] [Server thread/WARN] [FML]: Missing English translation for voxelsniper: assets/voxelsniper/lang/en_us.lang
+[10:34:29] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.8.5.27.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:34:29] [Server thread/INFO] [FML]: FML has found a non-mod file keywizard-1.12.2-1.5.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:34:29] [Server thread/INFO] [FML]: FML has found a non-mod file WailaHarvestability-mc1.12-1.1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:34:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, backpack, baubles, bloodmagic, botania, guideapi, waila, inventorytweaks, jei, journeymap, thaumcraft, tcinventoryscan, worldedit, voxelsniper] at CLIENT
+[10:34:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, backpack, baubles, bloodmagic, botania, guideapi, waila, inventorytweaks, jei, journeymap, thaumcraft, tcinventoryscan, worldedit, voxelsniper] at SERVER
+[10:34:30] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[10:34:31] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[10:34:31] [Server thread/INFO] [FML]: Found 1312 ObjectHolder annotations
+[10:34:31] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[10:34:31] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[10:34:31] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[10:34:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:34:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[10:34:34] [Server thread/WARN] [Sponge]: Could not find static owning class, assigning fallback id: bloodmagic:block_inversion_pillar_static
+[10:34:34] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: thaumcraft:block_taint_feature_facing
+[10:34:34] [Server thread/WARN] [Sponge]: Could not find enabled owning class, assigning fallback id: thaumcraft:block_dioptra_enabled
+[10:34:34] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: thaumcraft:block_research_table_facing
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_special_quartz_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_biome_stone_a_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_biome_stone_b_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find color owning class, assigning fallback id: botania:block_pavement_color
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find bswall_variant owning class, assigning fallback id: botania:block_biome_stone_wall_bswall_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find color owning class, assigning fallback id: botania:block_mod_flower_color
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_altar_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_livingrock_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_livingwood_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_spreader_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_pool_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_pylon_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find powered owning class, assigning fallback id: botania:block_mana_detector_powered
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: botania:block_enchanter_facing
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find pattern owning class, assigning fallback id: botania:block_open_crate_pattern
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_open_crate_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_storage_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_forest_drum_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_platform_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find state owning class, assigning fallback id: botania:block_alf_portal_state
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: botania:block_tiny_potato_facing
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_custom_brick_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: botania:block_red_string_container_facing
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find has_lens owning class, assigning fallback id: botania:block_prism_has_lens
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find df_variant owning class, assigning fallback id: botania:block_mod_double_flower1_df_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find df_variant owning class, assigning fallback id: botania:block_mod_double_flower2_df_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_light_relay_variant
+[10:34:35] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_alt_grass_variant
+[10:34:35] [Server thread/INFO] [FML]: Applying holder lookups
+[10:34:35] [Server thread/INFO] [FML]: Holder lookups applied
+[10:34:35] [Server thread/INFO] [Backpack]: Loading items...
+[10:34:35] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[10:34:35] [Server thread/INFO] [FML]: Applying holder lookups
+[10:34:35] [Server thread/INFO] [FML]: Holder lookups applied
+[10:34:35] [Server thread/INFO] [FML]: Applying holder lookups
+[10:34:35] [Server thread/INFO] [FML]: Holder lookups applied
+[10:34:35] [Server thread/INFO] [FML]: Applying holder lookups
+[10:34:35] [Server thread/INFO] [FML]: Holder lookups applied
+[10:34:35] [Server thread/INFO] [FML]: Injecting itemstacks
+[10:34:35] [Server thread/INFO] [FML]: Itemstack injection complete
+[10:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[10:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[10:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[10:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25570
+[10:34:35] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[10:34:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:34:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[10:34:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:34:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:34:36] [Server thread/INFO] [Backpack]: Loading recipes...
+[10:34:36] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
+[10:34:36] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[10:34:36] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[10:34:36] [Server thread/INFO] [FML]: Applying holder lookups
+[10:34:36] [Server thread/INFO] [FML]: Holder lookups applied
+[10:34:36] [Server thread/ERROR] [Sponge]: Could not pass FMLInitializationEvent to Plugin{id=voxelsniper, name=VoxelSniper, version=8.5.0-SNAPSHOT, description=Long range terrain editing, source=/home/allcraft/Desktop/allcraft/sponge_magic/./mods/plugins/VoxelSniper-8.5.0-SNAPSHOT.jar}
 java.lang.NoClassDefFoundError: org/spongepowered/api/event/cause/NamedCause
 	at com.thevoxelbox.voxelsniper.VoxelSniper.onInit(VoxelSniper.java:142) ~[VoxelSniper.class:?]
 	at org.spongepowered.common.event.listener.GameInitializationEventListener_VoxelSniper_onInit9.handle(Unknown Source) ~[?:?]
@@ -148,48 +177,274 @@ Caused by: java.lang.NullPointerException
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_171]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_171]
 	... 40 more
-[10:18:46] [Server thread/INFO] [FML]: Injecting itemstacks
-[10:18:46] [Server thread/INFO] [FML]: Itemstack injection complete
-[10:18:46] [Server thread/INFO] [worldedit]: WorldEdit for Sponge (version 6.1.9-SNAPSHOT) is loaded
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from thaumcraft:research/eldritch
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/basics
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
-[10:18:46] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
-[10:18:46] [Server thread/INFO] [Waila]: Starting Waila...
-[10:18:46] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[10:18:46] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[10:18:46] [Server thread/INFO] [Waila]: Registering plugins...
-[10:18:46] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[10:18:46] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[10:18:46] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[10:18:46] [Server thread/INFO] [Waila]: Starting Waila took 24.50 ms
-[10:18:46] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 16 mods
-[10:18:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[10:18:46] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
-[10:18:46] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
-[10:18:46] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[10:18:46] [Server thread/INFO] [FML]: Applying holder lookups
-[10:18:46] [Server thread/INFO] [FML]: Holder lookups applied
-[10:18:47] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[10:18:47] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancement trees
-[10:18:47] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
-[10:18:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (world)
-[10:18:48] [Server thread/INFO] [Sponge]: Loading world [world] (overworld)
-[10:18:48] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[10:18:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancement trees
-[10:18:49] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[10:18:49] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (the_nether)
-[10:18:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[10:18:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancement trees
-[10:18:49] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
-[10:18:49] [Server thread/INFO] [Sponge]: Loading world [DIM1] (the_end)
-[10:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.592s)! For help, type "help" or "?"
-[10:18:49] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
-[10:18:49] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
-[10:18:49] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[10:18:49] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
-[10:19:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cMods§r§f (§r§f14§r§f): §r§aMinecraft§r, §r§aMinecraft Coder Pack§r, §r§aForge Mod Loader§r, §r§aMinecraft Forge§r, §r§aSpongeAPI§r, §r§aSpongeForge§r, §r§aBackpack§r, §r§aBaubles§r, §r§aInventory Tweaks§r, §r§aJourneyMap§r, §r§aJust Enough Items§r, §r§aThaumcrafft Inventory Scanning§r, §r§aThaumcraft§r, §r§aWaila§r
+[10:34:36] [Server thread/INFO] [FML]: Injecting itemstacks
+[10:34:36] [Server thread/INFO] [FML]: Itemstack injection complete
+[10:34:36] [Server thread/INFO] [worldedit]: WorldEdit for Sponge (version 6.1.9-SNAPSHOT) is loaded
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[10:34:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[10:34:37] [Server thread/INFO] [botania]: The Lexica Botania has 26860 words.
+[10:34:37] [Server thread/INFO] [Waila]: Starting Waila...
+[10:34:37] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[10:34:37] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[10:34:37] [Server thread/INFO] [Waila]: Registering plugins...
+[10:34:37] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[10:34:37] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[10:34:37] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[10:34:37] [Server thread/INFO] [Waila]: Registering plugin at WayofTime.bloodmagic.compat.waila.BloodMagicHwylaPlugin
+[10:34:37] [Server thread/INFO] [Waila]: Starting Waila took 36.01 ms
+[10:34:37] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 19 mods
+[10:34:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[10:34:37] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
+[10:34:37] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
+[10:34:37] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod thaumcraft version 6.1.BETA16 and it is now at version 6.1.BETA21, things may not work well
+[10:34:37] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[10:34:37] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world thaumcraft:bucket_pure
+[10:34:37] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world thaumcraft:bucket_death
+[10:34:37] [Server thread/ERROR] [FML]: Unidentified mapping from registry minecraft:items
+[10:34:37] [Server thread/ERROR] [FML]:     thaumcraft:bucket_death: 4321
+[10:34:37] [Server thread/ERROR] [FML]:     thaumcraft:bucket_pure: 4322
+[10:34:37] [Server thread/WARN] [FML]: Forge Mod Loader detected missing registry entries.
+
+There are 2 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+Missing minecraft:items:
+    thaumcraft:bucket_pure
+    thaumcraft:bucket_death
+
+
+Run the command /fml confirm or or /fml cancel to proceed.
+Alternatively start the server with -Dfml.queryResult=confirm or -Dfml.queryResult=cancel to preselect the answer.
+[10:35:04] [Server thread/INFO] [FML]: confirmed
+[10:35:05] [Server thread/INFO] [FML]: World backup created at /home/allcraft/Desktop/allcraft/sponge_magic/world-20180808-103504.zip.
+[10:35:05] [Server thread/ERROR] [FML]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:path Expected: 272 Got: 449
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:incense_altar Expected: 264 Got: 450
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_crystal Expected: 268 Got: 451
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:life_essence Expected: 270 Got: 452
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_wall_1 Expected: 289 Got: 453
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_extras Expected: 282 Got: 454
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_light Expected: 288 Got: 455
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:ritual_controller Expected: 256 Got: 456
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_brick_2 Expected: 281 Got: 457
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_brick_1 Expected: 280 Got: 458
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:decorative_brick Expected: 271 Got: 459
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:spectral Expected: 261 Got: 460
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:dimensional_portal Expected: 277 Got: 461
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:inversion_pillar Expected: 293 Got: 462
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:blood_rune Expected: 254 Got: 463
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_crucible Expected: 265 Got: 464
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_2 Expected: 284 Got: 465
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_1 Expected: 283 Got: 466
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:input_routing_node Expected: 274 Got: 467
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:soul_forge Expected: 263 Got: 468
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:ritual_stone Expected: 257 Got: 469
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:phantom Expected: 262 Got: 470
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_pylon Expected: 266 Got: 471
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:alchemy_array Expected: 260 Got: 472
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:output_routing_node Expected: 275 Got: 473
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_cap_3 Expected: 287 Got: 474
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_cap_1 Expected: 285 Got: 478
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_cap_2 Expected: 286 Got: 479
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:blood_tank Expected: 278 Got: 480
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:blood_light Expected: 258 Got: 481
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:inversion_pillar_end Expected: 294 Got: 482
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: thaumcraft:void_siphon Expected: 478 Got: 483
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:master_routing_node Expected: 273 Got: 484
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:altar Expected: 253 Got: 485
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_stairs_3 Expected: 292 Got: 486
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_stairs_2 Expected: 291 Got: 487
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_stairs_1 Expected: 290 Got: 488
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:mimic Expected: 279 Got: 489
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:alchemy_table Expected: 269 Got: 490
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:item_routing_node Expected: 276 Got: 491
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:teleposer Expected: 259 Got: 492
+[10:35:05] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: bloodmagic:demon_crystallizer Expected: 267 Got: 493
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_holding Expected: 4361 Got: 4398
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_sword Expected: 4387 Got: 4399
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: thaumcraft:condenser Expected: 4270 Got: 4400
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:points_upgrade Expected: 4398 Got: 4401
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_teleposition Expected: 4362 Got: 4402
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:bound_axe Expected: 4342 Got: 4403
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_wall_1 Expected: 4323 Got: 4404
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:monster_soul Expected: 4384 Got: 4405
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_suppression Expected: 4353 Got: 4406
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_extras Expected: 4316 Got: 4407
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:upgrade_tome Expected: 4381 Got: 4408
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_light Expected: 4322 Got: 4409
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_brick_2 Expected: 4315 Got: 4410
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_brick_1 Expected: 4314 Got: 4411
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:potion_flask Expected: 4400 Got: 4412
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:alchemic_vial Expected: 4401 Got: 4413
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_divination Expected: 4344 Got: 4414
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:arcane_ashes Expected: 4383 Got: 4415
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:living_armour_leggings Expected: 4374 Got: 4416
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:pack_sacrifice Expected: 4334 Got: 4417
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:bound_shovel Expected: 4343 Got: 4418
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: thaumcraft:condenser_lattice Expected: 4271 Got: 4419
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:teleposition_focus Expected: 4369 Got: 4420
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:ritual_diviner Expected: 4337 Got: 4421
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_crucible Expected: 4301 Got: 4422
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_blood_light Expected: 4350 Got: 4423
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:pack_self_sacrifice Expected: 4335 Got: 4424
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: forge:bucketfilled Expected: 4286 Got: 4425
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:item_demon_crystal Expected: 4368 Got: 4426
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:soul_forge Expected: 4299 Got: 4427
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:ritual_stone Expected: 4297 Got: 4428
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_armour_helmet Expected: 4376 Got: 4429
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_axe Expected: 4390 Got: 4430
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_claw Expected: 4364 Got: 4431
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_pylon Expected: 4302 Got: 4432
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:soul_gem Expected: 4385 Got: 4433
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:soul_snare Expected: 4386 Got: 4434
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:blood_tank Expected: 4312 Got: 4435
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:inversion_pillar_end Expected: 4328 Got: 4436
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_seer Expected: 4356 Got: 4437
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_magnetism Expected: 4352 Got: 4438
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:master_routing_node Expected: 4308 Got: 4439
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:node_router Expected: 4393 Got: 4440
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:altar_maker Expected: 4380 Got: 4441
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_stairs_3 Expected: 4326 Got: 4442
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_stairs_2 Expected: 4325 Got: 4443
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_stairs_1 Expected: 4324 Got: 4444
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_lava Expected: 4347 Got: 4445
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:blood_orb Expected: 4329 Got: 4446
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:living_armour_boots Expected: 4375 Got: 4447
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_compression Expected: 4359 Got: 4448
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:alchemy_table Expected: 4305 Got: 4449
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:teleposer Expected: 4298 Got: 4450
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_whirlwind Expected: 4358 Got: 4451
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:path Expected: 4307 Got: 4452
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_elemental_affinity Expected: 4351 Got: 4453
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_will_gauge Expected: 4399 Got: 4454
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:cutting_fluid Expected: 4396 Got: 4455
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_pickaxe Expected: 4391 Got: 4456
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:living_armour_chest Expected: 4373 Got: 4457
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:incense_altar Expected: 4300 Got: 4458
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:base_fluid_filter Expected: 4395 Got: 4459
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:bound_sword Expected: 4340 Got: 4460
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_ender_severance Expected: 4360 Got: 4461
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:upgrade_trainer Expected: 4382 Got: 4462
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_transposition Expected: 4363 Got: 4463
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:icarus_scroll Expected: 4402 Got: 4464
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_phantom_bridge Expected: 4357 Got: 4465
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:blood_shard Expected: 4371 Got: 4466
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_crystal Expected: 4304 Got: 4467
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: thaumcraft:condenser_lattice_dirty Expected: 4272 Got: 4468
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_armour_leggings Expected: 4378 Got: 4469
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sacrificial_dagger Expected: 4333 Got: 4470
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_void Expected: 4348 Got: 4471
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_armour_chest Expected: 4377 Got: 4472
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:bound_pickaxe Expected: 4341 Got: 4473
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:living_armour_helmet Expected: 4372 Got: 4474
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:ritual_controller Expected: 4296 Got: 4475
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:decorative_brick Expected: 4306 Got: 4476
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:slate Expected: 4331 Got: 4477
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: thaumcraft:causality_collapser Expected: 4439 Got: 4478
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_armour_gem Expected: 4389 Got: 4479
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_air Expected: 4345 Got: 4480
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:inversion_pillar Expected: 4327 Got: 4481
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:inscription_tool Expected: 4332 Got: 4482
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:blood_rune Expected: 4295 Got: 4483
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_2 Expected: 4318 Got: 4484
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_fast_miner Expected: 4355 Got: 4485
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_1 Expected: 4317 Got: 4486
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:input_routing_node Expected: 4309 Got: 4487
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_water Expected: 4346 Got: 4488
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_armour_boots Expected: 4379 Got: 4489
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_bounce Expected: 4365 Got: 4490
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_shovel Expected: 4392 Got: 4491
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:output_routing_node Expected: 4310 Got: 4492
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:ritual_reader Expected: 4338 Got: 4493
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_cap_3 Expected: 4321 Got: 4494
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_haste Expected: 4354 Got: 4495
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_cap_1 Expected: 4319 Got: 4496
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_pillar_cap_2 Expected: 4320 Got: 4497
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sentient_bow Expected: 4388 Got: 4498
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: thaumcraft:void_siphon Expected: 4273 Got: 4499
+[10:35:05] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:activation_crystal Expected: 4330 Got: 4500
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:component Expected: 4367 Got: 4501
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:experience_tome Expected: 4370 Got: 4502
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sanguine_book Expected: 4397 Got: 4503
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:altar Expected: 4294 Got: 4504
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:dagger_of_sacrifice Expected: 4336 Got: 4505
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:base_item_filter Expected: 4394 Got: 4506
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_green_grove Expected: 4349 Got: 4507
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:mimic Expected: 4313 Got: 4508
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:lava_crystal Expected: 4339 Got: 4509
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:item_routing_node Expected: 4311 Got: 4510
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:sigil_frost Expected: 4366 Got: 4664
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: botania:livingwood0wall Expected: 4664 Got: 4848
+[10:35:06] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: bloodmagic:demon_crystallizer Expected: 4303 Got: 4849
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:soul_fray Expected: 30 Got: 36
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:fire_fuse Expected: 31 Got: 37
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:deafness Expected: 34 Got: 39
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:bounce Expected: 35 Got: 40
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:sacrificial_lamb Expected: 37 Got: 41
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:constrict Expected: 32 Got: 42
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:cling Expected: 36 Got: 43
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:boost Expected: 0 Got: 44
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:planar_binding Expected: 28 Got: 45
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:soul_snare Expected: 29 Got: 46
+[10:35:06] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: bloodmagic:plant_leech Expected: 33 Got: 47
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:soul_arrow Expected: 86 Got: 125
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:pool_minecart Expected: 78 Got: 126
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:player_mover Expected: 80 Got: 127
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:babylon_weapon Expected: 82 Got: 128
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:meteor Expected: 87 Got: 129
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:magic_landmine Expected: 71 Got: 130
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:magic_missile Expected: 74 Got: 131
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: thaumcraft:causalitycollapser Expected: 123 Got: 132
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:corrupted_zombie Expected: 106 Got: 133
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:signal_flare Expected: 38 Got: 134
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:soul_snare Expected: 85 Got: 135
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:spark Expected: 72 Got: 136
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:corrupted_sheep Expected: 107 Got: 137
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:corrupted_chicken Expected: 108 Got: 138
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:thrown_item Expected: 73 Got: 139
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:pink_wither Expected: 79 Got: 140
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:mimic Expected: 89 Got: 141
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:ender_air_bottle Expected: 77 Got: 142
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:blood_light Expected: 84 Got: 143
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:mana_burst Expected: 0 Got: 144
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:pixie Expected: 39 Got: 145
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:vine_ball Expected: 49 Got: 146
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:falling_star Expected: 83 Got: 147
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:thorn_chakram Expected: 75 Got: 148
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:corporea_spark Expected: 76 Got: 149
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:flame_ring Expected: 48 Got: 150
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:doppleganger Expected: 70 Got: 151
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: botania:mana_storm Expected: 81 Got: 152
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:sentient_specter Expected: 88 Got: 153
+[10:35:06] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: bloodmagic:corrupted_spider Expected: 109 Got: 154
+[10:35:06] [Server thread/INFO] [FML]: Applying holder lookups
+[10:35:06] [Server thread/INFO] [FML]: Holder lookups applied
+[10:35:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 536 advancements
+[10:35:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 8 advancement trees
+[10:35:07] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[10:35:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (world)
+[10:35:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
+[10:35:08] [Server thread/INFO] [Sponge]: Loading world [world] (overworld)
+[10:35:08] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 536 advancements
+[10:35:08] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 8 advancement trees
+[10:35:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[10:35:08] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (the_nether)
+[10:35:08] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 536 advancements
+[10:35:08] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 8 advancement trees
+[10:35:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[10:35:08] [Server thread/INFO] [Sponge]: Loading world [DIM1] (the_end)
+[10:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (31.283s)! For help, type "help" or "?"
+[10:35:08] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
+[10:35:08] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[10:35:09] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[10:35:09] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[10:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUnknown command. Try /help for a list of commands§r
+[10:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUnknown command. Try /help for a list of commands§r
+[10:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cMods§r§f (§r§f17§r§f): §r§aMinecraft§r, §r§aMinecraft Coder Pack§r, §r§aForge Mod Loader§r, §r§aMinecraft Forge§r, §r§aSpongeAPI§r, §r§aSpongeForge§r, §r§aBackpack§r, §r§aBaubles§r, §r§aBlood Magic: Alchemical Wizardry§r, §r§aBotania§r, §r§aGuide-API§r, §r§aInventory Tweaks§r, §r§aJourneyMap§r, §r§aJust Enough Items§r, §r§aThaumcrafft Inventory Scanning§r, §r§aThaumcraft§r, §r§aWaila§r
