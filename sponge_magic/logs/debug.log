@@ -10530,3 +10530,14 @@ Caused by: java.lang.NullPointerException
 [10:18:49] [Server thread/DEBUG] [mixin]: Mixing enchantment.MixinEnchantmentHelper_No_Source_Leak from mixins.common.optimization.json into net.minecraft.enchantment.EnchantmentHelper
 [10:18:52] [Server thread/DEBUG] [mixin]: Mixing world.MixinChunkCache from mixins.common.core.json into net.minecraft.world.ChunkCache
 [10:19:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cMods§r§f (§r§f14§r§f): §r§aMinecraft§r, §r§aMinecraft Coder Pack§r, §r§aForge Mod Loader§r, §r§aMinecraft Forge§r, §r§aSpongeAPI§r, §r§aSpongeForge§r, §r§aBackpack§r, §r§aBaubles§r, §r§aInventory Tweaks§r, §r§aJourneyMap§r, §r§aJust Enough Items§r, §r§aThaumcrafft Inventory Scanning§r, §r§aThaumcraft§r, §r§aWaila§r
+[10:19:19] [Server thread/DEBUG] [mixin]: Mixing world.storage.MixinThreadedFileIOBase from mixins.common.core.json into net.minecraft.world.storage.ThreadedFileIOBase
+[10:19:19] [Server thread/DEBUG] [mixin]: Mixing network.play.server.MixinSPacketPlayerListItem from mixins.common.core.json into net.minecraft.network.play.server.SPacketPlayerListItem
+[10:19:19] [Server thread/TRACE] [mixin]: Added class metadata for org/spongepowered/common/interfaces/network/play/server/IMixinSPacketPlayerListItem to metadata cache
+[10:19:34] [Server thread/DEBUG] [mixin]: Mixing data.MixinDataHolder from mixins.common.core.json into org.spongepowered.common.entity.player.SpongeUser
+[10:19:34] [Server thread/DEBUG] [mixin]: Mixing command.MixinSubject from mixins.common.core.json into org.spongepowered.common.entity.player.SpongeUser
+[10:19:34] [Server thread/DEBUG] [mixin]: Mixing data.MixinCustomDataHolder from mixins.common.core.json into org.spongepowered.common.entity.player.SpongeUser
+[10:19:34] [Server thread/DEBUG] [mixin]: Mixing entity.player.MixinSpongeUser from mixins.common.core.json into org.spongepowered.common.entity.player.SpongeUser
+[10:19:34] [Server thread/DEBUG] [mixin]: Mixing world.MixinWorldServerMulti from mixins.common.core.json into net.minecraft.world.WorldServerMulti
+[10:19:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:20:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:21:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
